@@ -4,7 +4,7 @@ import sys
 import os
 import logging
 from typing import Union
-# from langchain_groq import ChatGroq
+# from langchain_xai import ChatXAI
 
 current_dir = os.path.abspath(__file__)
 parent_dir = os.path.dirname(current_dir)
@@ -15,7 +15,7 @@ sys.path.append(grandparent_dir)
 from prompts.job_application_prompts import HR_PROMPT, EDITOR_PROMPT, YOU_PROMPT
 from tools.resume_tools import generate_resume_tool, pgcount_tool, save_resume_json
 
-# llm=ChatGroq(temperature=0.4,
+# llm=ChatXAI(temperature=0.4,
 #              model_name="llama3-70b-8192",
 #              api_key='')
 

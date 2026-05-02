@@ -1,8 +1,8 @@
-# CV Agents — Project Specification
+# Agente da Meia Idade — Especificação do Projeto
 
 ## 1. O que foi pedido
 
-Transformar o repositório `cv-agents` em um agente inteligente capaz de:
+Transformar o repositório `mid-life-agent` em um agente inteligente capaz de:
 
 - **Reescrever e reposicionar** o currículo do usuário de acordo com o perfil de cada vaga
 - **Gerar N versões** do currículo, uma por perfil-alvo, incluindo (mas não limitado a):
@@ -11,7 +11,7 @@ Transformar o repositório `cv-agents` em um agente inteligente capaz de:
   - Engenheiro de Dados (Data Engineer)
   - Engenheiro de IA (AI Engineer)
   - (demais perfis configuráveis)
-- Suporte a múltiplos provedores de LLM: **OpenAI, Gemini, Groq e Anthropic (Claude)**
+- Suporte a múltiplos provedores de LLM: **OpenAI, Gemini, Grok (xAI) e Anthropic (Claude)**
 
 ---
 
@@ -48,7 +48,7 @@ Transformar o repositório `cv-agents` em um agente inteligente capaz de:
 - Autenticado via `OPENAI_API_KEY` no `.env`
 
 ### Inativo (comentado)
-- **Groq `llama3-70b-8192`** — código presente mas comentado; pacote `langchain-groq` não está em `requirements.txt`
+- **Grok** — código presente mas comentado; pacote `langchain-xai` não está em `requirements.txt`
 
 ### Não presentes
 - Anthropic (Claude) — não configurado
@@ -161,7 +161,7 @@ O CrewAI aceita qualquer `llm=` compatível com a interface LangChain. A estrat�
 | OpenAI | `langchain-openai` | `gpt-4o` | `OPENAI_API_KEY` |
 | Anthropic | `langchain-anthropic` | `claude-sonnet-4-6` | `ANTHROPIC_API_KEY` |
 | Google Gemini | `langchain-google-genai` | `gemini-1.5-pro` | `GOOGLE_API_KEY` |
-| Groq | `langchain-groq` | `llama3-70b-8192` | `GROQ_API_KEY` |
+| Grok | `langchain-xai` | `grok-2-latest` | `XAI_API_KEY` |
 
 ### 5.2 LLM Factory (novo módulo: `src/llm_factory.py`)
 
@@ -186,9 +186,9 @@ def get_llm(provider: str = None, temperature: float = 0.4):
         from langchain_google_genai import ChatGoogleGenerativeAI
         return ChatGoogleGenerativeAI(temperature=temperature, model="gemini-1.5-pro")
 
-    elif provider == "groq":
-        from langchain_groq import ChatGroq
-        return ChatGroq(temperature=temperature, model_name="llama3-70b-8192")
+    elif provider == "grok":
+        from langchain_xai import ChatXAI
+        return ChatXAI(temperature=temperature, model="grok-2-latest")
 
     else:
         raise ValueError(f"Provedor não suportado: {provider}")
@@ -197,14 +197,14 @@ def get_llm(provider: str = None, temperature: float = 0.4):
 ### 5.3 `.env` Unificado
 
 ```env
-# Provedor ativo (openai | anthropic | gemini | groq)
+# Provedor ativo (openai | anthropic | gemini | grok)
 LLM_PROVIDER=openai
 
 # Chaves de API — preencha apenas a do provedor ativo
 OPENAI_API_KEY=
 ANTHROPIC_API_KEY=
 GOOGLE_API_KEY=
-GROQ_API_KEY=
+XAI_API_KEY=
 ```
 
 ### 5.4 Dependências por Provedor (`requirements.txt`)
@@ -221,7 +221,7 @@ crewai-tools
 langchain-openai          # OpenAI / GPT-4o
 langchain-anthropic        # Anthropic / Claude
 langchain-google-genai     # Google / Gemini
-langchain-groq             # Groq / LLaMA3
+langchain-xai              # Grok / xAI
 ```
 
 ### 5.5 Considerações por Provedor
@@ -231,7 +231,7 @@ langchain-groq             # Groq / LLaMA3
 | OpenAI `gpt-4o` | Melhor qualidade geral, padrão testado | Custo mais alto |
 | Anthropic `claude-sonnet-4-6` | Excelente para escrita/reposicionamento | Requer `langchain-anthropic` |
 | Google `gemini-1.5-pro` | Contexto longo (1M tokens), custo baixo | Qualidade de escrita ligeiramente inferior |
-| Groq `llama3-70b-8192` | Velocidade extrema, custo zero (free tier) | Janela de contexto menor, pode perder consistência em loops |
+| Grok `grok-2-latest` | Rápido, atualizado em tempo real com X | Custos de API da xAI |
 
 ---
 
