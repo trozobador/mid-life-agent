@@ -1,0 +1,38 @@
+Título do Cargo: Gerente de Produto de Tecnologia (Technical Product Manager)
+Nível: Sênior / Pleno
+
+Responsabilidades Principais:
+- Definir e comunicar visão, estratégia e roadmap de produto orientado a dados e tecnologia
+- Priorizar backlog com base em impacto de negócio, esforço técnico e feedback de usuários
+- Atuar como ponte entre equipes de engenharia, design, dados e stakeholders de negócio
+- Conduzir pesquisas de usuário, análise de mercado e benchmark competitivo
+- Definir e acompanhar métricas de sucesso (KPIs, OKRs, North Star Metric)
+- Colaborar com times de data para instrumentação de produto e análises de comportamento
+- Gerenciar lançamentos de produto e coordenar comunicação de features com marketing e sales
+- Garantir alinhamento entre desenvolvimento técnico e necessidades de negócio
+- Facilitar cerimônias ágeis e garantir fluxo de entrega do time
+
+Ferramentas Esperadas:
+- Gestão de produto: Jira, Linear, Notion, Confluence, Productboard, Aha!
+- Analytics: Mixpanel, Amplitude, Heap, Google Analytics, Metabase
+- Prototipagem e design: Figma, Miro
+- Dados: SQL básico, dashboards em BI (Tableau, Power BI, Looker)
+- Comunicação: Slack, Loom, apresentações executivas
+- Metodologias: Agile, Scrum, Shape Up, Jobs-to-be-Done, OKRs
+
+Palavras-chave ATS:
+product management, product roadmap, backlog prioritization, user research, stakeholder management, OKR, KPI, agile, scrum, product strategy, go-to-market, MVP, A/B testing, data-driven decisions, customer discovery, product-market fit, cross-functional, Jira, Figma, analytics, B2B, SaaS, growth
+
+Soft Skills Valorizadas:
+- Pensamento estratégico com capacidade de execução tática
+- Habilidade de influenciar sem autoridade formal
+- Comunicação assertiva com perfis técnicos e executivos
+- Empatia com o usuário e foco em resolução de problemas reais
+- Gestão de ambiguidade e tomada de decisão com dados incompletos
+
+Diferenciais Competitivos:
+- Background técnico (engenharia, dados) em combinação com visão de produto
+- Experiência em produtos B2B SaaS em estágio de crescimento ou scale-up
+- Certificações: CSPO, PMI-ACP, Product School
+- Histórico de lançamento de produtos que geraram crescimento mensurável
+- Experiência com IA/ML features em produtos digitais

@@ -1,256 +1,313 @@
 {
   "basics": {
-    "name": "Cynthia Dwayne",
-    "label": "Senior Software Developer",
-    "email": "cynthia@beamjobs.com",
-    "phone": "(123) 456-7890",
-    "url": "https://cynthiadwayne.dev",
-    "summary": "Results-driven Senior Software Developer with 12+ years of experience in full-stack development, cloud technologies, and agile methodologies. Proven track record in developing scalable, well-documented code, leading successful migrations, and optimizing system performance. Passionate about creating efficient, user-centric solutions, mentoring junior developers, and driving innovation in high-growth environments.",
+    "name": "Ricardo Martins",
+    "label": "Tech Lead | Arquiteto de Soluções | AI Engineer | Cientista de Dados",
+    "email": "ricardo.parallax@gmail.com",
+    "phone": "(34) 98433-1954",
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "summary": "Profissional de TI com mais de 30 anos de experiência, sendo 15 anos em liderança técnica de projetos complexos. Atuação em empresas de médio e grande porte nos setores financeiro, mineração, call center, consultoria (software house) e metalurgia. Experiência em modernização de backoffices, desenvolvimento de RPAs e aplicações em nuvem (Azure, AWS, Copilot Studio). Grande facilidade em traduzir necessidades de negócio em soluções técnicas robustas e escaláveis, com forte conhecimento em integração de tecnologias. Perfil movido a desafios, resiliente, colaborativo, com foco em solução de problemas e atendimento ao cliente.",
     "location": {
-      "city": "Brooklyn",
-      "countryCode": "US",
-      "region": "NY"
+      "city": "Uberlândia",
+      "countryCode": "BR",
+      "region": "MG"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "cynthiadwayne",
-        "url": "https://www.linkedin.com/in/cynthiadwayne"
-      },
-      {
-        "network": "GitHub",
-        "username": "cynthiadwayne",
-        "url": "https://github.com/cynthiadwayne"
-      },
-      {
-        "network": "Twitter",
-        "username": "cynthia_codes",
-        "url": "https://twitter.com/cynthia_codes"
+        "username": "costaricardomartins",
+        "url": "https://www.linkedin.com/in/costaricardomartins/"
       }
     ]
   },
   "work": [
     {
-      "name": "QuickBooks",
-      "position": "Senior Software Developer",
-      "location": "New York, NY",
-      "startDate": "2017-01",
-      "endDate": "Present",
+      "name": "BlueCX",
+      "position": "Desenvolvedor Microsoft Dynamics",
+      "location": "",
+      "startDate": "2025-04",
+      "endDate": "2026-04",
       "highlights": [
-        "Led development of a microservices architecture, improving system scalability by 40% and reducing latency by 25%",
-        "Implemented CI/CD pipeline using Jenkins and Docker, reducing deployment time by 60% and improving release frequency by 3x",
-        "Spearheaded the payments team to optimize cash flow for over 50,000 customers, resulting in a 15% increase in on-time payments",
-        "Led migration from AWS to GCP, reducing cloud costs by $260,000 per year and improving overall system performance by 30%",
-        "Re-architected invoice processing system, saving customers 125,000+ manual hours per month and increasing accuracy by 98%",
-        "Mentored 5 junior developers, implemented a peer code review process, and established best practices documentation, improving team productivity by 20%",
-        "Initiated and led bi-weekly tech talks, fostering a culture of continuous learning and innovation within the engineering department"
+        "Sou responsável por manter e evoluir todo o módulo de eventos de Marketing do Dynamics 365, garantindo estabilidade e alinhamento com as áreas de negócio.",
+        "Liderei a implantação do Marketing de Evento no Dynamics 365, alcançando redução de aproximadamente 95% nos bugs reportados relacionados a esse módulo.",
+        "Automatizei a integração do Dynamics com sistemas legados via API REST, utilizando autenticação OAuth e serviços em AWS para assegurar segurança, escalabilidade e desempenho.",
+        "Treinei e mentorei 3 desenvolvedores backend para atuarem com soluções focadas em Microsoft Dynamics, disseminando boas práticas de arquitetura e desenvolvimento.",
+        "Foco principal em Azure AI Service, Azure Cognitive Services, Power Platform, Azure DataFactory e Azure Databricks.",
+        "Atuo fortemente com C# e Python em análises e extração de dados, incluindo a criação de um modelo de predição de participação em eventos para otimizar a compra de materiais e investimentos em marketing.",
+        "Arquitetura de soluções no ecossistema Microsoft Azure e AWS: Copilot Studio, Power Automate, Azure AI Studio, Azure OpenAI Services e serviços de DataLake.",
+        "Atuação como arquiteto de IA utilizando o stack disponível no Azure, migrando para papel de integrador ou desenvolvedor conforme a necessidade do projeto.",
+        "Integração fluída entre componentes de IA: conectei o Copilot Studio a bancos de vetores (RAG) para tornar o assistente especialista no negócio do cliente.",
+        "Integração de Azure OpenAI Services com sistemas legados via API REST, garantindo segurança (OAuth), escalabilidade e desempenho.",
+        "Desenvolvimento de modelos de ML integrados ao Copilot e Azure AI para entrega de conhecimento especializado em processos de negócio e industriais — superando a limitação generalista das IAs generativas.",
+        "Criação de modelo de predição de participação em eventos para otimizar compra de materiais e investimentos de marketing.",
+        "Gestão pós-implantação: curadoria de conteúdo, métricas de uso, expansão de funcionalidades e governança de custos de componentes de IA.",
+        "Experiência em pivotar modelos para manter em produção a solução com melhor custo-benefício.",
+        "Escalabilidade de agentes: tanto agentes no Copilot Studio quanto agentes RAG operando com Azure OpenAI.",
+        "Atuação em projeto estratégico de Customer Insights para uma das maiores cooperativas de crédito do país.",
+        "Responsável por manter e evoluir o ecossistema Dynamics já implantado, colaborando diretamente com times multifuncionais na ideação e desenvolvimento de novas funcionalidades.",
+        "Foco em melhorias contínuas, correção de bugs, e apoio técnico aos squads.",
+        "Destaque para participação ativa na migração do módulo de Marketing para a nova versão Dynamics 365 Customer Insights – Journeys, garantindo continuidade operacional e aderência aos novos padrões da Microsoft.",
+        "Suporte técnico e desenvolvimento de novas features no módulo de Customer Insights.",
+        "Apoio na ideação e validação técnica de soluções propostas por squads internos.",
+        "Participação ativa na migração do módulo de Marketing para a nova versão Dynamics Journeys.",
+        "Contribuição para otimização de processos e melhoria da experiência do usuário final.",
+        "Aplicação de análise de dados e automações inteligentes em Customer Insights.",
+        "Participação em projetos orientados a dados para melhoria da experiência do cliente.",
+        "Integração de sistemas com foco em coleta e uso estratégico de dados."
       ]
     },
     {
-      "name": "AMR",
-      "position": "Front-End Developer",
-      "location": "New York, NY",
-      "startDate": "2014-01",
-      "endDate": "2016-12",
+      "name": "NTT DATA Europe & Latam",
+      "position": "Arquiteto Microsoft Dynamics",
+      "location": "Remoto – Brasil",
+      "startDate": "2024-05",
+      "endDate": "2025-01",
       "highlights": [
-        "Developed reusable components for in-house UI library, saving 125+ development hours monthly and improving consistency across products",
-        "Created web app MVP for store delivery management platform serving 200+ business customers using React and Redux, resulting in 40% faster order processing",
-        "Enhanced meditation app (5,000+ monthly users) with audio/video upload features, increasing user engagement by 35% and session duration by 25%",
-        "Improved customer conversion rate by 17% through A/B testing and UX optimizations, generating $500,000+ in incremental annual revenue",
-        "Collaborated with UX/UI designers to implement responsive design, improving mobile user satisfaction by 45%",
-        "Optimized front-end performance, reducing page load times by 40% and improving SEO rankings"
+        "Liderança de projetos de implementação do Microsoft Dynamics 365 em grandes clientes.",
+        "Conduzi iniciativas de integração com Azure, Power Platform e automações via IA, priorizando performance, segurança e escalabilidade. Essas ações resultaram na padronização de processos de CRM e na redução do retrabalho operacional em vendas de sistemas IoT 5G.",
+        "Ferramenta com IA para recomendar horários e abordagens de contato com leads.",
+        "Responsável pelo desenvolvimento de softwares em JavaScript para customização do Microsoft Dynamics e pelo desenho da arquitetura de integrações entre o Dynamics e sistemas legados.",
+        "Atuação ativa nos ritos do Scrum, apoiando a equipe na solução de problemas.",
+        "Realização de análise de requisitos técnicos e funcionais, modelagem de dados e validação de documentação.",
+        "Assegurar a aplicação de boas práticas de desenvolvimento, como TDD, BDD e CI/CD.",
+        "Gerenciar a comunicação e colaboração entre equipes técnicas e não técnicas.",
+        "Realizar 1:1 com liderados, visando propor melhorias contínuas nos processos e entregas do time.",
+        "Customização do Microsoft Dynamics para atender a área de apoio ao financiamento de veículos."
       ]
     },
     {
-      "name": "TechInnovate",
-      "position": "Software Engineer",
-      "location": "New York, NY",
-      "startDate": "2013-01",
-      "endDate": "2013-12",
+      "name": "Sistema Educacional Brasileiro S.A. (SEB)",
+      "position": "Arquiteto de Soluções Dynamics e Azure",
+      "location": "",
+      "startDate": "2022-06",
+      "endDate": "2023-09",
       "highlights": [
-        "Developed and maintained RESTful APIs using Python and Django, serving 10,000+ daily active users with 99.9% uptime",
-        "Implemented automated testing suite using Pytest, increasing code coverage from 60% to 95% and reducing bug reports by 40%",
-        "Optimized database queries and implemented caching strategies, reducing average page load time by 30% and improving user experience",
-        "Collaborated with UX team to redesign main dashboard, improving user engagement by 25% and reducing customer support tickets by 15%",
-        "Contributed to open-source projects, including bug fixes and performance improvements for popular Python libraries"
+        "Reimplantação do Microsoft Dynamics, reduzindo erros em Plugins e Flow.",
+        "Code Review, ritos do Scrum, análise de performance da equipe.",
+        "Prova de conceito das integrações e entrega de relatórios para Stakeholders e OKRs.",
+        "Criação de sistema de vendas de matrículas intuitivo, reduzindo burocracia de contratação de Up Selling sem necessidade dos pais comparecerem à unidade escolar, para aproximadamente 18 unidades que matricularam 8 mil alunos.",
+        "Negociação de budget diretamente com stakeholders para garantir o andamento do projeto.",
+        "Criação de soluções baseadas em dados para otimização de processos de vendas e atendimento.",
+        "Implementação de soluções orientadas a dados para otimização de processos."
       ]
     },
     {
-      "name": "Kelly",
-      "position": "Help Desk Analyst",
-      "location": "New York, NY",
-      "startDate": "2012-06",
-      "endDate": "2013-01",
+      "name": "Adentis Portugal",
+      "position": "Microsoft Dynamics 365 Specialist and System Architect",
+      "location": "Portugal",
+      "startDate": "2020-01",
+      "endDate": "2022-05",
       "highlights": [
-        "Diagnosed and resolved technical issues for 30+ clients daily, maintaining a 92% first-call resolution rate",
-        "Created and managed user accounts for 50+ clients weekly, ensuring proper access levels and security protocols",
-        "Developed and maintained comprehensive technical documentation, reducing average call handling time by 20%",
-        "Received 'Employee of the Month' award for exceptional customer service and problem-solving skills"
+        "Desenvolvimento de novas funcionalidades e suporte em projetos em toda a Europa (Portugal, Alemanha e Dinamarca).",
+        "Criação de app para leitura de notas fiscais físicas usando Computer Vision, integrado a sistema de análise de risco de crédito."
+      ]
+    },
+    {
+      "name": "Algar Tech",
+      "position": "Especialista Dynamics",
+      "location": "Uberlândia – MG",
+      "startDate": "2015-08",
+      "endDate": "2020-01",
+      "highlights": [
+        "Revitalização completa do BackOffice com Dynamics 365.",
+        "Desenvolvimento de ferramenta interna de RPA com .NET Core e Selenium, atendendo mais de 8 milhões de interações/mês.",
+        "Responsável por estabilizar o ambiente existente para reduzir os erros e aumentar a produtividade das equipes de Backoffice existentes no Call Center do banco Bradesco.",
+        "Desenvolver uma customização padrão do Dynamics para uso em todas as operações internas da Algar visando reduzir o custo e o tempo de instalação.",
+        "Revitalização do BackOffice utilizando Dynamics da Algar Tech, substituindo entidades personalizadas por entidades nativas da ferramenta, elevando a confiabilidade do produto e reduzindo o custo das melhorias seguintes.",
+        "Desenvolvimento de ferramenta de RPA interna utilizando C#, .Net Core e Selenium para minimizar custos com licenciamento de ferramentas de RPA, atendendo um volume de aproximadamente 8 milhões de interações mensais.",
+        "Foco principal em Azure AI Service, Azure Cognitive services, Power platform, Azure DataFactory e Azure Databricks."
+      ]
+    },
+    {
+      "name": "CAST Informática SA",
+      "position": "Desenvolvedor .NET",
+      "location": "Presencial",
+      "startDate": "2014-04",
+      "endDate": "2015-08",
+      "highlights": [
+        "Atuei no Ministério das Relações Exteriores como terceiro, desenvolvendo um projeto de permissionamento usando OAuth para os sistemas internos do órgão, com C# e Angular, utilizando SQL Server como banco de dados."
+      ]
+    },
+    {
+      "name": "AlfaPeople",
+      "position": "Arquiteto .NET",
+      "location": "Presencial",
+      "startDate": "2013-02",
+      "endDate": "2014-04",
+      "highlights": [
+        "Desenvolvi inúmeros projetos de integração entre o Microsoft Dynamics 2011 e sistemas externos.",
+        "Desenvolvi um portal de atendimento ao Cliente acoplado ao Dynamics que permitia a clientes externos e internos abrir e acompanhar tickets tratados no Dynamics.",
+        "Desenvolvi uma ferramenta de importação de dados não estruturados para o Microsoft Dynamics.",
+        "Ferramentas utilizadas: C# e Javascript."
+      ]
+    },
+    {
+      "name": "L3 Informática",
+      "position": "Arquiteto de Soluções",
+      "location": "Presencial",
+      "startDate": "2009-10",
+      "endDate": "2012-12",
+      "highlights": [
+        "Desenvolvi inúmeros projetos de integração entre o Microsoft Dynamics 2011 e sistemas externos."
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Delaware",
-      "area": "Computer Science",
-      "studyType": "Bachelor of Science",
-      "location": "Newark, DE",
-      "startDate": "2008-08",
-      "endDate": "2012-05",
-      "gpa": "3.8",
-      "courses": [
-        "Data Structures and Algorithms",
-        "Database Systems",
-        "Computer Networks",
-        "Software Engineering",
-        "Artificial Intelligence",
-        "Web Development"
-      ]
+      "institution": "Anhanguera",
+      "area": "Ciências de Dados",
+      "studyType": "Bacharelado",
+      "location": "",
+      "startDate": null,
+      "endDate": "2027-02",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "UFABC",
+      "area": "Engenharia em Gestão de Projetos",
+      "studyType": "Pós-graduação",
+      "location": "",
+      "startDate": null,
+      "endDate": "2015-12",
+      "gpa": "",
+      "courses": []
     }
   ],
   "skills": [
     {
-      "name": "Programming Languages",
+      "name": "CRM & Microsoft Ecosystem",
       "keywords": [
-        "Python",
-        "JavaScript (ES6+)",
+        "Microsoft Dynamics 365 (CRM/CE)",
+        "Power Platform (geral)",
+        "Power Automate",
+        "Power Apps",
+        "Power BI",
+        "Copilot Studio (ex-Power Virtual Agents)",
+        "Dynamics 365 Customer Insights",
+        "Dynamics 365 Customer Insights – Journeys"
+      ]
+    },
+    {
+      "name": "Linguagens de Programação",
+      "keywords": [
+        "C# / .NET",
+        "JavaScript",
         "TypeScript",
-        "Java",
-        "C++",
-        "Ruby"
-      ]
-    },
-    {
-      "name": "Web Technologies",
-      "keywords": [
-        "React",
-        "Redux",
-        "Node.js",
-        "Express.js",
-        "Django",
-        "Flask",
-        "HTML5",
-        "CSS3",
-        "SASS/LESS"
-      ]
-    },
-    {
-      "name": "Database",
-      "keywords": [
-        "PostgreSQL",
-        "MySQL",
-        "MongoDB",
-        "Redis",
-        "Elasticsearch"
+        "Python"
       ]
     },
     {
       "name": "Cloud & DevOps",
       "keywords": [
-        "AWS (EC2, S3, Lambda)",
-        "GCP (Compute Engine, Cloud Storage)",
+        "Azure Functions",
+        "Azure Logic Apps",
+        "Azure DevOps",
+        "AWS",
         "Docker",
-        "Kubernetes",
-        "Jenkins",
-        "GitLab CI",
-        "Terraform"
+        "Git / GitHub",
+        "CI/CD",
+        "TDD / BDD"
       ]
     },
     {
-      "name": "Tools & Methodologies",
+      "name": "Banco de Dados",
       "keywords": [
-        "Git",
-        "JIRA",
-        "Agile/Scrum",
-        "TDD",
-        "CI/CD",
-        "Microservices Architecture"
+        "SQL Server"
+      ]
+    },
+    {
+      "name": "IA & Dados",
+      "keywords": [
+        "Machine Learning (supervisionado/não supervisionado)",
+        "IA Generativa / LLMs",
+        "Agentes inteligentes",
+        "Azure AI Studio",
+        "Azure OpenAI Services",
+        "Azure Cognitive Services",
+        "Computer Vision",
+        "Copilot Studio (Incluindo integração com bancos de vetores para especialização de domínio)",
+        "Azure DataLake",
+        "Azure DataFactory",
+        "Azure Databricks",
+        "Scikit-Learn",
+        "Pandas / NumPy"
+      ]
+    },
+    {
+      "name": "Ferramentas",
+      "keywords": [
+        "Visual Studio",
+        "Visual Studio Code",
+        "Selenium (Testes e RPA)",
+        "Figma",
+        "Postman / Insomnia",
+        "React"
       ]
     }
   ],
   "certificates": [
     {
-      "name": "AWS Certified Solutions Architect - Professional",
-      "issuer": "Amazon Web Services",
-      "date": "2023-05"
+      "name": "Microsoft Certified: Power Platform Developer Associate",
+      "issuer": "Microsoft",
+      "date": "2025-12"
     },
     {
-      "name": "Google Cloud Professional Cloud Architect",
-      "issuer": "Google Cloud",
-      "date": "2022-11"
+      "name": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+      "issuer": "Microsoft",
+      "date": "2025-12"
     },
     {
-      "name": "Certified Kubernetes Administrator (CKA)",
-      "issuer": "Cloud Native Computing Foundation",
-      "date": "2021-09"
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)",
+      "issuer": "Microsoft",
+      "date": "2023-12"
+    },
+    {
+      "name": "Microsoft Certified: Power Platform Fundamentals (PL-900)",
+      "issuer": "Microsoft",
+      "date": "2023-12"
+    },
+    {
+      "name": "Microsoft Certified Technology Specialist: Dynamics CRM 2011 Customization and Configuration",
+      "issuer": "Microsoft",
+      "date": "2013-12"
     }
   ],
   "projects": [
     {
-      "name": "OpenSource Contribution Tracker",
-      "description": "Developed a web application to track and showcase open-source contributions for developers",
-      "highlights": [
-        "Built with React, Node.js, and MongoDB",
-        "Integrates with GitHub API to automatically fetch contribution data",
-        "Implemented user authentication and profile management"
-      ],
+      "name": "Ferramenta de RPA Interna",
+      "description": "Desenvolvimento de uma ferramenta de RPA interna para a Algar Tech, utilizando C#, .NET Core e Selenium, para automatizar processos de backoffice e reduzir custos com licenciamento de ferramentas de RPA, atendendo um volume de aproximadamente 8 milhões de interações mensais.",
+      "highlights": [],
       "keywords": [
-        "React",
-        "Node.js",
-        "MongoDB",
-        "GitHub API"
+        "RPA",
+        "C#",
+        ".NET Core",
+        "Selenium",
+        "Automação de Processos"
       ],
-      "url": "https://github.com/cynthiadwayne/opensource-tracker"
+      "url": ""
     },
     {
-      "name": "AI-Powered Code Review Assistant",
-      "description": "Created a machine learning model to assist in code reviews by identifying potential bugs and suggesting improvements",
-      "highlights": [
-        "Utilized Python and TensorFlow for model development",
-        "Integrated with GitLab CI for automated code analysis",
-        "Reduced manual code review time by 30%"
-      ],
+      "name": "Revitalização do BackOffice",
+      "description": "Reestruturação completa do BackOffice da Algar Tech utilizando Dynamics 365, substituindo entidades personalizadas por entidades nativas da ferramenta para elevar a confiabilidade do produto e reduzir custos de melhorias futuras.",
+      "highlights": [],
       "keywords": [
-        "Python",
-        "TensorFlow",
-        "Machine Learning",
-        "GitLab CI"
+        "Dynamics 365",
+        "BackOffice",
+        "Otimização de Processos",
+        "CRM"
       ],
-      "url": "https://github.com/cynthiadwayne/ai-code-reviewer"
+      "url": ""
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
+      "language": "Português",
+      "fluency": "Native"
     },
     {
-      "language": "Spanish",
-      "fluency": "Professional working proficiency"
+      "language": "Inglês",
+      "fluency": "Advanced (B2 - Leitura e escrita)"
     }
   ],
-  "interests": [
-    {
-      "name": "Open Source Contribution",
-      "keywords": [
-        "Python libraries",
-        "JavaScript frameworks"
-      ]
-    },
-    {
-      "name": "Tech Blogging",
-      "keywords": [
-        "Software architecture",
-        "Best practices",
-        "Emerging technologies"
-      ]
-    },
-    {
-      "name": "Hackathons",
-      "keywords": [
-        "AI/ML challenges",
-        "Web development competitions"
-      ]
-    }
-  ]
+  "interests": []
 }

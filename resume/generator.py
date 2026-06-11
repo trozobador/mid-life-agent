@@ -92,7 +92,7 @@ def generate_latex_resume(json_data):
 \textbf{\href{}{\Large """ + escape_latex(json_data['basics']['name']) + r"""}} & Email: \href{mailto:""" + escape_latex(json_data['basics']['email']) + r"""}{\faEnvelope} """ + escape_latex(json_data['basics']['email']) + r""" \\
 """
 
-    for profile in json_data['basics']['profiles']:
+    for profile in json_data['basics'].get('profiles', []):
         if profile['network'].lower() == 'linkedin':
             latex_content += r"\href{" + profile['url'] + r"}{LinkedIn: " + escape_latex(profile['username']) + r"} \\"
         elif profile['network'].lower() == 'github':
@@ -138,9 +138,12 @@ def generate_latex_resume(json_data):
 """
 
     for edu in json_data['education']:
+        start = edu.get('startDate') or ''
+        end = edu.get('endDate') or ''
+        date_range = f"{start} - {end}" if start else end
         latex_content += r"""
 \resumeSubheading
-{""" + escape_latex(edu['institution']) + r"""}{""" + edu['startDate'] + r" - " + edu['endDate'] + r"""}
+{""" + escape_latex(edu['institution']) + r"""}{""" + date_range + r"""}
 {""" + escape_latex(edu['studyType']) + r" in " + escape_latex(edu['area']) + r"""}{""" + escape_latex(edu.get('location', '')) + r"""}
 """
 
@@ -191,12 +194,17 @@ def render_resume(json_file_path, output_file_path):
     print(f"LaTeX resume has been generated and saved to {output_file_path}")
 
 
-def generate():
+def generate(
+    json_path: str = "outputs/json/resume.json",
+    latex_path: str = "outputs/latex/output_resume.tex",
+    pdf_dir: str = "outputs/pdf",
+):
     """
     Generates a resume from a JSON file and converts it to PDF.
+    Paths are configurable to support per-profile output directories.
     """
-    render_resume("outputs/json/resume.json", "outputs/latex/output_resume.tex")
-    render_latex_to_pdf("outputs/latex/output_resume.tex", "outputs/pdf")
+    render_resume(json_path, latex_path)
+    render_latex_to_pdf(latex_path, pdf_dir)
 
 if __name__ == "__main__":
     generate()

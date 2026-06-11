@@ -1,0 +1,40 @@
+Título do Cargo: Especialista Microsoft Dynamics 365 / ERP Consultant
+Nível: Sênior / Consultor
+
+Responsabilidades Principais:
+- Implementar, configurar e personalizar soluções Microsoft Dynamics 365 (Finance, Sales, Customer Service, Supply Chain)
+- Conduzir workshops de levantamento de requisitos com stakeholders e usuários de negócio
+- Mapear processos de negócio (As-Is / To-Be) e propor soluções dentro do ecossistema Dynamics
+- Desenvolver integrações entre Dynamics 365 e sistemas legados ou third-party (ERP, CRM, BI)
+- Criar e manter customizações usando Power Platform (Power Apps, Power Automate, Power BI)
+- Suportar atividades de migração de dados (data migration, data mapping, data cleansing)
+- Conduzir treinamentos e transferência de conhecimento para usuários e equipes técnicas
+- Atuar como ponte entre área técnica e negócio em projetos de implementação
+- Documentar soluções, fluxos e configurações
+
+Stack Técnica Esperada:
+- Microsoft Dynamics 365 (F&O, Sales, Customer Service, Field Service, Supply Chain)
+- Microsoft Power Platform: Power Apps, Power Automate, Power BI, Dataverse
+- Azure: Azure Logic Apps, Azure Functions, Azure Service Bus, Azure API Management
+- X++ (programação customizada no Dynamics 365 F&O)
+- C# para desenvolvimento de plugins e extensões
+- SQL Server
+- REST APIs e integrações via OData
+- Metodologias de implementação: Microsoft Sure Step, Agile, Scrum
+
+Palavras-chave ATS:
+Microsoft Dynamics 365, D365, ERP, CRM, Finance and Operations, F&O, Power Platform, Power Apps, Power Automate, Power BI, Dataverse, Azure, X++, business process mapping, implementation, customization, integration, data migration, stakeholder management, functional consultant, technical consultant, Sure Step
+
+Soft Skills Valorizadas:
+- Comunicação clara com perfis não-técnicos e executivos
+- Gestão de expectativas e stakeholders em projetos complexos
+- Habilidade de estruturar e conduzir workshops e treinamentos
+- Capacidade de trabalhar em múltiplos projetos simultaneamente
+- Orientação para entrega de valor ao negócio, não apenas implementação técnica
+
+Diferenciais Competitivos:
+- Certificações Microsoft: MB-300, MB-310, MB-500, PL-200, PL-400
+- Experiência em verticais específicas: manufatura, varejo, serviços profissionais, saúde
+- Histórico comprovado de implementações full-cycle D365
+- Experiência com migrações de AX 2012 para D365 Cloud
+- Conhecimento em ISV solutions do ecossistema Dynamics

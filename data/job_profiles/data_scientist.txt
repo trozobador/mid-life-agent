@@ -1,0 +1,39 @@
+Título do Cargo: Cientista de Dados (Data Scientist)
+Nível: Sênior / Pleno
+
+Responsabilidades Principais:
+- Desenvolver e validar modelos preditivos e prescritivos usando técnicas de ML/DL
+- Conduzir análises exploratórias (EDA) para extrair insights de negócio a partir de dados complexos
+- Construir e manter pipelines de feature engineering e treinamento de modelos
+- Colaborar com equipes de produto e engenharia para traduzir perguntas de negócio em soluções analíticas
+- Comunicar resultados e recomendações para stakeholders técnicos e não-técnicos
+- Monitorar performance de modelos em produção e identificar degradações (model drift)
+- Conduzir experimentos A/B e testes estatísticos para validar hipóteses
+- Contribuir para a cultura de dados da organização por meio de documentação e boas práticas
+
+Stack Técnica Esperada:
+- Python (NumPy, Pandas, Scikit-Learn, XGBoost, LightGBM)
+- Deep Learning: TensorFlow, Keras ou PyTorch
+- Visualização: Matplotlib, Seaborn, Plotly, Tableau, Power BI
+- SQL avançado e bancos de dados analíticos (BigQuery, Redshift, Snowflake)
+- MLOps: MLflow, Weights & Biases, DVC
+- Cloud: AWS SageMaker, GCP Vertex AI ou Azure ML
+- Git, Jupyter Notebooks, Docker
+
+Palavras-chave ATS (Applicant Tracking Systems):
+machine learning, deep learning, modelos preditivos, NLP, computer vision, regressão, classificação, clustering, series temporais, feature engineering, A/B testing, statistical modeling, Python, SQL, TensorFlow, PyTorch, Scikit-Learn, MLflow, data-driven, insights, storytelling com dados, KPIs, ROI, uplift modeling
+
+Soft Skills Valorizadas:
+- Capacidade de contar histórias com dados (data storytelling)
+- Pensamento crítico e rigor científico
+- Curiosidade intelectual e aprendizado contínuo
+- Comunicação clara com audiências não-técnicas
+- Autonomia para conduzir projetos end-to-end
+- Colaboração multidisciplinar
+
+Diferenciais Competitivos:
+- Publicações ou contribuições em open source (Kaggle, GitHub, arXiv)
+- Experiência com LLMs, RAG ou Fine-tuning de modelos de linguagem
+- Certificações: Google Professional ML Engineer, AWS ML Specialty, TensorFlow Developer
+- MBA ou especialização em Analytics, Estatística ou áreas correlatas
+- Experiência em domínios como finanças, saúde, varejo, indústria
