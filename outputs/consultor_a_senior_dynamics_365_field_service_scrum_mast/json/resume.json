@@ -1,0 +1,47 @@
+{
+  "name": "Ricardo Martins",
+  "title": "Consultor S\u00eanior Dynamics 365 Field Service - Scrum Master",
+  "contact_information": {
+    "email": "ricardo.martins@email.com",
+    "phone": "+55 11 99999-9999",
+    "linkedin": "linkedin.com/in/ricardomartins"
+  },
+  "summary": "Experienced IT leader with a strong background in Microsoft Dynamics 365 and proven expertise as a Scrum Master. Skilled in Agile Scrum practices and international team collaboration, aiming to leverage my skills in a senior consulting role.",
+  "certifications": [
+    "Microsoft Certified: Dynamics 365 Fundamentals",
+    "Microsoft Certified: Power Platform Fundamentals",
+    "Certified ScrumMaster (CSM)"
+  ],
+  "professional_experience": [
+    {
+      "job_title": "Arquiteto Microsoft Dynamics",
+      "company": "Tech Solutions",
+      "location": "S\u00e3o Paulo, Brazil",
+      "date": "Jan 2018 - Present",
+      "responsibilities": [
+        "Lead architect for Dynamics 365 projects, ensuring alignment with business goals and Agile methodologies.",
+        "Facilitated Scrum ceremonies including sprint planning, daily stand-ups, and retrospectives to enhance team performance and deliverables.",
+        "Coordinated with international teams across Europe and North America to deliver seamless project integration and stakeholder satisfaction.",
+        "Implemented Agile Scrum practices to improve project delivery times by 20%.",
+        "Managed stakeholder coordination and communication to ensure project transparency and alignment."
+      ]
+    },
+    {
+      "job_title": "Desenvolvedor Microsoft Dynamics",
+      "company": "Global Tech",
+      "location": "Remote",
+      "date": "Jun 2015 - Dec 2017",
+      "responsibilities": [
+        "Developed and customized solutions within Microsoft Dynamics 365 to meet client needs.",
+        "Collaborated with international teams in Asia and Europe to support global client projects.",
+        "Participated in Agile Scrum practices to enhance development efficiency and team collaboration.",
+        "Assisted in the facilitation of Scrum ceremonies to support project managers and Scrum Masters."
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Science in Information Technology",
+    "institution": "University of S\u00e3o Paulo",
+    "year": "2015"
+  }
+}

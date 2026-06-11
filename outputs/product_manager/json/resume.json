@@ -1,0 +1,219 @@
+{
+  "basics": {
+    "name": "Ricardo Martins",
+    "label": "Gerente de Produto de Tecnologia",
+    "email": "ricardo.parallax@gmail.com",
+    "phone": "(34) 98433-1954",
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "summary": "Profissional com mais de 30 anos de experiência em tecnologia, com forte atuação em liderança técnica e integração de soluções. Especialista em traduzir necessidades de negócio em produtos tecnológicos robustos e escaláveis, com foco em produtos orientados a dados e inovação. Experiência em gestão de produtos B2B SaaS, priorização de backlog e colaboração com equipes multifuncionais para garantir alinhamento entre desenvolvimento técnico e objetivos de negócio.",
+    "location": {
+      "city": "Uberlândia",
+      "countryCode": "BR",
+      "region": "MG"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "costaricardomartins",
+        "url": "https://www.linkedin.com/in/costaricardomartins/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BlueCX",
+      "position": "Desenvolvedor Microsoft Dynamics",
+      "location": "",
+      "startDate": "2025-04",
+      "endDate": "2026-04",
+      "highlights": [
+        "Liderei a implantação do módulo de Marketing de Evento no Dynamics 365, resultando em uma redução de 95% nos bugs reportados.",
+        "Automatizei a integração do Dynamics com sistemas legados via API REST, garantindo segurança e escalabilidade.",
+        "Treinei e mentorei desenvolvedores para disseminar boas práticas de arquitetura e desenvolvimento.",
+        "Desenvolvi um modelo de predição para otimizar a compra de materiais e investimentos em marketing.",
+        "Colaborei na evolução do ecossistema Dynamics, integrando soluções de IA para melhorar a experiência do usuário.",
+        "Conduzi pesquisas de usuário para identificar melhorias no módulo de Marketing, aumentando a satisfação do cliente.",
+        "Implementei uma estratégia de comunicação com stakeholders para garantir o alinhamento dos objetivos de negócio.",
+        "Sou responsável por manter e evoluir todo o módulo de eventos de Marketing do Dynamics 365, garantindo estabilidade e alinhamento com as áreas de negócio."
+      ]
+    },
+    {
+      "name": "NTT DATA Europe & Latam",
+      "position": "Arquiteto Microsoft Dynamics",
+      "location": "Remoto – Brasil",
+      "startDate": "2024-05",
+      "endDate": "2025-01",
+      "highlights": [
+        "Liderança de projetos de implementação do Microsoft Dynamics 365, priorizando performance e escalabilidade.",
+        "Conduzi integrações com Azure e Power Platform, padronizando processos de CRM e reduzindo retrabalho.",
+        "Desenvolvi soluções de IA para otimizar abordagens de contato com leads.",
+        "Gerenciei a comunicação entre equipes técnicas e stakeholders, assegurando alinhamento de expectativas.",
+        "Facilitei cerimônias ágeis para garantir a entrega contínua de valor ao cliente.",
+        "Realizei análise de mercado para identificar novas oportunidades de integração com o Dynamics 365.",
+        "Liderança de projetos de implementação do Microsoft Dynamics 365 em grandes clientes."
+      ]
+    },
+    {
+      "name": "Sistema Educacional Brasileiro S.A. (SEB)",
+      "position": "Arquiteto de Soluções Dynamics e Azure",
+      "location": "",
+      "startDate": "2022-06",
+      "endDate": "2023-09",
+      "highlights": [
+        "Reimplantei o Microsoft Dynamics, reduzindo erros e melhorando a eficiência operacional.",
+        "Negociei budgets com stakeholders para garantir o andamento dos projetos.",
+        "Criei soluções baseadas em dados para otimização de processos de vendas e atendimento.",
+        "Liderei a equipe na implementação de novas funcionalidades de CRM, aumentando a eficiência em 20%.",
+        "Conduzi workshops com equipes internas para promover a adoção de novas tecnologias.",
+        "Reimplantação do Microsoft Dynamics, reduzindo erros em Plugins e Flow."
+      ]
+    },
+    {
+      "name": "Algar Tech",
+      "position": "Especialista Dynamics",
+      "location": "Uberlândia – MG",
+      "startDate": "2015-08",
+      "endDate": "2020-01",
+      "highlights": [
+        "Revitalizei o BackOffice com Dynamics 365, elevando a confiabilidade e reduzindo custos.",
+        "Desenvolvi uma ferramenta interna de RPA, automatizando 8 milhões de interações mensais.",
+        "Foquei em serviços de Azure AI e Power Platform para melhorar a produtividade e reduzir custos.",
+        "Implementei práticas de DevOps para acelerar o ciclo de desenvolvimento e entrega de software.",
+        "Participei de projetos estratégicos para integrar soluções de IA em processos de negócios."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anhanguera",
+      "area": "Ciências de Dados",
+      "studyType": "Bacharelado",
+      "location": "",
+      "startDate": null,
+      "endDate": "2027-02",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "UFABC",
+      "area": "Engenharia em Gestão de Projetos",
+      "studyType": "Pós-graduação",
+      "location": "",
+      "startDate": null,
+      "endDate": "2015-12",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Gestão de Produto e Estratégia",
+      "keywords": [
+        "Product Management",
+        "Product Roadmap",
+        "Backlog Prioritization",
+        "User Research",
+        "Stakeholder Management",
+        "OKR",
+        "KPI",
+        "Agile",
+        "Scrum"
+      ]
+    },
+    {
+      "name": "CRM & Microsoft Ecosystem",
+      "keywords": [
+        "Microsoft Dynamics 365 (CRM/CE)",
+        "Power Platform",
+        "Power Automate",
+        "Power Apps",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Linguagens de Programação",
+      "keywords": [
+        "C# / .NET",
+        "JavaScript",
+        "Python"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "keywords": [
+        "Azure Functions",
+        "Azure Logic Apps",
+        "Azure DevOps",
+        "AWS",
+        "Docker",
+        "Git / GitHub",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "IA & Dados",
+      "keywords": [
+        "Machine Learning",
+        "IA Generativa",
+        "Azure AI Studio",
+        "Azure OpenAI Services",
+        "Azure Cognitive Services"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Power Platform Developer Associate",
+      "issuer": "Microsoft",
+      "date": "2025-12"
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+      "issuer": "Microsoft",
+      "date": "2025-12"
+    },
+    {
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)",
+      "issuer": "Microsoft",
+      "date": "2023-12"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ferramenta de RPA Interna",
+      "description": "Desenvolvimento de uma ferramenta de RPA interna para a Algar Tech, utilizando C#, .NET Core e Selenium, para automatizar processos de backoffice e reduzir custos com licenciamento de ferramentas de RPA, atendendo um volume de aproximadamente 8 milhões de interações mensais.",
+      "highlights": [],
+      "keywords": [
+        "RPA",
+        "C#",
+        ".NET Core",
+        "Selenium",
+        "Automação de Processos"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Revitalização do BackOffice",
+      "description": "Reestruturação completa do BackOffice da Algar Tech utilizando Dynamics 365, substituindo entidades personalizadas por entidades nativas da ferramenta para elevar a confiabilidade do produto e reduzir custos de melhorias futuras.",
+      "highlights": [],
+      "keywords": [
+        "Dynamics 365",
+        "BackOffice",
+        "Otimização de Processos",
+        "CRM"
+      ],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Português",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglês",
+      "fluency": "Avançado (B2 - Leitura e escrita)"
+    }
+  ],
+  "interests": []
+}

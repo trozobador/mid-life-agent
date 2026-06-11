@@ -1,0 +1,170 @@
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{fontawesome}
+\usepackage{xcolor}
+\usepackage{amsmath}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+    \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeCertification}[2]{%
+  \item
+  \begin{tabular*}{0.97\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+    #1 & \text{#2} \\
+  \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1: #2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0em, itemindent=0em, label={}, itemsep=0ex]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+\textbf{\href{}{\Large Ricardo Martins}} & Email: \href{mailto:ricardo.parallax@gmail.com}{\faEnvelope} ricardo.parallax@gmail.com \\
+\href{https://www.linkedin.com/in/costaricardomartins/}{LinkedIn: costaricardomartins} \\\hspace{10pt} & Phone: (34) 98433-1954\\\end{tabular*}
+
+%-----------SKILLS-----------------
+\section{Skills}
+\resumeSubHeadingListStart
+\resumeSubItem{\textbf{Microsoft Dynamics 365}}{D365 Sales, D365 Customer Service, D365 Customer Insights, D365 Customer Insights – Journeys, D365 Field Service, Implementação full-cycle, Customização \& Configuração, Plugins \& Extensões, Business Process Mapping (As-Is/To-Be), Functional \& Technical Consultant, Dynamics CRM 2011–2016 → D365 Cloud}
+\resumeSubItem{\textbf{Power Platform \& Azure}}{Power Apps, Power Automate, Power BI, Dataverse, Copilot Studio, Azure Logic Apps, Azure Functions, Azure Service Bus, Azure API Management, REST APIs, OData}
+\resumeSubItem{\textbf{Linguagens \& Dados}}{C\#, .NET, JavaScript, TypeScript, Python, X++ (em desenvolvimento), SQL Server, Data Migration, Data Mapping, Data Cleansing, ETL}
+\resumeSubItem{\textbf{Metodologias}}{Agile, Scrum, Microsoft Sure Step, CI/CD, TDD, BDD, Stakeholder Management, OKRs}
+\resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------------
+\section{Work Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{BlueCX}{2025-04 – Present}
+{D365 Functional \& Technical Consultant}{Brasil}
+\resumeItemListStart
+\resumeItem{Conduz projeto estratégico de Customer Insights para uma das maiores cooperativas de crédito do Brasil, mantendo e evoluindo o ecossistema Dynamics 365 em colaboração com times multifuncionais.}
+\resumeItem{Liderou migração do módulo de Marketing para Dynamics 365 Customer Insights – Journeys, garantindo continuidade operacional e zero impacto ao usuário final durante a transição.}
+\resumeItem{Desenvolve novas features com automações inteligentes (Power Automate, Dataverse) e integra sistemas com foco em coleta e uso estratégico de dados para melhoria de jornadas do cliente.}
+\resumeItem{Conduz workshops de validação técnica com squads internos e apoia transferência de conhecimento para equipes de negócio.}
+\resumeItemListEnd
+
+\resumeSubheading
+{NTT DATA Europe \& Latam}{2024-05 – 2025-01}
+{Arquiteto Microsoft Dynamics 365 | D365 Solution Architect}{Brasil}
+\resumeItemListStart
+\resumeItem{Liderou implementações full-cycle D365 em grandes clientes, atuando como ponte entre equipes técnicas e stakeholders executivos para garantir aderência a requisitos e entrega de valor.}
+\resumeItem{Desenhou arquitetura de integrações entre D365 e sistemas legados via Azure Logic Apps, Azure Functions e Azure Service Bus, priorizando performance, segurança e escalabilidade.}
+\resumeItem{Conduziu levantamento de requisitos funcionais/técnicos, mapeamento de processos As-Is/To-Be e documentação de soluções; resultou em padronização de CRM e redução de retrabalho operacional em vendas IoT 5G.}
+\resumeItem{Gerenciou comunicação entre equipes técnicas e não técnicas, assegurando boas práticas (TDD, BDD, CI/CD) e atuação ativa nos ritos do Scrum.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Sistema Educacional Brasileiro S.A.}{2022-06 – 2023-09}
+{Arquiteto de Soluções Dynamics 365 e Azure}{Brasil}
+\resumeItemListStart
+\resumeItem{Reimplantou o Microsoft Dynamics 365 para 500+ unidades escolares, eliminando erros críticos em Plugins e Flows e restabelecendo a estabilidade do ambiente de produção.}
+\resumeItem{Criou sistema de vendas de matrículas integrado ao D365, reduzindo burocracia no Up Selling e eliminando necessidade de presença física — aumentando conversão e experiência do cliente.}
+\resumeItem{Conduziu workshops de levantamento de requisitos, code review, provas de conceito de integrações e entrega de OKRs para stakeholders executivos; negociou budget garantindo prazo e escopo.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Adentis Portugal}{2020-01 – 2022-05}
+{Microsoft Dynamics 365 Specialist \& System Architect}{Portugal}
+\resumeItemListStart
+\resumeItem{Desenvolveu novas funcionalidades e conduziu treinamentos e transferência de conhecimento em projetos de implementação D365 para clientes em toda a Europa.}
+\resumeItem{Criou app integrado ao D365 para leitura automatizada de notas fiscais via Computer Vision, integrado a sistema de análise de risco de crédito — reduzindo tempo de processamento manual e aumentando acurácia dos dados.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Algar Tech}{2015-08 – 2020-01}
+{Especialista Dynamics 365 | ERP \& CRM Consultant}{Brasil}
+\resumeItemListStart
+\resumeItem{Atuou por 4,5 anos como Especialista D365 em grande empresa de tecnologia, conduzindo implementações, customizações e configurações de módulos CRM (Sales, Customer Service) para múltiplos clientes simultaneamente.}
+\resumeItem{Realizou levantamento de requisitos, mapeamento de processos, treinamento de usuários finais e knowledge transfer para equipes técnicas e de negócio, utilizando metodologia Agile/Scrum.}
+\resumeItem{Desenvolveu ferramentas internas de RPA e modernizou backoffice, integrando sistemas via REST APIs e OData; trabalhou com ambientes Dynamics CRM legados (CRM 2011/2015/2016) e transição para D365 Cloud.}
+\resumeItem{Gerenciou stakeholders em projetos complexos com múltiplos squads, entregando soluções de automação e integração que reduziram retrabalho operacional.}
+\resumeItemListEnd
+
+\resumeSubheading
+{AlfaPeople / CAST Informática / L3 Informática}{2009-10 – 2015-08}
+{Arquiteto .NET \& Microsoft Dynamics Consultant}{Brasil}
+\resumeItemListStart
+\resumeItem{Atuou como Arquiteto .NET e Consultor Dynamics em consultorias especializadas Microsoft, desenvolvendo customizações em C\#/.NET, plugins e integrações para clientes do ecossistema Dynamics CRM.}
+\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{Education}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Estácio}{ - 2027-02}
+{Bacharelado in Ciências de Dados}{Brasil}
+
+\resumeSubheading
+{UFABC}{ - 2015}
+{Pós-graduação in Engenharia em Gestão de Projetos}{Brasil}
+\resumeSubHeadingListEnd
+
+\section{Projects}
+\resumeSubHeadingListStart
+\resumeSubHeadingListEnd
+
+%-----------CERTIFICATIONS-----------------
+\section{Certifications}
+\resumeSubHeadingListStart
+\resumeCertification{Microsoft Certified: Power Platform Developer Associate (PL-400)}{2025}{}{}
+\resumeCertification{Microsoft Certified: Azure AI Fundamentals (AI-900)}{2025}{}{}
+\resumeCertification{Microsoft Certified: Dynamics 365 Fundamentals CRM (MB-910)}{2023}{}{}
+\resumeCertification{Microsoft Certified: Power Platform Fundamentals (PL-900)}{2023}{}{}
+\resumeCertification{MCTS: Microsoft Dynamics CRM 2011 Customization \& Configuration}{2013}{}{}
+\resumeSubHeadingListEnd
+\end{document}

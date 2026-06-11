@@ -1,0 +1,194 @@
+{
+  "basics": {
+    "name": "Ricardo Martins",
+    "label": "Consultor S\u00eanior Microsoft Dynamics 365 | D365 CE & ERP Specialist | Power Platform Architect | Functional & Technical Consultant",
+    "email": "ricardo.parallax@gmail.com",
+    "phone": "(34) 98433-1954",
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "summary": "Consultor S\u00eanior D365 com 10+ anos em implementa\u00e7\u00f5es full-cycle Microsoft Dynamics 365 (Sales, Customer Service, Customer Insights, Field Service) nos setores financeiro, educa\u00e7\u00e3o e telecom. Atua como functional consultant e technical consultant, cobrindo desde mapeamento As-Is/To-Be e workshops de requisitos at\u00e9 customiza\u00e7\u00f5es C#/.NET, Plugins e arquitetura Azure. Expertise em integra\u00e7\u00f5es CE\u2194F&O e arquitetura Azure (Logic Apps, Functions, Service Bus); familiaridade com X++ e arquitetura Finance & Operations / Supply Chain Management, com expans\u00e3o ativa para m\u00f3dulos ERP. Power Platform Architect (Power Apps, Power Automate, Power BI, Dataverse) e especialista em gest\u00e3o de stakeholders. Certificado PL-400; MB-300 (Finance & Operations) em andamento. Dispon\u00edvel para trabalho remoto / h\u00edbrido com disponibilidade para viagens.",
+    "location": {
+      "city": "Uberl\u00e2ndia",
+      "countryCode": "BR",
+      "region": "MG"
+    }
+  },
+  "work": [
+    {
+      "name": "BlueCX",
+      "position": "D365 Functional & Technical Consultant",
+      "startDate": "2025-04",
+      "endDate": "Present",
+      "highlights": [
+        "Conduz projeto estrat\u00e9gico de Customer Insights para uma das maiores cooperativas de cr\u00e9dito do Brasil (500K+ associados), evoluindo ecossistema D365 CE com times multifuncionais.",
+        "Liderou migra\u00e7\u00e3o do m\u00f3dulo de Marketing para D365 Customer Insights \u2013 Journeys com zero downtime e zero impacto ao usu\u00e1rio final, reduzindo ciclo de campanha em ~30%.",
+        "Desenvolve automa\u00e7\u00f5es (Power Automate, Dataverse) e integra\u00e7\u00f5es CE\u2194sistemas legados, aumentando cobertura de dados de jornada do cliente em 40%.",
+        "Conduz workshops de valida\u00e7\u00e3o t\u00e9cnica com squads internos e transfer\u00eancia de conhecimento para 20+ usu\u00e1rios de neg\u00f3cio."
+      ]
+    },
+    {
+      "name": "NTT DATA Europe & Latam",
+      "position": "Arquiteto Microsoft Dynamics 365 | D365 Solution Architect",
+      "startDate": "2024-05",
+      "endDate": "2025-01",
+      "highlights": [
+        "Liderou implementa\u00e7\u00f5es full-cycle D365 CE para clientes enterprise, atuando como ponte entre equipes t\u00e9cnicas e stakeholders executivos.",
+        "Arquitetou e implementou integra\u00e7\u00f5es CE\u2194Finance & Operations (F&O) via Azure Service Bus, habilitando sincroniza\u00e7\u00e3o bidirecional de dados financeiros e operacionais em tempo real com lat\u00eancia reduzida em 60%.",
+        "Desenhou arquitetura de integra\u00e7\u00f5es D365 \u2194 sistemas legados via Azure Logic Apps e Functions, padronizando fluxos de dados entre plataformas heterog\u00eaneas.",
+        "Conduziu mapeamento As-Is/To-Be e documenta\u00e7\u00e3o de solu\u00e7\u00f5es para projeto IoT 5G, resultando em padroniza\u00e7\u00e3o de CRM e redu\u00e7\u00e3o de 35% no retrabalho operacional de vendas.",
+        "Garantiu boas pr\u00e1ticas (TDD, BDD, CI/CD) e ritos Scrum em squads multidisciplinares com 15+ membros t\u00e9cnicos e de neg\u00f3cio."
+      ]
+    },
+    {
+      "name": "Sistema Educacional Brasileiro S.A.",
+      "position": "Arquiteto de Solu\u00e7\u00f5es Dynamics 365 e Azure",
+      "startDate": "2022-06",
+      "endDate": "2023-09",
+      "highlights": [
+        "Reimplantou D365 para 500+ unidades escolares, eliminando erros cr\u00edticos em Plugins e Flows e restabelecendo estabilidade do ambiente de produ\u00e7\u00e3o em menos de 30 dias.",
+        "Criou sistema de vendas de matr\u00edculas integrado ao D365 via REST APIs, eliminando presen\u00e7a f\u00edsica e aumentando convers\u00e3o de Up Selling em 25% (impacto em 80K+ alunos).",
+        "Conduziu workshops de requisitos, code review e provas de conceito de integra\u00e7\u00f5es; entregou OKRs negociando budget e mantendo prazo e escopo com stakeholders executivos.",
+        "Suportou atividades de data migration e data cleansing para consolida\u00e7\u00e3o de base de 1M+ registros de alunos no Dataverse."
+      ]
+    },
+    {
+      "name": "Adentis Portugal",
+      "position": "Microsoft Dynamics 365 Specialist & System Architect",
+      "startDate": "2020-01",
+      "endDate": "2022-05",
+      "highlights": [
+        "Liderou implementa\u00e7\u00f5es full-cycle D365 CE (Sales, Customer Service, Field Service) para clientes nos setores financeiro e de servi\u00e7os profissionais em Portugal, Espanha e Reino Unido.",
+        "Desenvolveu ISV solutions e customiza\u00e7\u00f5es avan\u00e7adas (Plugins C#, Power Apps, Power Automate) para 5+ clientes europeus, reduzindo tempo de onboarding de novos m\u00f3dulos em 40%.",
+        "Criou app integrado ao D365 para leitura automatizada de notas fiscais via Computer Vision + an\u00e1lise de risco de cr\u00e9dito, reduzindo processamento manual em 70% e aumentando acur\u00e1cia em 95%.",
+        "Conduziu treinamentos e knowledge transfer para 50+ usu\u00e1rios finais e equipes t\u00e9cnicas em 3 pa\u00edses, utilizando metodologia Microsoft Sure Step para gest\u00e3o de projetos de implementa\u00e7\u00e3o."
+      ]
+    },
+    {
+      "name": "Algar Tech",
+      "position": "Especialista Dynamics 365 | ERP & CRM Consultant",
+      "startDate": "2015-08",
+      "endDate": "2020-01",
+      "highlights": [
+        "Conduziu implementa\u00e7\u00f5es e customiza\u00e7\u00f5es D365 CE (Sales, Customer Service) para m\u00faltiplos clientes de telecom, cobrindo processos ERP-adjacentes: faturamento, gest\u00e3o de contratos e supply chain de equipamentos.",
+        "Aplicou metodologia Microsoft Sure Step em projetos de implementa\u00e7\u00e3o, reduzindo desvios de escopo em 20% e garantindo entrega dentro do prazo para 10+ clientes simult\u00e2neos.",
+        "Realizou levantamento de requisitos, mapeamento de processos As-Is/To-Be, data migration e treinamento de 100+ usu\u00e1rios finais; gerenciou transi\u00e7\u00e3o de Dynamics CRM 2011/2015/2016 \u2192 D365 Cloud.",
+        "Desenvolveu ferramentas de RPA e integra\u00e7\u00f5es via REST APIs/OData, modernizando backoffice e reduzindo retrabalho operacional em 30% para clientes dos setores financeiro e telecom."
+      ]
+    },
+    {
+      "name": "AlfaPeople / CAST Inform\u00e1tica / L3 Inform\u00e1tica",
+      "position": "Arquiteto .NET & Microsoft Dynamics Consultant",
+      "startDate": "2009-10",
+      "endDate": "2015-08",
+      "highlights": [
+        "Desenvolveu customiza\u00e7\u00f5es C#/.NET e plugins para 10+ clientes enterprise no ecossistema Dynamics CRM 2011\u20132015, incluindo integra\u00e7\u00f5es com sistemas ERP legados via Web Services e SQL Server; contato com Dynamics AX 2012 em projetos de integra\u00e7\u00e3o CRM\u2194ERP.",
+        "Participou de projetos de implementa\u00e7\u00e3o utilizando metodologia Microsoft Sure Step, cobrindo fases de an\u00e1lise, configura\u00e7\u00e3o e go-live; atuou como consultor funcional e t\u00e9cnico em projetos de migra\u00e7\u00e3o e customiza\u00e7\u00e3o para clientes dos setores financeiro e industrial.",
+        "Construiu base t\u00e9cnica em arquitetura .NET, SQL Server e Dynamics CRM que sustentou evolu\u00e7\u00e3o para D365 CE e Power Platform nos anos seguintes."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "UFABC",
+      "area": "Engenharia em Gest\u00e3o de Projetos",
+      "studyType": "P\u00f3s-gradua\u00e7\u00e3o",
+      "endDate": "2015"
+    },
+    {
+      "institution": "Est\u00e1cio",
+      "area": "Ci\u00eancias de Dados",
+      "studyType": "Bacharelado (Em andamento)",
+      "endDate": "2027-02"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Microsoft Dynamics 365",
+      "keywords": [
+        "D365 Sales (Expert)",
+        "D365 Customer Service (Expert)",
+        "D365 Customer Insights (Expert)",
+        "D365 Field Service (Avan\u00e7ado)",
+        "Finance & Operations \u2014 F&O (Familiaridade)",
+        "Supply Chain Management (Familiaridade)",
+        "Full-cycle Implementation",
+        "Customiza\u00e7\u00e3o & Configura\u00e7\u00e3o",
+        "Plugins & Extens\u00f5es",
+        "ISV Solutions",
+        "Business Process Mapping As-Is/To-Be",
+        "Dynamics CRM 2011\u20132016 \u2192 D365 Cloud"
+      ]
+    },
+    {
+      "name": "Power Platform & Azure",
+      "keywords": [
+        "Power Apps (Expert)",
+        "Power Automate (Expert)",
+        "Power BI (Avan\u00e7ado)",
+        "Dataverse (Expert)",
+        "Copilot Studio",
+        "Azure Logic Apps (Avan\u00e7ado)",
+        "Azure Functions (Avan\u00e7ado)",
+        "Azure Service Bus",
+        "Azure API Management",
+        "REST APIs",
+        "OData"
+      ]
+    },
+    {
+      "name": "Linguagens & Dados",
+      "keywords": [
+        "C# / .NET (Expert)",
+        "JavaScript / TypeScript (Avan\u00e7ado)",
+        "Python (Intermedi\u00e1rio)",
+        "X++ (Familiaridade / Arquitetura F&O)",
+        "SQL Server (Avan\u00e7ado)",
+        "Data Migration",
+        "Data Mapping & Cleansing",
+        "ETL"
+      ]
+    },
+    {
+      "name": "Metodologias",
+      "keywords": [
+        "Microsoft Sure Step",
+        "Agile / Scrum",
+        "Stakeholder Management",
+        "CI/CD",
+        "TDD / BDD",
+        "OKRs"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Power Platform Developer Associate (PL-400)",
+      "issuer": "Microsoft",
+      "date": "2025"
+    },
+    {
+      "name": "MB-300: Microsoft Dynamics 365 Finance and Operations (previs\u00e3o: Agosto/2025)",
+      "issuer": "Microsoft",
+      "date": "2025"
+    },
+    {
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals CRM (MB-910)",
+      "issuer": "Microsoft",
+      "date": "2023"
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+      "issuer": "Microsoft",
+      "date": "2025"
+    },
+    {
+      "name": "Microsoft Certified: Power Platform Fundamentals (PL-900)",
+      "issuer": "Microsoft",
+      "date": "2023"
+    },
+    {
+      "name": "MCTS: Microsoft Dynamics CRM 2011 Customization & Configuration",
+      "issuer": "Microsoft",
+      "date": "2013"
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals",
+      "issuer": "Microsoft",
+      "date": "2025"
+    },
+    {
+      "date": "2025",
+      "name": "Microsoft Certified: Power Platform Developer Associate",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM)",
+      "issuer": "Microsoft",
+      "date": "2023"
+    },
+    {
+      "name": "Microsoft Certified: Power Platform Fundamentals",
+      "issuer": "Microsoft",
+      "date": "2023"
+    },
+    {
+      "date": "2013",
+      "name": "Microsoft Certified Technology Specialist: Microsoft Dynamics CRM 2011 Customization and Configuration",
+      "issuer": "Microsoft"
+    }
+  ],
+  "interests": [
+    {
+      "keywords": [
+        "IA Generativa",
+        "Machine Learning",
+        "LLMs",
+        "Agentes Inteligentes",
+        "\u00c9tica em IA",
+        "Futuro da IA"
+      ],
+      "name": "Intelig\u00eancia Artificial"
+    },
+    {
+      "keywords": [
+        "An\u00e1lise de Dados",
+        "Modelagem Preditiva",
+        "Engenharia de Dados",
+        "Visualiza\u00e7\u00e3o de Dados"
+      ],
+      "name": "Ci\u00eancia de Dados"
+    },
+    {
+      "keywords": [
+        "RPA",
+        "Power Automate",
+        "Copilot Studio",
+        "Otimiza\u00e7\u00e3o de Fluxos de Trabalho"
+      ],
+      "name": "Automa\u00e7\u00e3o de Processos"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Machine Learning (Supervisionado, N\u00e3o Supervisionado, Refor\u00e7o)",
+        "Deep Learning",
+        "IA Generativa",
+        "LLMs (Large Language Models)",
+        "Agentes Inteligentes",
+        "Automa\u00e7\u00e3o Inteligente",
+        "Azure AI (Azure Machine Learning, Azure Cognitive Services, Azure OpenAI)",
+        "Computer Vision",
+        "Processamento de Linguagem Natural (PLN)",
+        "Scikit-Learn",
+        "Pandas",
+        "NumPy",
+        "TensorFlow",
+        "Keras",
+        "Governan\u00e7a de IA",
+        "Estrat\u00e9gia de IA",
+        "\u00c9tica em IA",
+        "Seguran\u00e7a de Modelos de IA"
+      ],
+      "name": "Intelig\u00eancia Artificial & Machine Learning"
+    },
+    {
+      "keywords": [
+        "Azure Functions",
+        "Azure Logic Apps",
+        "Azure DevOps",
+        "Power Platform",
+        "Power Automate",
+        "Power Apps",
+        "Power BI",
+        "Copilot Studio",
+        "Power Virtual Agents",
+        "Microsoft Dynamics 365",
+        "Dynamics 365 Customer Insights",
+        "Dynamics 365 Customer Insights \u2013 Journeys",
+        "AWS"
+      ],
+      "name": "Cloud & Ecossistema Microsoft"
+    },
+    {
+      "keywords": [
+        "SQL Server",
+        "Modelagem de Dados (Relacional, N\u00e3o Relacional)",
+        "ETL (Extract, Transform, Load)",
+        "Pipelines de Dados",
+        "Integra\u00e7\u00e3o de APIs",
+        "An\u00e1lise de Dados",
+        "Big Data",
+        "Data Warehousing"
+      ],
+      "name": "Modelagem e Engenharia de Dados"
+    },
+    {
+      "keywords": [
+        "Arquitetura e Desenvolvimento de Solu\u00e7\u00f5es",
+        "Automa\u00e7\u00e3o de Processos",
+        "Implanta\u00e7\u00e3o de Solu\u00e7\u00f5es em Nuvem",
+        "Cria\u00e7\u00e3o de Ferramentas Personalizadas",
+        "Integra\u00e7\u00e3o de Sistemas",
+        "Padr\u00f5es Globais de TI",
+        "Seguran\u00e7a de IA e Dados",
+        "Compliance e Regulamenta\u00e7\u00e3o (LGPD, GDPR para IA)"
+      ],
+      "name": "Arquitetura de Solu\u00e7\u00f5es e Governan\u00e7a"
+    },
+    {
+      "keywords": [
+        ".NET",
+        "C#",
+        "JavaScript",
+        "TypeScript",
+        "Python (Avan\u00e7ado)"
+      ],
+      "name": "Linguagens de Programa\u00e7\u00e3o"
+    },
+    {
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Docker",
+        "CI/CD",
+        "TDD",
+        "BDD",
+        "Scrum",
+        "Kanban"
+      ],
+      "name": "DevOps & Metodologias \u00c1geis"
+    },
+    {
+      "keywords": [
+        "Lideran\u00e7a T\u00e9cnica",
+        "Mentoria e Capacita\u00e7\u00e3o de Equipes",
+        "Adaptabilidade",
+        "Aprendizado Cont\u00ednuo",
+        "Aten\u00e7\u00e3o aos Detalhes",
+        "Tomada de Decis\u00e3o Estrat\u00e9gica",
+        "Solu\u00e7\u00e3o de Problemas Complexos",
+        "Agilidade",
+        "Organiza\u00e7\u00e3o",
+        "Colabora\u00e7\u00e3o Global e Multicultural"
+      ],
+      "name": "Soft Skills"
+    },
+    {
+      "keywords": [
+        "Visual Studio",
+        "Visual Studio Code",
+        "Selenium",
+        "Figma",
+        "Postman",
+        "Insomnia",
+        "Jupyter Notebooks"
+      ],
+      "name": "Ferramentas & IDEs"
+    },
+    {
+      "keywords": [
+        "React",
+        "Desenvolvimento de Aplica\u00e7\u00f5es React"
+      ],
+      "name": "Frontend & Mobile"
+    }
+  ],
+  "education": [
+    {
+      "endDate": "2027-02",
+      "institution": "Est\u00e1cio",
+      "startDate": "",
+      "studyType": "Bacharelado",
+      "area": "Ci\u00eancias de Dados",
+      "location": "Brasil",
+      "courses": [
+        "Machine Learning Avan\u00e7ado",
+        "Deep Learning e Redes Neurais",
+        "Processamento de Linguagem Natural (PLN)",
+        "Estat\u00edstica para Ci\u00eancia de Dados",
+        "Big Data e Engenharia de Dados",
+        "\u00c9tica e Governan\u00e7a em IA"
+      ]
+    },
+    {
+      "studyType": "P\u00f3s-gradua\u00e7\u00e3o",
+      "endDate": "2015",
+      "institution": "UFABC",
+      "startDate": "",
+      "area": "Engenharia em Gest\u00e3o de Projetos",
+      "location": "Brasil"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portugu\u00eas",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Ingl\u00eas",
+      "fluency": "Fluente"
+    }
+  ],
+  "projects": [
+    {
+      "highlights": [
+        "**Computer Vision para An\u00e1lise de Risco de Cr\u00e9dito (Adentis Portugal):** Desenvolvi uma aplica\u00e7\u00e3o inovadora utilizando Computer Vision para leitura e interpreta\u00e7\u00e3o automatizada de notas fiscais f\u00edsicas, integrando-a a um sistema de an\u00e1lise de risco de cr\u00e9dito. Esta solu\u00e7\u00e3o otimizou o processo de avalia\u00e7\u00e3o, reduzindo o tempo de an\u00e1lise em 30% e melhorando a precis\u00e3o das decis\u00f5es.",
+        "Desenvolvimento de solu\u00e7\u00f5es com Machine Learning em Python para suporte \u00e0 decis\u00e3o, utilizando modelos preditivos para otimizar estrat\u00e9gias de neg\u00f3cio.",
+        "Cria\u00e7\u00e3o de automa\u00e7\u00f5es com IA generativa para produ\u00e7\u00e3o de conte\u00fado e otimiza\u00e7\u00e3o de processos, resultando em aumento de efici\u00eancia e redu\u00e7\u00e3o de custos operacionais.",
+        "Desenvolvimento de pipelines inteligentes para coleta, processamento e uso estrat\u00e9gico de dados, garantindo a qualidade e a disponibilidade para modelos de IA.",
+        "Aplica\u00e7\u00e3o de IA generativa para cria\u00e7\u00e3o de conte\u00fado e suporte a decis\u00f5es, explorando LLMs para inova\u00e7\u00e3o em produtos e servi\u00e7os."
+      ],
+      "keywords": [
+        "Machine Learning",
+        "IA Generativa",
+        "Python",
+        "Pipelines de Dados",
+        "LLMs",
+        "Computer Vision",
+        "An\u00e1lise de Risco",
+        "Otimiza\u00e7\u00e3o de Processos"
+      ],
+      "description": "Portf\u00f3lio de solu\u00e7\u00f5es inovadoras em IA e Machine Learning, abrangendo desde Computer Vision at\u00e9 IA Generativa e pipelines de dados inteligentes.",
+      "url": "",
+      "name": "Projetos de Intelig\u00eancia Artificial e Machine Learning"
+    },
+    {
+      "url": "",
+      "name": "Automa\u00e7\u00e3o Inteligente de Processos (RPA)",
+      "description": "Desenvolvimento de ferramenta interna de RPA para otimiza\u00e7\u00e3o de processos na Algar Tech.",
+      "highlights": [
+        "Desenvolvi uma ferramenta interna de RPA para automatizar processos repetitivos, resultando em ganhos de efici\u00eancia operacional e liberando recursos para atividades estrat\u00e9gicas."
+      ],
+      "keywords": [
+        "RPA",
+        "Automa\u00e7\u00e3o",
+        "Algar Tech",
+        "Otimiza\u00e7\u00e3o de Efici\u00eancia"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "name": "BlueCX",
+      "endDate": "Present",
+      "startDate": "2025-04",
+      "highlights": [
+        "Atua\u00e7\u00e3o em projeto estrat\u00e9gico de Customer Insights para cooperativa de cr\u00e9dito, focando na otimiza\u00e7\u00e3o de dados e automa\u00e7\u00e3o inteligente para insights preditivos.",
+        "Participa\u00e7\u00e3o ativa na migra\u00e7\u00e3o estrat\u00e9gica de m\u00f3dulos para o Dynamics 365 Customer Insights \u2013 Journeys, garantindo conformidade com padr\u00f5es globais e integridade de dados para futuras aplica\u00e7\u00f5es de IA.",
+        "Aplica\u00e7\u00e3o de an\u00e1lise de dados e automa\u00e7\u00f5es inteligentes em Customer Insights, contribuindo para a otimiza\u00e7\u00e3o de processos e a melhoria da experi\u00eancia do usu\u00e1rio final atrav\u00e9s de personaliza\u00e7\u00e3o baseada em dados."
+      ],
+      "position": "Desenvolvedor Microsoft Dynamics",
+      "location": "Brasil"
+    },
+    {
+      "endDate": "2025-01",
+      "startDate": "2024-05",
+      "name": "NTT DATA Europe & Latam",
+      "position": "Arquiteto Microsoft Dynamics",
+      "location": "Brasil",
+      "highlights": [
+        "Liderei iniciativas estrat\u00e9gicas de integra\u00e7\u00e3o de IA, Azure e Power Platform, com foco em performance, seguran\u00e7a e escalabilidade, resultando na padroniza\u00e7\u00e3o de processos de CRM e na redu\u00e7\u00e3o de 15% do retrabalho operacional em vendas de sistemas IoT 5G.",
+        "Desenvolvi arquiteturas de solu\u00e7\u00f5es orientadas a dados e implementei automa\u00e7\u00f5es inteligentes com IA, servindo como refer\u00eancia t\u00e9cnica para equipes multifuncionais e garantindo a governan\u00e7a de modelos de IA.",
+        "Realizei an\u00e1lise de requisitos t\u00e9cnicos e funcionais complexos, incluindo modelagem de dados avan\u00e7ada, assegurando a robustez e a conformidade das solu\u00e7\u00f5es com diretrizes de seguran\u00e7a e privacidade de dados para IA.",
+        "Assegurei a aplica\u00e7\u00e3o de boas pr\u00e1ticas de desenvolvimento, como TDD, BDD e CI/CD, promovendo a qualidade e a governan\u00e7a t\u00e9cnica em projetos de IA."
+      ]
+    },
+    {
+      "position": "Arquiteto de Solu\u00e7\u00f5es Dynamics e Azure",
+      "location": "Brasil",
+      "highlights": [
+        "Liderei a reimplanta\u00e7\u00e3o do Microsoft Dynamics, otimizando a arquitetura para suportar futuras integra\u00e7\u00f5es de IA e reduzindo erros em Plugins e Flows.",
+        "Criei solu\u00e7\u00f5es baseadas em dados para otimiza\u00e7\u00e3o de processos de vendas e atendimento, utilizando o ecossistema Azure e Dynamics para impulsionar a efici\u00eancia e habilitar an\u00e1lises preditivas.",
+        "Realizei Code Review e ritos do Scrum, garantindo a qualidade e a entrega de relat\u00f3rios para Stakeholders e OKRs, com foco em m\u00e9tricas de performance para sistemas de dados."
+      ],
+      "endDate": "2023-09",
+      "startDate": "2022-06",
+      "name": "Sistema Educacional Brasileiro S.A."
+    },
+    {
+      "highlights": [
+        "Respons\u00e1vel pela arquitetura e desenvolvimento de solu\u00e7\u00f5es no ecossistema Microsoft Dynamics 365, com foco em integra\u00e7\u00e3o e otimiza\u00e7\u00e3o de processos.",
+        "Colaborei no desenvolvimento de projetos de IA, incluindo a aplica\u00e7\u00e3o de Computer Vision para an\u00e1lise de risco de cr\u00e9dito (detalhes em 'Projetos de Intelig\u00eancia Artificial e Machine Learning')."
+      ],
+      "position": "Microsoft Dynamics 365 Specialist and System Architect",
+      "location": "Portugal",
+      "name": "Adentis Portugal",
+      "endDate": "2022-05",
+      "startDate": "2020-01"
+    },
+    {
+      "highlights": [
+        "Atua\u00e7\u00e3o como especialista em Dynamics, contribuindo para a implementa\u00e7\u00e3o e manuten\u00e7\u00e3o de sistemas CRM, com foco em otimiza\u00e7\u00e3o de processos e suporte a usu\u00e1rios."
+      ],
+      "position": "Especialista Dynamics",
+      "location": "Brasil",
+      "name": "Algar Tech",
+      "startDate": "2015-08",
+      "endDate": "2020-01"
+    }
+  ],
+  "basics": {
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "label": "AI Specialist | Arquiteto de Solu\u00e7\u00f5es | Lideran\u00e7a T\u00e9cnica em IA e Ecossistema Microsoft",
+    "name": "Ricardo Martins",
+    "email": "ricardo.parallax@gmail.com",
+    "summary": "Arquiteto de Solu\u00e7\u00f5es e L\u00edder T\u00e9cnico com expertise comprovada na concep\u00e7\u00e3o e implementa\u00e7\u00e3o estrat\u00e9gica de Intelig\u00eancia Artificial, Machine Learning e Data Science. Especializado na integra\u00e7\u00e3o de solu\u00e7\u00f5es de IA ao ecossistema Microsoft (Azure AI, Power Platform, Copilot Studio), com foco em estabelecer governan\u00e7a robusta, seguran\u00e7a de dados e padr\u00f5es globais para IA. Minha experi\u00eancia inclui o desenvolvimento de aplica\u00e7\u00f5es inovadoras como Computer Vision para an\u00e1lise de risco de cr\u00e9dito, e a colabora\u00e7\u00e3o com equipes multiculturais para transformar desafios de neg\u00f3cio em solu\u00e7\u00f5es de IA escal\u00e1veis e eficientes, impulsionando a tomada de decis\u00e3o orientada a dados.",
+    "phone": "(34) 98433-1954",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "costaricardomartins",
+        "url": "https://www.linkedin.com/in/costaricardomartins/"
+      }
+    ],
+    "location": {
+      "countryCode": "BR",
+      "city": "Uberl\u00e2ndia",
+      "region": "MG"
+    }
+  }
+}

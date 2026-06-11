@@ -1,53 +1,49 @@
 import json
+import shutil
 import subprocess
 import os
+
 
 def render_latex_to_pdf(tex_file_path, output_dir):
     """
     Renders a LaTeX file to PDF using pdflatex.
-
-    Args:
-    tex_file_path (str): The path to the LaTeX file.
-    output_dir (str): The directory where the output PDF will be saved.
-
-    Returns:
-    str: The path to the generated PDF file, or None if an error occurred.
+    Falls back to reportlab if pdflatex is not installed.
     """
-    try:
-        # Ensure output directory exists
-        os.makedirs(output_dir, exist_ok=True)
+    os.makedirs(output_dir, exist_ok=True)
+    base_name = os.path.splitext(os.path.basename(tex_file_path))[0]
 
-        # Get the base name of the tex file (without extension)
-        base_name = os.path.splitext(os.path.basename(tex_file_path))[0]
-        
-        # Run pdflatex twice to ensure all references are resolved
-        for _ in range(2):
-            subprocess.run([
-                'pdflatex',
-                '-output-directory', output_dir,
-                tex_file_path
-            ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-            
-            subprocess.run([
-                'pdflatex',
-                '-output-directory', output_dir,
-                tex_file_path
-            ], check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    if shutil.which("pdflatex"):
+        try:
+            for _ in range(2):
+                subprocess.run(
+                    ["pdflatex", "-output-directory", output_dir, tex_file_path],
+                    check=True,
+                    stdout=subprocess.DEVNULL,
+                    stderr=subprocess.DEVNULL,
+                )
+            for ext in (".aux", ".log", ".out"):
+                aux = os.path.join(output_dir, base_name + ext)
+                if os.path.exists(aux):
+                    os.remove(aux)
+            pdf_path = os.path.join(output_dir, f"{base_name}.pdf")
+            print(f"PDF generated successfully: {pdf_path}")
+            return pdf_path
+        except subprocess.CalledProcessError as e:
+            print(f"pdflatex error: {e} — falling back to reportlab")
 
-            # Delete auxiliary files (e.g., .aux, .log, .out)
-            aux_files = ['.aux', '.log', '.out']
-            for ext in aux_files:
-                aux_file = f"{tex_file_path.rsplit('.', 1)[0]}{ext}"
-                aux_file_path = os.path.join(output_dir, aux_file)
-                if os.path.exists(aux_file_path):
-                    os.remove(aux_file_path)
+    # Fallback: derive json_path from tex_file location
+    tex_dir  = os.path.dirname(os.path.abspath(tex_file_path))
+    root_dir = os.path.dirname(tex_dir)          # outputs/<role>/
+    json_path = os.path.join(root_dir, "json", "resume.json")
+    pdf_path  = os.path.join(output_dir, f"{base_name}.pdf")
 
-        pdf_path = os.path.join(output_dir, f"{base_name}.pdf")
-        print(f"PDF generated successfully: {pdf_path}")
-        return pdf_path
-    except subprocess.CalledProcessError as e:
-        print(f"Error rendering PDF: {e}")
+    if not os.path.exists(json_path):
+        print(f"pdflatex not found and JSON not available at {json_path}")
         return None
+
+    print("pdflatex not found — using reportlab to generate PDF")
+    from resume.pdf_reportlab import generate_pdf
+    return generate_pdf(json_path, pdf_path)
     
 def escape_latex(text):
     """

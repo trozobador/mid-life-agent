@@ -1,6 +1,9 @@
 backup
 __pycache__
+**/__pycache__
 .vscode/settings.json
 .DS_Store
 trained_agents_data.pkl
 .env
+.venv/
+*.pyc

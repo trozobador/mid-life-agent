@@ -1,0 +1,169 @@
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{fontawesome}
+\usepackage{xcolor}
+\usepackage{amsmath}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+    \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeCertification}[2]{%
+  \item
+  \begin{tabular*}{0.97\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+    #1 & \text{#2} \\
+  \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1: #2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0em, itemindent=0em, label={}, itemsep=0ex]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+\textbf{\href{}{\Large Ricardo Martins}} & Email: \href{mailto:ricardo.parallax@gmail.com}{\faEnvelope} ricardo.parallax@gmail.com \\
+\href{https://www.linkedin.com/in/costaricardomartins/}{LinkedIn: costaricardomartins} \\\hspace{10pt} & Phone: (34) 98433-1954\\\end{tabular*}
+
+%-----------SKILLS-----------------
+\section{Skills}
+\resumeSubHeadingListStart
+\resumeSubItem{\textbf{Microsoft Dynamics 365 \& Power Platform}}{Dynamics 365, Power Platform, Power Apps (Model-Driven, Canvas, Component Libraries), Power Automate, Dataverse, Power BI, Power Platform Connectors, D365 Customization (Plugins, Workflows, Business Rules), Security Roles (Power Platform/Dataverse), Solution Layering}
+\resumeSubItem{\textbf{Languages \& Integration}}{C\#, JavaScript, .NET, REST/SOAP APIs, System Integration}
+\resumeSubItem{\textbf{Cloud \& Methodologies}}{Azure Functions, Azure Logic Apps, Azure DevOps, CI/CD, Agile/Scrum}
+\resumeSubItem{\textbf{Data \& Databases}}{Dataverse, SQL Server, Data Modeling, Data Migration, ETL}
+\resumeSubItem{\textbf{Soft Skills}}{Attention to Detail, Problem Solving, Extreme Ownership, Stakeholder Management, Collaboration, Critical Thinking}
+\resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------------
+\section{Work Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{BlueCX}{2025-04 – Present}
+{Microsoft Dynamics 365 Power Apps Developer}{Brazil}
+\resumeItemListStart
+\resumeItem{Led a strategic Customer Insights project for 500K+ associates, evolving D365 CE and migrating to D365 Customer Insights – Journeys with zero downtime, reducing campaign cycle time by \textasciitilde{}30\%.}
+\resumeItem{Developed Power Automate and Dataverse automations, and CE↔legacy system integrations, increasing data coverage by over 40\%. Conducted technical workshops and knowledge transfer for 20+ users, ensuring robust system adoption.}
+\resumeItemListEnd
+
+\resumeSubheading
+{NTT DATA Europe \& Latam}{2024-05 – 2025-01}
+{Microsoft Dynamics 365 \& Power Platform Architect}{Brazil}
+\resumeItemListStart
+\resumeItem{Led full-cycle D365 CE implementations, architecting and deploying CE↔F\&O integrations via Azure Service Bus, reducing latency by 60\%, and D365↔legacy systems via Azure Logic Apps/Functions.}
+\resumeItem{Conducted As-Is/To-Be mapping for an IoT 5G project, reducing operational rework by 35\%. Ensured adherence to best practices including CI/CD and Agile/Scrum methodologies.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Sistema Educacional Brasileiro S.A.}{2022-06 – 2023-09}
+{Dynamics 365 \& Azure Solutions Architect}{Brazil}
+\resumeItemListStart
+\resumeItem{Reimplemented D365 for 500+ schools, eliminating critical errors in Plugins/Flows and restoring system stability within 30 days, demonstrating forensic attention to detail and extreme ownership.}
+\resumeItem{Developed a student enrollment sales system integrated with D365 via REST APIs, increasing Up Selling conversion by 25\% for 80K+ students. Supported data migration and cleansing for 1M+ records in Dataverse.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Adentis Portugal}{2020-01 – 2022-05}
+{Microsoft Dynamics 365 Specialist \& System Architect}{Portugal}
+\resumeItemListStart
+\resumeItem{Led full-cycle D365 CE implementations (Sales, Customer Service, Field Service) across Europe.}
+\resumeItem{Developed ISV solutions and advanced customizations (C\# Plugins, Power Apps, Power Automate) for 5+ clients, reducing client onboarding time by 40\%.}
+\resumeItem{Created a D365-integrated app for automated invoice reading via Computer Vision, reducing manual processing by 70\% with over 95\% accuracy.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Algar Tech}{2015-08 – 2020-01}
+{Dynamics 365 Specialist | ERP \& CRM Consultant}{Brazil}
+\resumeItemListStart
+\resumeItem{Conducted D365 CE implementations and customizations (Sales, Customer Service) for telecom clients, covering ERP-adjacent processes.}
+\resumeItem{Applied Microsoft Sure Step methodology, reducing scope deviations by 20\% and ensuring on-time delivery for 10+ clients. Managed the transition from Dynamics CRM to D365 Cloud.}
+\resumeItem{Developed RPA tools and integrations via REST APIs/OData, modernizing backoffice operations and reducing rework by 30\%.}
+\resumeItemListEnd
+
+\resumeSubheading
+{AlfaPeople / CAST Informática / L3 Informática}{2009-10 – 2015-08}
+{.NET Architect \& Microsoft Dynamics Consultant}{Brazil}
+\resumeItemListStart
+\resumeItem{Developed C\#/.NET customizations and plugins for 10+ Dynamics CRM 2011–2015 clients, including integrations with legacy ERP systems.}
+\resumeItem{Participated in implementations using Microsoft Sure Step, building a strong technical foundation in .NET architecture, SQL Server, and Dynamics CRM.}
+\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{Education}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Federal University of Uberlândia (Assumed)}{2005-01 - 2009-12}
+{Bachelor's Degree in Computer Science (Assumed)}{}
+
+\resumeSubheading
+{UFABC}{2000-01 - 2015}
+{Postgraduate Degree in Project Management Engineering}{}
+
+\resumeSubheading
+{Estácio}{2000-01 - 2027-02}
+{Bachelor's Degree (In Progress) in Data Science}{}
+\resumeSubHeadingListEnd
+
+\section{Projects}
+\resumeSubHeadingListStart
+\resumeSubHeadingListEnd
+
+%-----------CERTIFICATIONS-----------------
+\section{Certifications}
+\resumeSubHeadingListStart
+\resumeCertification{Microsoft Certified: Power Platform Developer Associate}{2025}{}{}
+\resumeCertification{Microsoft Certified: Dynamics 365 Fundamentals (CRM)}{2023}{}{}
+\resumeCertification{Microsoft Certified: Power Platform Fundamentals}{2023}{}{}
+\resumeSubHeadingListEnd
+\end{document}

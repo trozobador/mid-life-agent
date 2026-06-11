@@ -1,0 +1,219 @@
+{
+  "basics": {
+    "name": "Ricardo Martins",
+    "label": "Gerente de Projetos Sênior | Arquiteto de Soluções | Especialista em Migração de Sistemas",
+    "email": "ricardo.parallax@gmail.com",
+    "phone": "(34) 98433-1954",
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "summary": "Profissional com mais de 30 anos de experiência em TI, sendo 15 anos em liderança de projetos complexos. Especialista em modernização de aplicações e migração de sistemas legados para ambientes modernos, com forte atuação em AWS e estratégias de containerização. Experiência comprovada em governança, gestão de stakeholders e coordenação de equipes multidisciplinares, garantindo entregas de sucesso em ambientes corporativos complexos.",
+    "location": {
+      "city": "Uberlândia",
+      "countryCode": "BR",
+      "region": "MG"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "costaricardomartins",
+        "url": "https://www.linkedin.com/in/costaricardomartins/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BlueCX",
+      "position": "Desenvolvedor Microsoft Dynamics",
+      "location": "",
+      "startDate": "2025-04",
+      "endDate": "2026-04",
+      "highlights": [
+        "Liderei a implantação do Marketing de Evento no Dynamics 365, alcançando redução de aproximadamente 95% nos bugs reportados.",
+        "Automatizei a integração do Dynamics com sistemas legados via API REST, utilizando serviços em AWS para assegurar segurança e escalabilidade.",
+        "Treinei e mentorei 3 desenvolvedores backend, disseminando boas práticas de arquitetura e desenvolvimento.",
+        "Atuei em projeto estratégico de Customer Insights, colaborando com times multifuncionais na ideação e desenvolvimento de novas funcionalidades.",
+        "Participei ativamente na migração do módulo de Marketing para a nova versão Dynamics 365 Customer Insights – Journeys.",
+        "Sou responsável por manter e evoluir todo o módulo de eventos de Marketing do Dynamics 365, garantindo estabilidade e alinhamento com as áreas de negócio."
+      ]
+    },
+    {
+      "name": "NTT DATA Europe & Latam",
+      "position": "Arquiteto Microsoft Dynamics",
+      "location": "Remoto – Brasil",
+      "startDate": "2024-05",
+      "endDate": "2025-01",
+      "highlights": [
+        "Liderança de projetos de implementação do Microsoft Dynamics 365 em grandes clientes.",
+        "Conduzi iniciativas de integração com Azure, Power Platform e automações via IA, priorizando performance e segurança.",
+        "Gerenciei a comunicação e colaboração entre equipes técnicas e não técnicas.",
+        "Realizei análise de requisitos técnicos e funcionais, assegurando a aplicação de boas práticas de desenvolvimento.",
+        "Customização do Microsoft Dynamics para atender a área de apoio ao financiamento de veículos.",
+        "Conduzi iniciativas de integração com Azure, Power Platform e automações via IA, priorizando performance, segurança e escalabilidade. Essas ações resultaram na padronização de processos de CRM e na redução do retrabalho operacional em vendas de sistemas IoT 5G."
+      ]
+    },
+    {
+      "name": "Sistema Educacional Brasileiro S.A. (SEB)",
+      "position": "Arquiteto de Soluções Dynamics e Azure",
+      "location": "",
+      "startDate": "2022-06",
+      "endDate": "2023-09",
+      "highlights": [
+        "Reimplantei o Microsoft Dynamics, reduzindo erros em Plugins e Flow.",
+        "Negociei budget diretamente com stakeholders para garantir o andamento do projeto.",
+        "Criei soluções baseadas em dados para otimização de processos de vendas e atendimento."
+      ]
+    },
+    {
+      "name": "Adentis Portugal",
+      "position": "Microsoft Dynamics 365 Specialist and System Architect",
+      "location": "Portugal",
+      "startDate": "2020-01",
+      "endDate": "2022-05",
+      "highlights": [
+        "Desenvolvi novas funcionalidades e suporte em projetos em toda a Europa.",
+        "Criei app para leitura de notas fiscais físicas usando Computer Vision."
+      ]
+    },
+    {
+      "name": "Algar Tech",
+      "position": "Especialista Dynamics",
+      "location": "Uberlândia – MG",
+      "startDate": "2015-08",
+      "endDate": "2020-01",
+      "highlights": [
+        "Revitalizei o BackOffice com Dynamics 365, aumentando a confiabilidade do produto.",
+        "Desenvolvi ferramenta interna de RPA com .NET Core e Selenium, reduzindo custos com licenciamento.",
+        "Foquei em Azure AI Service e Azure Cognitive Services para otimização de processos."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anhanguera",
+      "area": "Ciências de Dados",
+      "studyType": "Bacharelado",
+      "location": "",
+      "startDate": null,
+      "endDate": "2027-02",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "UFABC",
+      "area": "Engenharia em Gestão de Projetos",
+      "studyType": "Pós-graduação",
+      "location": "",
+      "startDate": null,
+      "endDate": "2015-12",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Gestão de Projetos e Governança",
+      "keywords": [
+        "Liderança de Projetos",
+        "Gestão de Stakeholders",
+        "Governança de TI",
+        "PMO"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "keywords": [
+        "AWS",
+        "Azure DevOps",
+        "Docker",
+        "CI/CD",
+        "TDD / BDD"
+      ]
+    },
+    {
+      "name": "CRM & Microsoft Ecosystem",
+      "keywords": [
+        "Microsoft Dynamics 365",
+        "Power Platform",
+        "Power Automate",
+        "Power Apps",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "IA & Dados",
+      "keywords": [
+        "Machine Learning",
+        "Azure AI Studio",
+        "Azure OpenAI Services",
+        "Azure Cognitive Services"
+      ]
+    },
+    {
+      "name": "Linguagens de Programação",
+      "keywords": [
+        "C# / .NET",
+        "JavaScript",
+        "Python"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Power Platform Developer Associate",
+      "issuer": "Microsoft",
+      "date": "2025-12"
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+      "issuer": "Microsoft",
+      "date": "2025-12"
+    },
+    {
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)",
+      "issuer": "Microsoft",
+      "date": "2023-12"
+    },
+    {
+      "name": "Microsoft Certified: Power Platform Fundamentals (PL-900)",
+      "issuer": "Microsoft",
+      "date": "2023-12"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ferramenta de RPA Interna",
+      "description": "Desenvolvimento de uma ferramenta de RPA interna para a Algar Tech, utilizando C#, .NET Core e Selenium, para automatizar processos de backoffice e reduzir custos com licenciamento de ferramentas de RPA, atendendo um volume de aproximadamente 8 milhões de interações mensais.",
+      "highlights": [],
+      "keywords": [
+        "RPA",
+        "C#",
+        ".NET Core",
+        "Selenium",
+        "Automação de Processos"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Revitalização do BackOffice",
+      "description": "Reestruturação completa do BackOffice da Algar Tech utilizando Dynamics 365, substituindo entidades personalizadas por entidades nativas da ferramenta para elevar a confiabilidade do produto e reduzir custos de melhorias futuras.",
+      "highlights": [],
+      "keywords": [
+        "Dynamics 365",
+        "BackOffice",
+        "Otimização de Processos",
+        "CRM"
+      ],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Português",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglês",
+      "fluency": "Avançado (B2 - Leitura e escrita)"
+    }
+  ],
+  "interests": []
+}

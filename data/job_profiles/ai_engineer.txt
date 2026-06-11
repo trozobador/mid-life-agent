@@ -1,0 +1,40 @@
+Título do Cargo: Engenheiro de IA / AI Engineer
+Nível: Sênior / Pleno
+
+Responsabilidades Principais:
+- Projetar, construir e colocar em produção sistemas de inteligência artificial e LLM-powered applications
+- Desenvolver pipelines de RAG (Retrieval-Augmented Generation) e sistemas de busca semântica
+- Integrar e orquestrar LLMs (GPT-4, Claude, Gemini, Llama) em produtos e fluxos de trabalho
+- Fine-tuning e avaliação de modelos de linguagem para domínios específicos
+- Implementar agentes autônomos e sistemas multi-agente (LangChain, CrewAI, AutoGen)
+- Construir APIs e microsserviços para servir modelos em escala
+- Garantir responsabilidade e segurança de sistemas de IA (AI safety, bias mitigation, hallucination reduction)
+- Colaborar com cientistas de dados e engenheiros de produto para colocar soluções de IA em produção
+- Monitorar custos, latência e qualidade de respostas em produção
+
+Stack Técnica Esperada:
+- Python (LangChain, LlamaIndex, CrewAI, Haystack)
+- LLMs: API OpenAI, Anthropic Claude, Google Gemini, modelos Hugging Face
+- Vector databases: Pinecone, Weaviate, ChromaDB, pgvector
+- Embeddings: OpenAI Ada, Cohere, sentence-transformers
+- APIs: FastAPI, Flask, RESTful design
+- Cloud: AWS Bedrock, GCP Vertex AI, Azure OpenAI
+- MLOps: Weights & Biases, LangSmith, Langfuse
+- Docker, Kubernetes, CI/CD
+
+Palavras-chave ATS:
+LLM, large language models, RAG, retrieval augmented generation, prompt engineering, fine-tuning, AI agents, multi-agent systems, LangChain, vector database, embeddings, semantic search, generative AI, GPT, Claude, Gemini, AI safety, Python, FastAPI, MLOps, production AI, NLP, transformer models
+
+Soft Skills Valorizadas:
+- Pensamento sistêmico para arquitetar soluções de IA escaláveis
+- Capacidade de avaliar criticamente outputs de LLMs (hallucination, bias)
+- Comunicação técnica precisa com equipes de produto e negócio
+- Atualização constante em um campo que evolui semanalmente
+- Pragmatismo: saber quando usar LLMs e quando não usar
+
+Diferenciais Competitivos:
+- Experiência com agentes autônomos em produção (não apenas protótipos)
+- Contribuições para projetos open source de IA (LangChain, Hugging Face, etc.)
+- Papers, posts técnicos ou talks sobre IA aplicada
+- Certificações: AWS AI Practitioner, Google AI/ML, DeepLearning.AI Specializations
+- Experiência com sistemas de IA em domínios regulados (saúde, financeiro, jurídico)

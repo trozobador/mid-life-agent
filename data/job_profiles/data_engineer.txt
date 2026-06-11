@@ -1,0 +1,41 @@
+Título do Cargo: Engenheiro de Dados (Data Engineer)
+Nível: Sênior / Pleno
+
+Responsabilidades Principais:
+- Projetar, construir e manter pipelines de dados robustos, escaláveis e confiáveis
+- Implementar arquiteturas de data lake, data warehouse e data lakehouse
+- Construir e orquestrar workflows de ETL/ELT usando ferramentas modernas
+- Garantir qualidade, linhagem e governança de dados
+- Colaborar com times de Analytics, Data Science e Produto para disponibilizar dados com qualidade
+- Otimizar queries e estruturas de dados para performance e custo
+- Implementar testes, monitoramento e alertas para pipelines de dados
+- Definir e implementar padrões de modelagem de dados (Kimball, Data Vault, One Big Table)
+- Contribuir para a infraestrutura analítica da organização
+
+Stack Técnica Esperada:
+- Python (PySpark, Pandas, SQLAlchemy, dbt)
+- SQL avançado
+- Orquestração: Airflow, Prefect, Dagster
+- Warehouses: BigQuery, Snowflake, Redshift, Databricks
+- Streaming: Kafka, Kinesis, Pub/Sub, Spark Streaming
+- Cloud: AWS (Glue, S3, Redshift, Lambda), GCP (Dataflow, BigQuery, Cloud Storage), Azure (Data Factory, Synapse)
+- Infra as Code: Terraform, Docker, Kubernetes
+- dbt para transformações e documentação de dados
+- Git, CI/CD, observabilidade de dados (Monte Carlo, Great Expectations, dbt tests)
+
+Palavras-chave ATS:
+data pipeline, ETL, ELT, data warehouse, data lake, data lakehouse, dbt, Airflow, Spark, Kafka, streaming, batch processing, BigQuery, Snowflake, Redshift, Databricks, data quality, data governance, data lineage, Python, SQL, cloud, AWS, GCP, Azure, Terraform, data modeling, Kimball, medallion architecture
+
+Soft Skills Valorizadas:
+- Atenção à qualidade e confiabilidade dos dados
+- Capacidade de entender necessidades de negócio e traduzi-las em soluções de dados
+- Documentação clara de arquiteturas e decisões técnicas
+- Colaboração com times de Analytics e Data Science
+- Proatividade para identificar e resolver gargalos de dados antes que causem problemas
+
+Diferenciais Competitivos:
+- Experiência com arquiteturas modernas: Lakehouse, Data Mesh, streaming first
+- Domínio de dbt (dbt Core + dbt Cloud, testes, documentação, snapshots)
+- Experiência com observabilidade de dados em produção
+- Certificações: dbt Certified Developer, Google Professional Data Engineer, AWS Data Analytics
+- Experiência em migração de ambientes legacy para cloud-native

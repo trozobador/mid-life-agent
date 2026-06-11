@@ -1,0 +1,79 @@
+{
+  "name": "Ricardo Martins",
+  "contact_information": {
+    "email": "ricardo.martins@email.com",
+    "phone": "+1234567890",
+    "linkedin": "linkedin.com/in/ricardomartins"
+  },
+  "summary": "Experienced Dynamics 365 Developer with a proven track record in implementing business logic and enhancing Finance & Operations modules. Skilled in X++ and known for effective testing and debugging strategies.",
+  "experience": [
+    {
+      "title": "Dynamics 365 Developer",
+      "company": "Tech Solutions Inc.",
+      "location": "Remote",
+      "dates": "Jan 2020 - Present",
+      "responsibilities": [
+        "Developed and implemented business logic using X++ for Finance & Operations modules, improving system efficiency by 30%.",
+        "Led a team of 5 in testing and debugging new features, reducing critical bugs by 25%.",
+        "Collaborated with cross-functional teams to enhance user experience and system integration."
+      ],
+      "projects": [
+        {
+          "name": "Finance Module Enhancement",
+          "description": "Enhanced the Finance module to support new business processes, resulting in a 20% increase in transaction processing speed. Faced challenges in integrating with legacy systems, which were overcome by implementing custom middleware solutions."
+        },
+        {
+          "name": "Operations Workflow Automation",
+          "description": "Automated key operations workflows, leading to a 15% reduction in manual processing time. This project required extensive testing and debugging to ensure seamless deployment."
+        }
+      ]
+    },
+    {
+      "title": "Junior Developer",
+      "company": "Innovatech",
+      "location": "New York, NY",
+      "dates": "Jun 2018 - Dec 2019",
+      "responsibilities": [
+        "Assisted in the development of custom modules for Dynamics 365, focusing on X++ programming.",
+        "Participated in code reviews and testing phases, contributing to a 15% improvement in code quality.",
+        "Supported senior developers in debugging complex issues and implementing solutions."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of Technology",
+      "location": "Lisbon, Portugal",
+      "dates": "Sep 2014 - May 2018"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate",
+      "date": "Issued Mar 2021"
+    },
+    {
+      "name": "Microsoft Certified: Dynamics 365: Core Finance and Operations",
+      "date": "Issued Jan 2020"
+    }
+  ],
+  "skills": [
+    "X++",
+    "Finance & Operations",
+    "Business Logic Implementation",
+    "Testing and Debugging",
+    "Project Management",
+    "Team Leadership"
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Professional Working Proficiency"
+    },
+    {
+      "language": "Portuguese",
+      "proficiency": "Native"
+    }
+  ]
+}

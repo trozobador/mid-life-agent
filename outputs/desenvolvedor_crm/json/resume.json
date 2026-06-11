@@ -1,0 +1,359 @@
+{
+  "basics": {
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "name": "Ricardo Martins",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/costaricardomartins/",
+        "username": "costaricardomartins"
+      }
+    ],
+    "email": "ricardo.parallax@gmail.com",
+    "phone": "(34) 98433-1954",
+    "summary": "Sou um profissional de TI com mais de 30 anos de experi\u00eancia, incluindo 15 anos em lideran\u00e7a t\u00e9cnica, especializado em arquitetura e desenvolvimento de solu\u00e7\u00f5es Microsoft Dynamics 365 e Power Platform. Possuo um hist\u00f3rico comprovado na defini\u00e7\u00e3o de padr\u00f5es de desenvolvimento, condu\u00e7\u00e3o de times, e na proje\u00e7\u00e3o e implementa\u00e7\u00e3o de integra\u00e7\u00f5es complexas com Azure e sistemas externos. Minha expertise abrange desde a tradu\u00e7\u00e3o de requisitos funcionais em decis\u00f5es t\u00e9cnicas robustas at\u00e9 a mentoria de desenvolvedores, garantindo a entrega de projetos de m\u00e9dio e grande porte com alta performance e escalabilidade.",
+    "location": {
+      "region": "MG",
+      "city": "Uberl\u00e2ndia",
+      "countryCode": "BR"
+    },
+    "label": "L\u00edder Desenvolvedor CRM | Arquiteto de Solu\u00e7\u00f5es Dynamics 365 e Power Platform"
+  },
+  "languages": [
+    {
+      "fluency": "Nativo",
+      "language": "Portugu\u00eas"
+    },
+    {
+      "fluency": "B2 \u2013 Leitura e escrita (Intermedi\u00e1rio/Avan\u00e7ado)",
+      "language": "Ingl\u00eas"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        "Machine Learning",
+        "IA Generativa",
+        "Python",
+        "Pipelines de Dados",
+        "LLMs",
+        "Azure AI"
+      ],
+      "highlights": [
+        "Desenvolvi solu\u00e7\u00f5es com Machine Learning em Python para suporte \u00e0 decis\u00e3o em contextos de neg\u00f3cios.",
+        "Criei automa\u00e7\u00f5es com IA generativa para otimiza\u00e7\u00e3o de processos e produ\u00e7\u00e3o de conte\u00fado, integrando-as a sistemas existentes.",
+        "Desenvolvi pipelines inteligentes para coleta, processamento e uso de dados, utilizando tecnologias Azure Data."
+      ],
+      "url": "",
+      "description": "Desenvolvimento de solu\u00e7\u00f5es com Machine Learning em Python para suporte \u00e0 decis\u00e3o, automa\u00e7\u00f5es com IA generativa para produ\u00e7\u00e3o de conte\u00fado e otimiza\u00e7\u00e3o de processos, e pipelines inteligentes para coleta, processamento e uso de dados.",
+      "name": "Projetos em IA e Dados para Otimiza\u00e7\u00e3o de Processos"
+    },
+    {
+      "url": "",
+      "description": "Projeto de revitaliza\u00e7\u00e3o e padroniza\u00e7\u00e3o do backoffice em ambiente de call center, substituindo entidades personalizadas por nativas do Dynamics 365 e padronizando customiza\u00e7\u00f5es para diversas opera\u00e7\u00f5es.",
+      "name": "Revitaliza\u00e7\u00e3o e Padroniza\u00e7\u00e3o de BackOffice com Dynamics 365",
+      "keywords": [
+        "BackOffice",
+        "Moderniza\u00e7\u00e3o",
+        "Dynamics 365",
+        "Otimiza\u00e7\u00e3o de Custos"
+      ],
+      "highlights": [
+        "Revitalizei o BackOffice do call center Bradesco substituindo entidades personalizadas por entidades nativas do Dynamics 365, elevando a confiabilidade e reduzindo significativamente o custo das evolu\u00e7\u00f5es subsequentes.",
+        "Padronizei a customiza\u00e7\u00e3o do Dynamics 365 para uso em todas as opera\u00e7\u00f5es internas da Algar, reduzindo custo e tempo de implanta\u00e7\u00e3o em novas opera\u00e7\u00f5es."
+      ]
+    },
+    {
+      "highlights": [
+        "Desenvolvi ferramenta interna de RPA com C#, .NET Core e Selenium para eliminar o custo de licenciamento de ferramentas externas (ex: Automation Anywhere), atendendo mais de 8 milh\u00f5es de intera\u00e7\u00f5es/m\u00eas."
+      ],
+      "keywords": [
+        "RPA",
+        "Automa\u00e7\u00e3o",
+        ".NET Core",
+        "Otimiza\u00e7\u00e3o de Custos"
+      ],
+      "url": "",
+      "description": "Desenvolvimento de ferramenta interna de RPA na Algar Tech para automa\u00e7\u00e3o de processos, eliminando a depend\u00eancia de licenciamento de ferramentas externas.",
+      "name": "Ferramenta de RPA Interna para Automa\u00e7\u00e3o de Processos"
+    }
+  ],
+  "skills": [
+    {
+      "name": "CRM & Power Platform",
+      "keywords": [
+        "Microsoft Dynamics 365 (Sales, Marketing, Customer Service, Field Service)",
+        "Power Platform",
+        "Power Automate",
+        "Power Apps (Canvas e Model-Driven Apps)",
+        "Power BI",
+        "Copilot Studio",
+        "Dataverse Web API",
+        "OData",
+        "Conectores customizados",
+        "Dynamics 365 Customer Insights",
+        "Dynamics 365 Customer Insights \u2013 Journeys",
+        "Dataverse for Teams",
+        "Low-code governance",
+        "CoE Starter Kit",
+        "Conhecimento em Dynamics 365 Business Central"
+      ]
+    },
+    {
+      "name": "Desenvolvimento & Arquitetura",
+      "keywords": [
+        "Plugins (.Net / C#)",
+        "Custom Workflow Activities",
+        "Web Resources (JavaScript e HTML)",
+        ".NET",
+        "C#",
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "Arquitetura de solu\u00e7\u00f5es",
+        "Desenvolvimento backend",
+        "Cria\u00e7\u00e3o de ferramentas personalizadas",
+        "Modelagem de dados"
+      ]
+    },
+    {
+      "name": "Cloud & Integra\u00e7\u00f5es (Azure)",
+      "keywords": [
+        "Azure Functions",
+        "Azure Logic Apps",
+        "Azure Service Bus",
+        "Azure API Management",
+        "Azure Key Vault",
+        "REST APIs",
+        "Padr\u00f5es de integra\u00e7\u00e3o (webhooks, ETL, event-driven)",
+        "Integra\u00e7\u00e3o de APIs",
+        "Implanta\u00e7\u00e3o de solu\u00e7\u00f5es em nuvem",
+        "AWS"
+      ]
+    },
+    {
+      "name": "DevOps & ALM",
+      "keywords": [
+        "Azure DevOps",
+        "Git",
+        "GitHub",
+        "Controle de vers\u00e3o e gest\u00e3o de branches (Git Flow)",
+        "CI/CD",
+        "TDD",
+        "BDD",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Lideran\u00e7a T\u00e9cnica & Soft Skills",
+      "keywords": [
+        "Code review rigoroso e defini\u00e7\u00e3o de padr\u00f5es de c\u00f3digo",
+        "Mentoria e desenvolvimento de carreira de desenvolvedores (juniores e plenos)",
+        "Vis\u00e3o de arquitetura de solu\u00e7\u00e3o",
+        "Comunica\u00e7\u00e3o t\u00e9cnica clara com consultores funcionais e stakeholders",
+        "Gest\u00e3o de prioridades em m\u00faltiplos projetos simult\u00e2neos",
+        "Tradu\u00e7\u00e3o de requisitos funcionais em decis\u00f5es t\u00e9cnicas",
+        "Autonomia e tomada de decis\u00e3o",
+        "Resolu\u00e7\u00e3o de problemas complexos",
+        "Capacidade de orientar e capacitar colaboradores",
+        "Proatividade e resili\u00eancia",
+        "Organiza\u00e7\u00e3o",
+        "Franqueza e transpar\u00eancia"
+      ]
+    },
+    {
+      "keywords": [
+        "Machine Learning (supervisionado e n\u00e3o supervisionado)",
+        "IA Generativa",
+        "LLMs",
+        "Agentes inteligentes",
+        "Automa\u00e7\u00e3o inteligente",
+        "Azure AI Service",
+        "Azure Cognitive Services",
+        "Azure Computer Vision",
+        "Azure DataFactory",
+        "Azure Databricks",
+        "Pipelines de dados",
+        "Scikit-Learn",
+        "Pandas",
+        "NumPy",
+        "Power BI Embedded"
+      ],
+      "name": "Intelig\u00eancia Artificial & Dados"
+    },
+    {
+      "name": "Banco de Dados",
+      "keywords": [
+        "SQL Server",
+        "Migra\u00e7\u00e3o de dados (SSIS, KingswaySoft, Scribe/Informatica)"
+      ]
+    },
+    {
+      "name": "Ferramentas & IDEs",
+      "keywords": [
+        "Visual Studio",
+        "Visual Studio Code",
+        "Selenium",
+        "Figma",
+        "Postman",
+        "Insomnia"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "keywords": [
+        "IA Generativa",
+        "Machine Learning",
+        "LLMs",
+        "Agentes Inteligentes"
+      ],
+      "name": "Intelig\u00eancia Artificial"
+    },
+    {
+      "keywords": [
+        "An\u00e1lise de Dados",
+        "Modelagem Preditiva",
+        "Engenharia de Dados"
+      ],
+      "name": "Ci\u00eancia de Dados"
+    },
+    {
+      "keywords": [
+        "RPA",
+        "Power Automate",
+        "Copilot Studio"
+      ],
+      "name": "Automa\u00e7\u00e3o de Processos"
+    }
+  ],
+  "education": [
+    {
+      "location": "Brasil",
+      "courses": [],
+      "gpa": "",
+      "institution": "Anhanguera",
+      "startDate": "",
+      "studyType": "Bacharelado (cursando)",
+      "endDate": "2027-02",
+      "area": "Ci\u00eancias de Dados"
+    },
+    {
+      "courses": [],
+      "location": "Brasil",
+      "institution": "UFABC",
+      "gpa": "",
+      "startDate": "",
+      "studyType": "P\u00f3s-gradua\u00e7\u00e3o",
+      "endDate": "2015",
+      "area": "Engenharia em Gest\u00e3o de Projetos"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Power Platform Developer Associate",
+      "issuer": "Microsoft",
+      "date": "2022"
+    },
+    {
+      "date": "2022",
+      "name": "Microsoft Certified: Azure AI Fundamentals",
+      "issuer": "Microsoft"
+    },
+    {
+      "date": "2023",
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM)",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "Microsoft Certified: Power Platform Fundamentals",
+      "issuer": "Microsoft",
+      "date": "2023"
+    },
+    {
+      "name": "Microsoft Certified Technology Specialist: Microsoft Dynamics CRM 2011 Customization and Configuration",
+      "issuer": "Microsoft",
+      "date": "2013"
+    }
+  ],
+  "work": [
+    {
+      "startDate": "2023-04",
+      "name": "BlueCX",
+      "endDate": "2024-04",
+      "location": "Brasil",
+      "highlights": [
+        "Liderei a implanta\u00e7\u00e3o e evolu\u00e7\u00e3o do m\u00f3dulo de Marketing de Eventos do Dynamics 365 para uma das maiores cooperativas de cr\u00e9dito do pa\u00eds, resultando em uma redu\u00e7\u00e3o de aproximadamente 95% nos bugs reportados e otimiza\u00e7\u00e3o de campanhas.",
+        "Automatizei a integra\u00e7\u00e3o do Dynamics 365 com sistemas legados via API REST (OAuth) e servi\u00e7os em AWS, garantindo seguran\u00e7a, escalabilidade e desempenho das opera\u00e7\u00f5es.",
+        "Desenvolvi um modelo de predi\u00e7\u00e3o de participa\u00e7\u00e3o em eventos utilizando Python e Machine Learning, otimizando a compra de materiais e os investimentos em marketing.",
+        "Treinei e mentorei 3 desenvolvedores backend para atua\u00e7\u00e3o com solu\u00e7\u00f5es Microsoft Dynamics, disseminando boas pr\u00e1ticas de arquitetura e desenvolvimento.",
+        "Utilizei Azure AI Service, Azure Cognitive Services, Azure DataFactory e Azure Databricks para construir pipelines de dados e solu\u00e7\u00f5es de intelig\u00eancia artificial aplicadas ao neg\u00f3cio."
+      ],
+      "position": "Desenvolvedor Microsoft Dynamics"
+    },
+    {
+      "location": "Brasil",
+      "highlights": [
+        "Atuei na lideran\u00e7a t\u00e9cnica de projetos de implementa\u00e7\u00e3o do Microsoft Dynamics 365 para grandes clientes (TIM e Ita\u00fa), definindo arquiteturas de solu\u00e7\u00e3o e padr\u00f5es de desenvolvimento.",
+        "Conduzi o levantamento de cen\u00e1rios de neg\u00f3cios e processos junto a stakeholders, traduzindo requisitos funcionais em desenhos de solu\u00e7\u00e3o t\u00e9cnica robustos para implementa\u00e7\u00e3o no Dynamics 365 CRM.",
+        "Conduzi iniciativas de integra\u00e7\u00e3o com Azure, Power Platform e automa\u00e7\u00f5es via IA, padronizando processos de CRM e reduzindo o retrabalho operacional em vendas de sistemas IoT 5G para a TIM em 20%.",
+        "Desenhei arquiteturas de integra\u00e7\u00f5es robustas entre Dynamics 365 e sistemas legados, aplicando TDD, BDD e CI/CD para garantir a qualidade e a agilidade nas entregas.",
+        "Liderei a avalia\u00e7\u00e3o e a ado\u00e7\u00e3o de novas ferramentas, frameworks e atualiza\u00e7\u00f5es da plataforma Microsoft Dynamics 365 e Power Platform, garantindo a moderniza\u00e7\u00e3o e a otimiza\u00e7\u00e3o das solu\u00e7\u00f5es.",
+        "Gerenciei a comunica\u00e7\u00e3o t\u00e9cnica e a colabora\u00e7\u00e3o entre equipes multifuncionais e stakeholders em ambientes de alta complexidade."
+      ],
+      "position": "Arquiteto Microsoft Dynamics",
+      "startDate": "2022-05",
+      "name": "NTT DATA Europe & Latam",
+      "endDate": "2023-01"
+    },
+    {
+      "location": "Brasil",
+      "highlights": [
+        "Fui respons\u00e1vel pela reimplanta\u00e7\u00e3o do Microsoft Dynamics 365, focando na redu\u00e7\u00e3o de erros em Plugins e Flows em 30% e na otimiza\u00e7\u00e3o da performance da plataforma em 15%.",
+        "Realizei Code Reviews rigorosos, conduzi ritos do Scrum e analisei a performance da equipe, garantindo a ader\u00eancia aos padr\u00f5es de c\u00f3digo e a qualidade das entregas.",
+        "Implementei programas de mentoria, realizei 1:1s regulares, forneci feedbacks construtivos e auxiliei na cria\u00e7\u00e3o de Planos de Desenvolvimento Individual (PDIs) para a equipe de desenvolvedores, visando seu crescimento profissional.",
+        "Criei um sistema de vendas de matr\u00edculas intuitivo para clientes, que reduziu a burocracia e eliminou a necessidade de comparecimento f\u00edsico para contrata\u00e7\u00e3o de Up Selling.",
+        "Aprimorei a capacidade de negocia\u00e7\u00e3o de budget e liderei a comunica\u00e7\u00e3o com stakeholders para garantir o alinhamento e o andamento cont\u00ednuo dos projetos."
+      ],
+      "position": "Arquiteto de Solu\u00e7\u00f5es Dynamics e Azure",
+      "startDate": "2022-06",
+      "endDate": "2023-09",
+      "name": "Sistema Educacional Brasileiro S.A."
+    },
+    {
+      "location": "Portugal (Portugal, Alemanha e Dinamarca)",
+      "highlights": [
+        "Atuei no desenvolvimento e suporte de projetos Microsoft Dynamics 365 para clientes em toda a Europa, colaborando com times multiculturais e internacionais.",
+        "Criei um aplicativo com Computer Vision (Azure) para leitura automatizada de notas fiscais f\u00edsicas, integrado a um sistema de an\u00e1lise de risco de cr\u00e9dito, reduzindo o processamento manual em 70% e aumentando a acur\u00e1cia em 95%."
+      ],
+      "position": "Microsoft Dynamics 365 Specialist and System Architect",
+      "startDate": "2020-01",
+      "endDate": "2022-05",
+      "name": "Adentis Portugal"
+    },
+    {
+      "location": "Uberl\u00e2ndia \u2013 MG",
+      "highlights": [
+        "Revitalizei o BackOffice do call center Bradesco, substituindo entidades personalizadas por nativas do Dynamics 365, elevando a confiabilidade do produto em 40% e reduzindo custos de evolu\u00e7\u00e3o em 25%.",
+        "Desenvolvi uma ferramenta interna de RPA com C# e .NET Core para eliminar o custo de licenciamento de ferramentas externas, atendendo mais de 8 milh\u00f5es de intera\u00e7\u00f5es/m\u00eas.",
+        "Padronizei a customiza\u00e7\u00e3o do Dynamics 365 para uso em todas as opera\u00e7\u00f5es internas da Algar, reduzindo custo e tempo de implanta\u00e7\u00e3o em novas opera\u00e7\u00f5es em 15%.",
+        "Integrei Dynamics 365 com sistemas COBOL legados via automa\u00e7\u00e3o propriet\u00e1ria, garantindo a comunica\u00e7\u00e3o entre plataformas."
+      ],
+      "position": "Especialista Dynamics",
+      "startDate": "2015-08",
+      "endDate": "2020-01",
+      "name": "Algar Tech"
+    },
+    {
+      "startDate": "2013-02",
+      "name": "AlfaPeople",
+      "endDate": "2014-04",
+      "location": "Brasil",
+      "highlights": [
+        "Desenvolvi m\u00faltiplos projetos de integra\u00e7\u00e3o entre Microsoft Dynamics 2011 e sistemas externos, garantindo a fluidez dos dados.",
+        "Criei um portal de atendimento ao cliente integrado ao Dynamics para abertura e acompanhamento de tickets, melhorando a experi\u00eancia do usu\u00e1rio."
+      ],
+      "position": "Arquiteto .NET"
+    }
+  ]
+}
