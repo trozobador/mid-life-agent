@@ -1,0 +1,187 @@
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{fontawesome}
+\usepackage{xcolor}
+\usepackage{amsmath}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+    \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeCertification}[2]{%
+  \item
+  \begin{tabular*}{0.97\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+    #1 & \text{#2} \\
+  \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1: #2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0em, itemindent=0em, label={}, itemsep=0ex]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+\textbf{\href{}{\Large Ricardo Martins}} & Email: \href{mailto:ricardo.parallax@gmail.com}{\faEnvelope} ricardo.parallax@gmail.com \\
+\href{https://www.linkedin.com/in/costaricardomartins/}{LinkedIn: costaricardomartins} \\\hspace{10pt} & Phone: (34) 98433-1954\\\end{tabular*}
+
+%-----------SKILLS-----------------
+\section{Skills}
+\resumeSubHeadingListStart
+\resumeSubItem{\textbf{Inteligência Artificial \& Machine Learning}}{LLMs (GPT-4, Claude, Gemini, Llama, modelos Hugging Face), IA Generativa, RAG (Retrieval-Augmented Generation), Prompt Engineering, Fine-tuning e Avaliação de LLMs, Agentes Autônomos e Multi-Agente (LangChain, CrewAI, AutoGen), Vector Databases (Pinecone, Weaviate, ChromaDB, pgvector), Embeddings (OpenAI Ada, Cohere, sentence-transformers), Semantic Search, AI Safety (bias mitigation, hallucination reduction), Machine Learning (supervisionado/não supervisionado), Azure AI Studio, Azure OpenAI Services, Azure Cognitive Services, Computer Vision, Copilot Studio (integração com bancos de vetores para especialização de domínio), NLP (Processamento de Linguagem Natural), Transformer Models, Scikit-Learn, Pandas / NumPy}
+\resumeSubItem{\textbf{Cloud \& MLOps}}{AWS (Bedrock), GCP (Vertex AI), Azure (Azure OpenAI, Azure Functions, Azure Logic Apps, Azure DataLake, Azure DataFactory, Azure Databricks), MLOps (Weights \& Biases, LangSmith, Langfuse), Docker, Kubernetes, CI/CD, Git / GitHub, Azure DevOps}
+\resumeSubItem{\textbf{Linguagens de Programação \& APIs}}{Python (LangChain, LlamaIndex, CrewAI, Haystack), C\# / .NET, JavaScript, TypeScript, FastAPI, Flask, RESTful Design, APIs (OpenAI, Anthropic Claude, Google Gemini, Hugging Face)}
+\resumeSubItem{\textbf{Banco de Dados}}{SQL Server, pgvector}
+\resumeSubItem{\textbf{Ferramentas \& Metodologias}}{Visual Studio, Visual Studio Code, Selenium (Testes e RPA), Figma, Postman / Insomnia, React, TDD / BDD, Scrum}
+\resumeSubItem{\textbf{CRM \& Ecossistema Microsoft}}{Microsoft Dynamics 365 (CRM/CE), Power Platform (geral), Power Automate, Power Apps, Power BI, Copilot Studio (ex-Power Virtual Agents), Dynamics 365 Customer Insights, Dynamics 365 Customer Insights – Journeys}
+\resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------------
+\section{Work Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{BlueCX}{2023-04 – Present}
+{Desenvolvedor Microsoft Dynamics | Engenheiro de IA}{}
+\resumeItemListStart
+\resumeItem{Projetei, construí e coloquei em produção sistemas de inteligência artificial e LLM-powered applications, integrando Copilot Studio com bancos de vetores (RAG) para criar assistentes especialistas no domínio de negócio do cliente, utilizando modelos como GPT-4 (via Azure OpenAI) e Llama, resultando em respostas 30\% mais precisas e contextuais.}
+\resumeItem{Desenvolvi pipelines de RAG (Retrieval-Augmented Generation) e sistemas de busca semântica, conectando Azure OpenAI Services (incluindo modelos como GPT-4 e outros transformer models) a sistemas legados via API REST, garantindo segurança (OAuth), escalabilidade e desempenho para milhões de interações.}
+\resumeItem{Integrei e orquestrei LLMs (Azure OpenAI Services, incluindo a exploração de Claude e Gemini para benchmarks) em produtos e fluxos de trabalho, desenvolvendo modelos de ML para entrega de conhecimento especializado em processos de negócio e industriais — superando a limitação generalista das IAs generativas, reduzindo alucinações em 25\% através de prompt engineering avançado e implementando estratégias de mitigação de vieses para garantir AI safety.}
+\resumeItem{Atuei fortemente com Python (LangChain, LlamaIndex) e C\# na arquitetura de soluções no ecossistema Microsoft Azure e AWS, utilizando Copilot Studio, Power Automate, Azure AI Studio, Azure OpenAI Services, serviços de DataLake e orquestração de microsserviços via Docker/Kubernetes para deploy de modelos em produção.}
+\resumeItem{Criei um modelo de predição de participação em eventos que otimizou a compra de materiais e investimentos em marketing em 15\%, utilizando Python para análise e extração de dados.}
+\resumeItem{Realizei a gestão pós-implantação, incluindo curadoria de conteúdo, monitoramento de métricas de uso, expansão de funcionalidades e governança de custos de componentes de IA, pivotando modelos para manter a solução com melhor custo-benefício e utilizando LangSmith (e explorando Weights \& Biases) para observabilidade, rastreamento de experimentos e otimização contínua de LLMs em produção.}
+\resumeItem{Assegurei a escalabilidade e resiliência de agentes autônomos complexos em produção, tanto no Copilot Studio quanto agentes RAG operando com Azure OpenAI, resolvendo problemas de negócio críticos e garantindo alta disponibilidade. Liderei projeto estratégico de Customer Insights para uma das maiores cooperativas de crédito do país, aplicando análise de dados e automações inteligentes para impactar mais de 500 mil clientes.}
+\resumeItemListEnd
+
+\resumeSubheading
+{NTT DATA Europe \& Latam}{2023-05 – 2024-01}
+{Arquiteto Microsoft Dynamics | Especialista em IA}{Remoto – Brasil}
+\resumeItemListStart
+\resumeItem{Conduzi iniciativas de integração com Azure, Power Platform e automações via IA, priorizando performance, segurança e escalabilidade, resultando na padronização de processos de CRM e na redução de 20\% do retrabalho operacional em vendas de sistemas IoT 5G.}
+\resumeItem{Desenvolvi uma ferramenta de Machine Learning com IA para recomendar horários e abordagens de contato com leads, otimizando estratégias de vendas de sistemas IoT 5G e aumentando a taxa de conversão em 10\% através de modelagem preditiva e análise de dados.}
+\resumeItem{Desenhei a arquitetura de integrações entre o Dynamics e sistemas legados, aplicando boas práticas de desenvolvimento como TDD, BDD e CI/CD.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Adentis Portugal}{2020-01 – 2022-05}
+{Microsoft Dynamics 365 Specialist and System Architect}{Portugal}
+\resumeItemListStart
+\resumeItem{Criei um aplicativo para leitura e processamento automatizado de notas fiscais físicas utilizando Computer Vision (visando a extração de dados e OCR), integrando-o a um sistema de análise de risco de crédito, demonstrando aplicação prática de IA para automação e otimização de processos financeiros.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Algar Tech}{2015-08 – 2020-01}
+{Especialista Dynamics | Desenvolvedor RPA}{Uberlândia – MG}
+\resumeItemListStart
+\resumeItem{Desenvolvi uma ferramenta de RPA interna utilizando C\#, .Net Core e Selenium para automatizar processos de backoffice, atendendo um volume de aproximadamente 8 milhões de interações mensais e minimizando custos com licenciamento de ferramentas de RPA em 30\%.}
+\resumeItem{Atuei com foco em Azure AI Service, Azure Cognitive Services, Power Platform, Azure DataFactory e Azure Databricks, aplicando essas tecnologias para otimizar ambientes e processos, com ênfase em automação e processamento de dados em larga escala.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Sistema Educacional Brasileiro S.A. (SEB)}{2022-06 – 2023-09}
+{Arquiteto de Soluções Dynamics e Azure}{}
+\resumeItemListStart
+\resumeItem{Criei soluções baseadas em dados para otimização de processos de vendas e atendimento, incluindo um sistema de vendas de matrículas intuitivo que reduziu a burocracia para 8 mil alunos em 18 unidades, aumentando a eficiência do processo em 25\%.}
+\resumeItemListEnd
+
+\resumeSubheading
+{CAST Informática SA}{2014-04 – 2015-08}
+{Desenvolvedor .NET}{Presencial}
+\resumeItemListStart
+\resumeItem{Atuei no Ministério das Relações Exteriores, desenvolvendo um projeto de permissionamento usando OAuth para sistemas internos, com C\# e Angular, utilizando SQL Server.}
+\resumeItemListEnd
+
+\resumeSubheading
+{AlfaPeople}{2013-02 – 2014-04}
+{Arquiteto .NET}{Presencial}
+\resumeItemListStart
+\resumeItem{Desenvolvi inúmeros projetos de integração entre o Microsoft Dynamics 2011 e sistemas externos, incluindo um portal de atendimento ao cliente e uma ferramenta de importação de dados não estruturados.}
+\resumeItemListEnd
+
+\resumeSubheading
+{L3 Informática}{2009-10 – 2012-12}
+{Arquiteto de Soluções}{Presencial}
+\resumeItemListStart
+\resumeItem{Desenvolvi projetos de integração entre o Microsoft Dynamics 2011 e sistemas externos, focando na interoperabilidade de dados e sistemas.}
+\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{Education}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Anhanguera}{ - 2027-02}
+{Bacharelado in Ciências de Dados}{}
+
+\resumeSubheading
+{UFABC}{ - 2015-12}
+{Pós-graduação in Engenharia em Gestão de Projetos}{}
+\resumeSubHeadingListEnd
+
+\section{Projects}
+\resumeSubHeadingListStart
+\resumeSubItem{\textbf{Integração de Copilot Studio com Bancos de Vetores (RAG)}}{Projeto estratégico na BlueCX para conectar o Copilot Studio a bancos de vetores (RAG), transformando o assistente generalista em um especialista no domínio de negócio do cliente, entregando respostas 30\% mais precisas e contextuais. Incluiu a orquestração de LLMs (como GPT-4 e Llama via Azure OpenAI), desenvolvimento de pipelines de RAG e implementação de estratégias de AI Safety para mitigar alucinações e vieses.}
+\resumeSubItem{\textbf{Modelo de Predição de Participação em Eventos}}{Desenvolvimento de um modelo de Machine Learning preditivo em Python para prever a participação em eventos, otimizando a compra de materiais e investimentos em marketing em 15\%. Foco na análise e extração de dados para insights acionáveis e tomada de decisão estratégica.}
+\resumeSubItem{\textbf{Aplicativo de Leitura de Notas Fiscais com Computer Vision}}{Criação de um aplicativo para leitura e processamento automatizado de notas fiscais físicas utilizando Computer Vision (OCR), integrado a um sistema de análise de risco de crédito, demonstrando aplicação prática de IA para automação de processos financeiros e redução de erros manuais.}
+\resumeSubItem{\textbf{Ferramenta de RPA Interna}}{Desenvolvimento de uma ferramenta de RPA interna para a Algar Tech, utilizando C\#, .NET Core e Selenium, para automatizar processos de backoffice e reduzir custos com licenciamento de ferramentas de RPA em 30\%, atendendo um volume de aproximadamente 8 milhões de interações mensais e otimizando a eficiência operacional.}
+\resumeSubHeadingListEnd
+
+%-----------CERTIFICATIONS-----------------
+\section{Certifications}
+\resumeSubHeadingListStart
+\resumeCertification{Microsoft Certified: Azure AI Fundamentals (AI-900)}{2025-12}{}{}
+\resumeCertification{Microsoft Certified: Power Platform Developer Associate}{2025-12}{}{}
+\resumeCertification{Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)}{2023-12}{}{}
+\resumeCertification{Microsoft Certified: Power Platform Fundamentals (PL-900)}{2023-12}{}{}
+\resumeCertification{Microsoft Certified Technology Specialist: Dynamics CRM 2011 Customization and Configuration}{2013-12}{}{}
+\resumeSubHeadingListEnd
+\end{document}

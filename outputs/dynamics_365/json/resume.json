@@ -1,0 +1,215 @@
+{
+  "certificates": [
+    {
+      "date": "2025",
+      "issuer": "Microsoft",
+      "name": "Microsoft Certified: Power Platform Developer Associate (PL-400)"
+    },
+    {
+      "date": "2023",
+      "issuer": "Microsoft",
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals CRM (MB-910)"
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+      "date": "2025",
+      "issuer": "Microsoft"
+    },
+    {
+      "date": "2023",
+      "issuer": "Microsoft",
+      "name": "Microsoft Certified: Power Platform Fundamentals (PL-900)"
+    },
+    {
+      "date": "2013",
+      "issuer": "Microsoft",
+      "name": "MCTS: Microsoft Dynamics CRM 2011 Customization & Configuration"
+    }
+  ],
+  "projects": [],
+  "education": [
+    {
+      "studyType": "P\u00f3s-gradua\u00e7\u00e3o",
+      "area": "Engenharia em Gest\u00e3o de Projetos",
+      "institution": "UFABC",
+      "endDate": "2015"
+    },
+    {
+      "institution": "Est\u00e1cio",
+      "endDate": "2027",
+      "studyType": "Bacharelado (Em andamento)",
+      "area": "Ci\u00eancias de Dados"
+    }
+  ],
+  "work": [
+    {
+      "name": "BlueCX",
+      "position": "D365 Functional & Technical Consultant",
+      "startDate": "2025-04",
+      "highlights": [
+        "Atuei em projeto estrat\u00e9gico de Customer Insights para cooperativa (500K+ associados), evoluindo D365 CE.",
+        "Liderei migra\u00e7\u00e3o de Marketing para D365 Customer Insights \u2013 Journeys (zero downtime), reduzindo ciclo de campanha em ~30%.",
+        "Desenvolvi automa\u00e7\u00f5es (Power Automate) e integra\u00e7\u00f5es CE\u2194legados, aumentando cobertura de dados de jornada em 40%."
+      ],
+      "endDate": "Present"
+    },
+    {
+      "name": "NTT DATA Europe & Latam",
+      "position": "Arquiteto Microsoft Dynamics 365 | D365 Solution Architect",
+      "startDate": "2024-05",
+      "highlights": [
+        "Liderei implementa\u00e7\u00f5es full-cycle D365 CE para clientes enterprise, conectando equipes t\u00e9cnicas e stakeholders.",
+        "Arquiteturei e implementei integra\u00e7\u00f5es CE\u2194F&O via Azure Service Bus, reduzindo lat\u00eancia em 60%.",
+        "Desenhei arquitetura de integra\u00e7\u00f5es D365 \u2194 legados via Azure Logic Apps e Functions, padronizando fluxos.",
+        "Conduzi mapeamento As-Is/To-Be para projeto IoT 5G, padronizando CRM e reduzindo 35% o retrabalho operacional."
+      ],
+      "endDate": "2025-01"
+    },
+    {
+      "endDate": "2023-09",
+      "startDate": "2022-06",
+      "highlights": [
+        "Reimplantei D365 para 500+ unidades escolares, eliminando erros e restabelecendo estabilidade em <30 dias.",
+        "Criei sistema de vendas de matr\u00edculas integrado ao D365 via REST APIs, aumentando convers\u00e3o de Up Selling em 25% (80K+ alunos).",
+        "Conduzi workshops de requisitos, code review e PoCs; entreguei OKRs negociando budget, prazo e escopo."
+      ],
+      "name": "Sistema Educacional Brasileiro S.A.",
+      "position": "Arquiteto de Solu\u00e7\u00f5es Dynamics 365 e Azure"
+    },
+    {
+      "name": "Adentis Portugal",
+      "position": "Microsoft Dynamics 365 Specialist & System Architect",
+      "endDate": "2022-05",
+      "startDate": "2020-01",
+      "highlights": [
+        "Liderei implementa\u00e7\u00f5es full-cycle D365 CE para clientes na Europa.",
+        "Desenvolvi ISV solutions e customiza\u00e7\u00f5es (Plugins C#, Power Apps, Power Automate) para 5+ clientes, reduzindo onboarding em 40%.",
+        "Criei app integrado ao D365 para leitura automatizada de notas fiscais via Computer Vision, reduzindo processamento manual em 70% e acur\u00e1cia em 95%."
+      ]
+    },
+    {
+      "startDate": "2015-08",
+      "highlights": [
+        "Apliquei Microsoft Sure Step, reduzindo desvios de escopo em 20% e garantindo entrega para 10+ clientes.",
+        "Gerenciei levantamento de requisitos, mapeamento As-Is/To-Be, data migration e treinamento (100+ usu\u00e1rios); liderei transi\u00e7\u00e3o de Dynamics CRM legados \u2192 D365 Cloud.",
+        "Desenvolvi ferramentas de RPA e integra\u00e7\u00f5es via REST APIs/OData, modernizando backoffice e reduzindo retrabalho em 30%."
+      ],
+      "endDate": "2020-01",
+      "name": "Algar Tech",
+      "position": "Especialista Dynamics 365 | ERP & CRM Consultant"
+    },
+    {
+      "endDate": "2015-08",
+      "startDate": "2009-10",
+      "highlights": [
+        "Desenvolvi customiza\u00e7\u00f5es C#/.NET e plugins para 10+ clientes enterprise no Dynamics CRM 2011\u20132015, incluindo integra\u00e7\u00f5es com ERP legados.",
+        "Participei de projetos de implementa\u00e7\u00e3o com Microsoft Sure Step (an\u00e1lise, configura\u00e7\u00e3o e go-live)."
+      ],
+      "name": "AlfaPeople / CAST Inform\u00e1tica / L3 Inform\u00e1tica",
+      "position": "Arquiteto .NET & Microsoft Dynamics Consultant"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Microsoft Dynamics 365",
+      "keywords": [
+        "D365 Sales (Expert)",
+        "D365 Customer Service (Expert)",
+        "D365 Customer Insights (Expert)",
+        "D365 Field Service (Avan\u00e7ado)",
+        "Finance & Operations \u2014 F&O (Familiaridade)",
+        "Supply Chain Management (Familiaridade)",
+        "Dynamics 365 Business Central (Familiaridade)",
+        "Full-cycle Implementation",
+        "Customiza\u00e7\u00e3o & Configura\u00e7\u00e3o",
+        "Plugins & Extens\u00f5es",
+        "ISV Solutions",
+        "Mapeamento Processos As-Is/To-Be",
+        "Migra\u00e7\u00e3o Dynamics CRM Legados \u2192 D365 Cloud"
+      ]
+    },
+    {
+      "name": "Power Platform & Azure",
+      "keywords": [
+        "Power Apps (Expert)",
+        "Power Automate (Expert)",
+        "Power BI (Avan\u00e7ado)",
+        "Dataverse (Expert)",
+        "Copilot Studio",
+        "Azure Logic Apps (Avan\u00e7ado)",
+        "Azure Functions (Avan\u00e7ado)",
+        "Azure Service Bus",
+        "Azure API Management",
+        "REST APIs",
+        "OData"
+      ]
+    },
+    {
+      "name": "Linguagens & Dados",
+      "keywords": [
+        "C# / .NET (Expert)",
+        "JavaScript / TypeScript (Avan\u00e7ado)",
+        "Python (Intermedi\u00e1rio)",
+        "X++ (Familiaridade / Arquitetura F&O)",
+        "SQL Server (Avan\u00e7ado)",
+        "Data Migration",
+        "Data Mapping/Cleansing",
+        "ETL"
+      ]
+    },
+    {
+      "keywords": [
+        "Microsoft Sure Step",
+        "Agile / Scrum",
+        "Stakeholder Management",
+        "CI/CD",
+        "TDD / BDD",
+        "OKRs"
+      ],
+      "name": "Metodologias"
+    },
+    {
+      "name": "Intelig\u00eancia Artificial & Automa\u00e7\u00e3o",
+      "keywords": [
+        "IA Generativa",
+        "LLMs",
+        "Agentes inteligentes",
+        "Automa\u00e7\u00e3o inteligente",
+        "Azure AI",
+        "Computer Vision",
+        "ML supervisionado/n\u00e3o supervisionado",
+        "RPA"
+      ]
+    }
+  ],
+  "basics": {
+    "summary": "Consultor S\u00eanior com 10+ anos em implementa\u00e7\u00f5es full-cycle D365 CRM (Sales, Marketing/Customer Insights, Customer Service, Field Service). Expertise em arquitetura de solu\u00e7\u00f5es, consultoria funcional e t\u00e9cnica, customiza\u00e7\u00f5es C#/.NET, Power Platform e arquitetura Azure. Experi\u00eancia em integra\u00e7\u00f5es CE\u2194F&O, familiaridade com F&O e Business Central. Foco em otimizar processos e entregar solu\u00e7\u00f5es robustas para o mercado brasileiro, alinhado \u00e0s melhores pr\u00e1ticas de parceiros Microsoft. Certificado PL-400.",
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "location": {
+      "region": "MG",
+      "countryCode": "BR",
+      "city": "Uberl\u00e2ndia"
+    },
+    "label": "Consultor S\u00eanior D365 CRM | Arquiteto de Solu\u00e7\u00f5es",
+    "email": "ricardo.parallax@gmail.com",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "costaricardomartins",
+        "url": "https://www.linkedin.com/in/costaricardomartins/"
+      }
+    ],
+    "phone": "(34) 98433-1954",
+    "name": "Ricardo Martins"
+  },
+  "languages": [
+    {
+      "language": "Portugu\u00eas",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Ingl\u00eas",
+      "fluency": "B2 \u2013 Leitura e escrita"
+    }
+  ]
+}

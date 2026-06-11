@@ -1,0 +1,318 @@
+{
+  "languages": [
+    {
+      "fluency": "Native",
+      "language": "Portugu\u00eas"
+    },
+    {
+      "fluency": "Advanced (B2 - Leitura e escrita)",
+      "language": "Ingl\u00eas"
+    }
+  ],
+  "projects": [
+    {
+      "url": "",
+      "description": "Projeto estrat\u00e9gico na BlueCX para conectar o Copilot Studio a bancos de vetores (RAG), transformando o assistente generalista em um especialista no dom\u00ednio de neg\u00f3cio do cliente, entregando respostas 30% mais precisas e contextuais. Incluiu a orquestra\u00e7\u00e3o de LLMs (como GPT-4 e Llama via Azure OpenAI), desenvolvimento de pipelines de RAG e implementa\u00e7\u00e3o de estrat\u00e9gias de AI Safety para mitigar alucina\u00e7\u00f5es e vieses.",
+      "highlights": [],
+      "keywords": [
+        "LLM",
+        "RAG",
+        "Copilot Studio",
+        "Bancos de Vetores",
+        "Azure OpenAI",
+        "IA Generativa",
+        "AI Safety",
+        "GPT-4",
+        "Llama"
+      ],
+      "name": "Integra\u00e7\u00e3o de Copilot Studio com Bancos de Vetores (RAG)"
+    },
+    {
+      "name": "Modelo de Predi\u00e7\u00e3o de Participa\u00e7\u00e3o em Eventos",
+      "keywords": [
+        "Machine Learning",
+        "Python",
+        "An\u00e1lise de Dados",
+        "Otimiza\u00e7\u00e3o de Marketing",
+        "Modelagem Preditiva"
+      ],
+      "url": "",
+      "description": "Desenvolvimento de um modelo de Machine Learning preditivo em Python para prever a participa\u00e7\u00e3o em eventos, otimizando a compra de materiais e investimentos em marketing em 15%. Foco na an\u00e1lise e extra\u00e7\u00e3o de dados para insights acion\u00e1veis e tomada de decis\u00e3o estrat\u00e9gica.",
+      "highlights": []
+    },
+    {
+      "name": "Aplicativo de Leitura de Notas Fiscais com Computer Vision",
+      "keywords": [
+        "Computer Vision",
+        "Automa\u00e7\u00e3o",
+        "An\u00e1lise de Risco",
+        "IA Aplicada",
+        "OCR"
+      ],
+      "description": "Cria\u00e7\u00e3o de um aplicativo para leitura e processamento automatizado de notas fiscais f\u00edsicas utilizando Computer Vision (OCR), integrado a um sistema de an\u00e1lise de risco de cr\u00e9dito, demonstrando aplica\u00e7\u00e3o pr\u00e1tica de IA para automa\u00e7\u00e3o de processos financeiros e redu\u00e7\u00e3o de erros manuais.",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "url": "",
+      "description": "Desenvolvimento de uma ferramenta de RPA interna para a Algar Tech, utilizando C#, .NET Core e Selenium, para automatizar processos de backoffice e reduzir custos com licenciamento de ferramentas de RPA em 30%, atendendo um volume de aproximadamente 8 milh\u00f5es de intera\u00e7\u00f5es mensais e otimizando a efici\u00eancia operacional.",
+      "highlights": [],
+      "keywords": [
+        "RPA",
+        "Automa\u00e7\u00e3o de Processos",
+        "C#",
+        ".NET Core",
+        "Selenium"
+      ],
+      "name": "Ferramenta de RPA Interna"
+    }
+  ],
+  "basics": {
+    "name": "Ricardo Martins",
+    "email": "ricardo.parallax@gmail.com",
+    "summary": "Profissional com vasta experi\u00eancia em arquitetura e engenharia de software, com foco recente e aprofundado na constru\u00e7\u00e3o e implementa\u00e7\u00e3o de sistemas de Intelig\u00eancia Artificial e LLM-powered applications em produ\u00e7\u00e3o. Especializado em integrar e orquestrar Large Language Models (LLMs) como GPT-4, Claude, Gemini, Llama (via Azure OpenAI Services e outras APIs) e Copilot Studio, desenvolvendo pipelines de RAG com bancos de vetores para criar assistentes especialistas e solu\u00e7\u00f5es de IA em produ\u00e7\u00e3o. Minha expertise abrange desde o fine-tuning e avalia\u00e7\u00e3o de modelos, passando pela engenharia de prompts avan\u00e7ada, at\u00e9 a constru\u00e7\u00e3o de APIs escal\u00e1veis e a garantia de AI safety (incluindo mitiga\u00e7\u00e3o de vieses e redu\u00e7\u00e3o de alucina\u00e7\u00f5es), sempre com uma vis\u00e3o pragm\u00e1tica para entregar valor de neg\u00f3cio e otimizar custos. Colaboro ativamente com equipes multifuncionais para transformar necessidades de neg\u00f3cio em solu\u00e7\u00f5es de IA robustas e escal\u00e1veis, incluindo o desenvolvimento e gest\u00e3o de agentes aut\u00f4nomos em ambientes de produ\u00e7\u00e3o.",
+    "profiles": [
+      {
+        "url": "https://www.linkedin.com/in/costaricardomartins/",
+        "network": "LinkedIn",
+        "username": "costaricardomartins"
+      }
+    ],
+    "location": {
+      "countryCode": "BR",
+      "region": "MG",
+      "city": "Uberl\u00e2ndia"
+    },
+    "label": "Engenheiro de IA | Arquiteto de Solu\u00e7\u00f5es | Tech Lead",
+    "phone": "(34) 98433-1954",
+    "url": "https://www.linkedin.com/in/costaricardomartins/"
+  },
+  "certificates": [
+    {
+      "date": "2025-12",
+      "name": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+      "issuer": "Microsoft"
+    },
+    {
+      "issuer": "Microsoft",
+      "date": "2025-12",
+      "name": "Microsoft Certified: Power Platform Developer Associate"
+    },
+    {
+      "date": "2023-12",
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)",
+      "issuer": "Microsoft"
+    },
+    {
+      "date": "2023-12",
+      "name": "Microsoft Certified: Power Platform Fundamentals (PL-900)",
+      "issuer": "Microsoft"
+    },
+    {
+      "issuer": "Microsoft",
+      "date": "2013-12",
+      "name": "Microsoft Certified Technology Specialist: Dynamics CRM 2011 Customization and Configuration"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Projetei, constru\u00ed e coloquei em produ\u00e7\u00e3o sistemas de intelig\u00eancia artificial e LLM-powered applications, integrando Copilot Studio com bancos de vetores (RAG) para criar assistentes especialistas no dom\u00ednio de neg\u00f3cio do cliente, utilizando modelos como GPT-4 (via Azure OpenAI) e Llama, resultando em respostas 30% mais precisas e contextuais.",
+        "Desenvolvi pipelines de RAG (Retrieval-Augmented Generation) e sistemas de busca sem\u00e2ntica, conectando Azure OpenAI Services (incluindo modelos como GPT-4 e outros transformer models) a sistemas legados via API REST, garantindo seguran\u00e7a (OAuth), escalabilidade e desempenho para milh\u00f5es de intera\u00e7\u00f5es.",
+        "Integrei e orquestrei LLMs (Azure OpenAI Services, incluindo a explora\u00e7\u00e3o de Claude e Gemini para benchmarks) em produtos e fluxos de trabalho, desenvolvendo modelos de ML para entrega de conhecimento especializado em processos de neg\u00f3cio e industriais \u2014 superando a limita\u00e7\u00e3o generalista das IAs generativas, reduzindo alucina\u00e7\u00f5es em 25% atrav\u00e9s de prompt engineering avan\u00e7ado e implementando estrat\u00e9gias de mitiga\u00e7\u00e3o de vieses para garantir AI safety.",
+        "Atuei fortemente com Python (LangChain, LlamaIndex) e C# na arquitetura de solu\u00e7\u00f5es no ecossistema Microsoft Azure e AWS, utilizando Copilot Studio, Power Automate, Azure AI Studio, Azure OpenAI Services, servi\u00e7os de DataLake e orquestra\u00e7\u00e3o de microsservi\u00e7os via Docker/Kubernetes para deploy de modelos em produ\u00e7\u00e3o.",
+        "Criei um modelo de predi\u00e7\u00e3o de participa\u00e7\u00e3o em eventos que otimizou a compra de materiais e investimentos em marketing em 15%, utilizando Python para an\u00e1lise e extra\u00e7\u00e3o de dados.",
+        "Realizei a gest\u00e3o p\u00f3s-implanta\u00e7\u00e3o, incluindo curadoria de conte\u00fado, monitoramento de m\u00e9tricas de uso, expans\u00e3o de funcionalidades e governan\u00e7a de custos de componentes de IA, pivotando modelos para manter a solu\u00e7\u00e3o com melhor custo-benef\u00edcio e utilizando LangSmith (e explorando Weights & Biases) para observabilidade, rastreamento de experimentos e otimiza\u00e7\u00e3o cont\u00ednua de LLMs em produ\u00e7\u00e3o.",
+        "Assegurei a escalabilidade e resili\u00eancia de agentes aut\u00f4nomos complexos em produ\u00e7\u00e3o, tanto no Copilot Studio quanto agentes RAG operando com Azure OpenAI, resolvendo problemas de neg\u00f3cio cr\u00edticos e garantindo alta disponibilidade. Liderei projeto estrat\u00e9gico de Customer Insights para uma das maiores cooperativas de cr\u00e9dito do pa\u00eds, aplicando an\u00e1lise de dados e automa\u00e7\u00f5es inteligentes para impactar mais de 500 mil clientes."
+      ],
+      "startDate": "2023-04",
+      "endDate": "Present",
+      "location": "",
+      "position": "Desenvolvedor Microsoft Dynamics | Engenheiro de IA",
+      "name": "BlueCX"
+    },
+    {
+      "position": "Arquiteto Microsoft Dynamics | Especialista em IA",
+      "name": "NTT DATA Europe & Latam",
+      "endDate": "2024-01",
+      "location": "Remoto \u2013 Brasil",
+      "highlights": [
+        "Conduzi iniciativas de integra\u00e7\u00e3o com Azure, Power Platform e automa\u00e7\u00f5es via IA, priorizando performance, seguran\u00e7a e escalabilidade, resultando na padroniza\u00e7\u00e3o de processos de CRM e na redu\u00e7\u00e3o de 20% do retrabalho operacional em vendas de sistemas IoT 5G.",
+        "Desenvolvi uma ferramenta de Machine Learning com IA para recomendar hor\u00e1rios e abordagens de contato com leads, otimizando estrat\u00e9gias de vendas de sistemas IoT 5G e aumentando a taxa de convers\u00e3o em 10% atrav\u00e9s de modelagem preditiva e an\u00e1lise de dados.",
+        "Desenhei a arquitetura de integra\u00e7\u00f5es entre o Dynamics e sistemas legados, aplicando boas pr\u00e1ticas de desenvolvimento como TDD, BDD e CI/CD."
+      ],
+      "startDate": "2023-05"
+    },
+    {
+      "highlights": [
+        "Criei um aplicativo para leitura e processamento automatizado de notas fiscais f\u00edsicas utilizando Computer Vision (visando a extra\u00e7\u00e3o de dados e OCR), integrando-o a um sistema de an\u00e1lise de risco de cr\u00e9dito, demonstrando aplica\u00e7\u00e3o pr\u00e1tica de IA para automa\u00e7\u00e3o e otimiza\u00e7\u00e3o de processos financeiros."
+      ],
+      "startDate": "2020-01",
+      "endDate": "2022-05",
+      "location": "Portugal",
+      "position": "Microsoft Dynamics 365 Specialist and System Architect",
+      "name": "Adentis Portugal"
+    },
+    {
+      "position": "Especialista Dynamics | Desenvolvedor RPA",
+      "name": "Algar Tech",
+      "endDate": "2020-01",
+      "location": "Uberl\u00e2ndia \u2013 MG",
+      "highlights": [
+        "Desenvolvi uma ferramenta de RPA interna utilizando C#, .Net Core e Selenium para automatizar processos de backoffice, atendendo um volume de aproximadamente 8 milh\u00f5es de intera\u00e7\u00f5es mensais e minimizando custos com licenciamento de ferramentas de RPA em 30%.",
+        "Atuei com foco em Azure AI Service, Azure Cognitive Services, Power Platform, Azure DataFactory e Azure Databricks, aplicando essas tecnologias para otimizar ambientes e processos, com \u00eanfase em automa\u00e7\u00e3o e processamento de dados em larga escala."
+      ],
+      "startDate": "2015-08"
+    },
+    {
+      "position": "Arquiteto de Solu\u00e7\u00f5es Dynamics e Azure",
+      "name": "Sistema Educacional Brasileiro S.A. (SEB)",
+      "highlights": [
+        "Criei solu\u00e7\u00f5es baseadas em dados para otimiza\u00e7\u00e3o de processos de vendas e atendimento, incluindo um sistema de vendas de matr\u00edculas intuitivo que reduziu a burocracia para 8 mil alunos em 18 unidades, aumentando a efici\u00eancia do processo em 25%."
+      ],
+      "startDate": "2022-06",
+      "endDate": "2023-09",
+      "location": ""
+    },
+    {
+      "endDate": "2015-08",
+      "location": "Presencial",
+      "highlights": [
+        "Atuei no Minist\u00e9rio das Rela\u00e7\u00f5es Exteriores, desenvolvendo um projeto de permissionamento usando OAuth para sistemas internos, com C# e Angular, utilizando SQL Server."
+      ],
+      "startDate": "2014-04",
+      "position": "Desenvolvedor .NET",
+      "name": "CAST Inform\u00e1tica SA"
+    },
+    {
+      "endDate": "2014-04",
+      "location": "Presencial",
+      "highlights": [
+        "Desenvolvi in\u00fameros projetos de integra\u00e7\u00e3o entre o Microsoft Dynamics 2011 e sistemas externos, incluindo um portal de atendimento ao cliente e uma ferramenta de importa\u00e7\u00e3o de dados n\u00e3o estruturados."
+      ],
+      "startDate": "2013-02",
+      "position": "Arquiteto .NET",
+      "name": "AlfaPeople"
+    },
+    {
+      "highlights": [
+        "Desenvolvi projetos de integra\u00e7\u00e3o entre o Microsoft Dynamics 2011 e sistemas externos, focando na interoperabilidade de dados e sistemas."
+      ],
+      "startDate": "2009-10",
+      "endDate": "2012-12",
+      "location": "Presencial",
+      "position": "Arquiteto de Solu\u00e7\u00f5es",
+      "name": "L3 Inform\u00e1tica"
+    }
+  ],
+  "education": [
+    {
+      "studyType": "Bacharelado",
+      "courses": [],
+      "institution": "Anhanguera",
+      "gpa": "",
+      "endDate": "2027-02",
+      "area": "Ci\u00eancias de Dados",
+      "location": "",
+      "startDate": ""
+    },
+    {
+      "gpa": "",
+      "endDate": "2015-12",
+      "area": "Engenharia em Gest\u00e3o de Projetos",
+      "location": "",
+      "startDate": "",
+      "studyType": "P\u00f3s-gradua\u00e7\u00e3o",
+      "courses": [],
+      "institution": "UFABC"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "LLMs (GPT-4, Claude, Gemini, Llama, modelos Hugging Face)",
+        "IA Generativa",
+        "RAG (Retrieval-Augmented Generation)",
+        "Prompt Engineering",
+        "Fine-tuning e Avalia\u00e7\u00e3o de LLMs",
+        "Agentes Aut\u00f4nomos e Multi-Agente (LangChain, CrewAI, AutoGen)",
+        "Vector Databases (Pinecone, Weaviate, ChromaDB, pgvector)",
+        "Embeddings (OpenAI Ada, Cohere, sentence-transformers)",
+        "Semantic Search",
+        "AI Safety (bias mitigation, hallucination reduction)",
+        "Machine Learning (supervisionado/n\u00e3o supervisionado)",
+        "Azure AI Studio",
+        "Azure OpenAI Services",
+        "Azure Cognitive Services",
+        "Computer Vision",
+        "Copilot Studio (integra\u00e7\u00e3o com bancos de vetores para especializa\u00e7\u00e3o de dom\u00ednio)",
+        "NLP (Processamento de Linguagem Natural)",
+        "Transformer Models",
+        "Scikit-Learn",
+        "Pandas / NumPy"
+      ],
+      "name": "Intelig\u00eancia Artificial & Machine Learning"
+    },
+    {
+      "keywords": [
+        "AWS (Bedrock)",
+        "GCP (Vertex AI)",
+        "Azure (Azure OpenAI, Azure Functions, Azure Logic Apps, Azure DataLake, Azure DataFactory, Azure Databricks)",
+        "MLOps (Weights & Biases, LangSmith, Langfuse)",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Git / GitHub",
+        "Azure DevOps"
+      ],
+      "name": "Cloud & MLOps"
+    },
+    {
+      "keywords": [
+        "Python (LangChain, LlamaIndex, CrewAI, Haystack)",
+        "C# / .NET",
+        "JavaScript",
+        "TypeScript",
+        "FastAPI",
+        "Flask",
+        "RESTful Design",
+        "APIs (OpenAI, Anthropic Claude, Google Gemini, Hugging Face)"
+      ],
+      "name": "Linguagens de Programa\u00e7\u00e3o & APIs"
+    },
+    {
+      "keywords": [
+        "SQL Server",
+        "pgvector"
+      ],
+      "name": "Banco de Dados"
+    },
+    {
+      "keywords": [
+        "Visual Studio",
+        "Visual Studio Code",
+        "Selenium (Testes e RPA)",
+        "Figma",
+        "Postman / Insomnia",
+        "React",
+        "TDD / BDD",
+        "Scrum"
+      ],
+      "name": "Ferramentas & Metodologias"
+    },
+    {
+      "keywords": [
+        "Microsoft Dynamics 365 (CRM/CE)",
+        "Power Platform (geral)",
+        "Power Automate",
+        "Power Apps",
+        "Power BI",
+        "Copilot Studio (ex-Power Virtual Agents)",
+        "Dynamics 365 Customer Insights",
+        "Dynamics 365 Customer Insights \u2013 Journeys"
+      ],
+      "name": "CRM & Ecossistema Microsoft"
+    }
+  ],
+  "interests": []
+}

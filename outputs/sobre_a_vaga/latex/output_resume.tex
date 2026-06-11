@@ -1,0 +1,183 @@
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{fontawesome}
+\usepackage{xcolor}
+\usepackage{amsmath}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+    \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeCertification}[2]{%
+  \item
+  \begin{tabular*}{0.97\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+    #1 & \text{#2} \\
+  \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1: #2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0em, itemindent=0em, label={}, itemsep=0ex]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+\textbf{\href{}{\Large Ricardo Martins}} & Email: \href{mailto:ricardo.parallax@gmail.com}{\faEnvelope} ricardo.parallax@gmail.com \\
+\href{https://www.linkedin.com/in/costaricardomartins/}{LinkedIn: costaricardomartins} \\\hspace{10pt} & Phone: (34) 98433-1954\\\end{tabular*}
+
+%-----------SKILLS-----------------
+\section{Skills}
+\resumeSubHeadingListStart
+\resumeSubItem{\textbf{Inteligência Artificial \& Machine Learning}}{IA Generativa, LLMs, Agentes inteligentes, Machine Learning supervisionado e não supervisionado, Azure AI, Computer Vision, Scikit-Learn, Pandas, NumPy, Desenvolvimento de modelos de linguagem, Desenvolvimento de Machine Learning com Python}
+\resumeSubItem{\textbf{Automação de Processos \& Integração}}{Automação inteligente, RPA, Power Automate, Copilot Studio, Power Apps, Power Virtual Agents, Integração de APIs, CI/CD, TDD, BDD, Automação de processos, Criação de ferramentas personalizadas, Integração de sistemas}
+\resumeSubItem{\textbf{Análise e Engenharia de Dados}}{Análise de Dados, Modelagem de dados, ETL, Pipelines de dados, Azure DataFactory, Azure Databricks, Azure DataLake}
+\resumeSubItem{\textbf{Cloud \& DevOps}}{Azure Functions, Azure Logic Apps, Azure DevOps, AWS, Git, GitHub, Docker, Implantação de soluções em nuvem}
+\resumeSubItem{\textbf{Linguagens de Programação}}{Python, C\#, .NET, JavaScript, TypeScript}
+\resumeSubItem{\textbf{Plataformas CRM \& Low-Code}}{Microsoft Dynamics 365, Power Platform, Power BI, Dynamics 365 Customer Insights, Dynamics 365 Customer Insights – Journeys}
+\resumeSubItem{\textbf{Banco de Dados}}{SQL Server}
+\resumeSubItem{\textbf{Soft Skills}}{Visão analítica, Foco em eficiência, Uso estratégico da tecnologia, Capacidade de orientar e capacitar colaboradores, Adaptabilidade, Aprendizado contínuo, Tomada de decisão, Solução de problemas, Agilidade, Organização, Mapeamento de Oportunidades, Acompanhamento de Resultados}
+\resumeSubItem{\textbf{Ferramentas \& IDEs}}{Visual Studio, Visual Studio Code, Selenium, Figma, Postman, Insomnia}
+\resumeSubItem{\textbf{Frontend \& Mobile}}{React}
+\resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------------
+\section{Work Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{BlueCX}{2025-04 – 2026-04}
+{Desenvolvedor Microsoft Dynamics}{Brasil}
+\resumeItemListStart
+\resumeItem{Desenvolvi e implementei um modelo de predição de participação em eventos utilizando Python e Machine Learning, otimizando a alocação de recursos e investimentos em marketing.}
+\resumeItem{Automatizei integrações críticas entre o Dynamics 365 e sistemas legados via API REST e serviços AWS, garantindo a fluidez dos dados e a eficiência operacional.}
+\resumeItem{Liderei a construção de pipelines de dados e soluções de IA utilizando Azure AI Service, Azure Cognitive Services, Azure DataFactory e Azure Databricks, impulsionando a inteligência de negócios.}
+\resumeItem{Utilizei C\# e Python para análises e extração de dados estratégicos, fornecendo insights para a identificação de oportunidades de automação e suporte à decisão.}
+\resumeItemListEnd
+
+\resumeSubheading
+{NTT DATA Europe \& Latam}{2024-05 – 2025-01}
+{Arquiteto Microsoft Dynamics}{Brasil}
+\resumeItemListStart
+\resumeItem{Conduzi iniciativas de integração e automação com IA, Azure e Power Platform, padronizando processos de CRM e reduzindo significativamente o retrabalho operacional em vendas de sistemas IoT 5G para a TIM.}
+\resumeItem{Desenvolvi uma ferramenta baseada em IA para otimizar a abordagem e o timing de contato com leads, resultando em um aumento direto na taxa de conversão.}
+\resumeItem{Desenhei arquiteturas de integração robustas entre Dynamics 365 e sistemas legados, aplicando as melhores práticas de TDD, BDD e CI/CD para garantir escalabilidade e manutenção.}
+\resumeItem{Colaborei com lideranças e equipes operacionais para mapear oportunidades e garantir a integração estratégica das soluções de IA e automação com a estratégia da empresa.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Adentis Portugal}{2020-01 – 2022-05}
+{Microsoft Dynamics 365 Specialist and System Architect}{Portugal (Portugal, Alemanha e Dinamarca)}
+\resumeItemListStart
+\resumeItem{Desenvolvi e implementei um aplicativo com Computer Vision (Azure) para leitura automatizada de notas fiscais, integrado a um sistema de análise de risco de crédito, resultando na redução de 70\% do processamento manual e aumento de 95\% na acurácia.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Algar Tech}{2015-08 – 2020-01}
+{Especialista Dynamics}{Uberlândia – MG}
+\resumeItemListStart
+\resumeItem{Desenvolvi uma ferramenta interna de RPA utilizando C\#, .NET Core e Selenium, eliminando custos de licenciamento externos e automatizando mais de 8 milhões de interações mensais, otimizando processos e reduzindo despesas.}
+\resumeItem{Apliquei Azure AI Service, Azure Cognitive Services, Azure DataLake, Azure Computer Vision, Azure DataFactory e Azure Databricks em projetos estratégicos de dados e automação inteligente, gerando insights e eficiências operacionais.}
+\resumeItem{Revitalizei o BackOffice de um call center, otimizando processos através da substituição de entidades personalizadas por nativas do Dynamics 365, elevando a confiabilidade e reduzindo custos de evolução.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Sistema Educacional Brasileiro S.A.}{2022-06 – 2023-09}
+{Arquiteto de Soluções Dynamics e Azure}{Brasil}
+\resumeItemListStart
+\resumeItem{Criei e implementei soluções baseadas em análise de dados para otimizar processos de vendas e atendimento, identificando gargalos e contribuindo para a eficiência operacional.}
+\resumeItem{Implementei soluções orientadas a dados, utilizando insights para a otimização contínua de processos internos e acompanhamento de resultados.}
+\resumeItemListEnd
+
+\resumeSubheading
+{AlfaPeople}{2013-02 – 2014-04}
+{Arquiteto .NET}{Brasil}
+\resumeItemListStart
+\resumeItem{Desenvolvi múltiplos projetos de integração entre Microsoft Dynamics 2011 e sistemas externos, garantindo a conectividade e fluxo de dados.}
+\resumeItemListEnd
+
+\resumeSubheading
+{CAST Informática SA}{2014-04 – 2015-08}
+{Desenvolvedor .NET}{Brasil}
+\resumeItemListStart
+\resumeItem{Desenvolvi sistema de permissionamento OAuth para os sistemas internos do Ministério das Relações Exteriores, utilizando C\#, Angular e SQL Server.}
+\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{Education}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Anhanguera}{ - 2027-02}
+{Bacharelado (cursando) in Ciências de Dados}{Brasil}
+
+\resumeSubheading
+{UFABC}{ - 2015}
+{Pós-graduação in Engenharia em Gestão de Projetos}{Brasil}
+\resumeSubHeadingListEnd
+
+\section{Projects}
+\resumeSubHeadingListStart
+\resumeSubItem{\textbf{Projetos em IA e Dados}}{Desenvolvimento de soluções com Machine Learning em Python para suporte à decisão, automações com IA Generativa para produção de conteúdo e otimização de processos, e pipelines inteligentes para coleta, processamento e uso de dados, com foco na geração de insights estratégicos e acompanhamento de resultados.}
+\resumeSubItem{\textbf{Ferramenta de RPA Interna}}{Desenvolvimento de ferramenta interna de RPA na Algar Tech para automação de processos críticos e redução de custos operacionais.}
+\resumeSubItem{\textbf{Revitalização do BackOffice}}{Projeto de revitalização e modernização do backoffice na Algar Tech, focado na otimização de processos e redução de custos.}
+\resumeSubHeadingListEnd
+
+%-----------CERTIFICATIONS-----------------
+\section{Certifications}
+\resumeSubHeadingListStart
+\resumeCertification{Microsoft Certified: Azure AI Fundamentals}{2025}{}{}
+\resumeCertification{Microsoft Certified: Power Platform Developer Associate}{2025}{}{}
+\resumeCertification{Microsoft Certified: Dynamics 365 Fundamentals (CRM)}{2023}{}{}
+\resumeCertification{Microsoft Certified: Power Platform Fundamentals}{2023}{}{}
+\resumeCertification{Microsoft Certified Technology Specialist: Microsoft Dynamics CRM 2011 Customization and Configuration}{2013}{}{}
+\resumeSubHeadingListEnd
+\end{document}

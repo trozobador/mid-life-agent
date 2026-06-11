@@ -7,5 +7,4 @@ trained_agents_data.pkl
 .env
 .venv/
 *.pyc
-outputs/*/
 input/

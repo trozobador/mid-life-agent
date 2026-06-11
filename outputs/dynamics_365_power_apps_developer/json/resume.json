@@ -1,0 +1,202 @@
+{
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Power Platform Developer Associate",
+      "issuer": "Microsoft",
+      "date": "2025"
+    },
+    {
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM)",
+      "issuer": "Microsoft",
+      "date": "2023"
+    },
+    {
+      "name": "Microsoft Certified: Power Platform Fundamentals",
+      "issuer": "Microsoft",
+      "date": "2023"
+    }
+  ],
+  "work": [
+    {
+      "name": "BlueCX",
+      "endDate": "Present",
+      "position": "Microsoft Dynamics 365 Power Apps Developer",
+      "location": "Brazil",
+      "startDate": "2025-04",
+      "highlights": [
+        "Led a strategic Customer Insights project for 500K+ associates, evolving D365 CE and migrating to D365 Customer Insights \u2013 Journeys with zero downtime, reducing campaign cycle time by ~30%.",
+        "Developed Power Automate and Dataverse automations, and CE\u2194legacy system integrations, increasing data coverage by over 40%. Conducted technical workshops and knowledge transfer for 20+ users, ensuring robust system adoption."
+      ]
+    },
+    {
+      "location": "Brazil",
+      "startDate": "2024-05",
+      "endDate": "2025-01",
+      "position": "Microsoft Dynamics 365 & Power Platform Architect",
+      "highlights": [
+        "Led full-cycle D365 CE implementations, architecting and deploying CE\u2194F&O integrations via Azure Service Bus, reducing latency by 60%, and D365\u2194legacy systems via Azure Logic Apps/Functions.",
+        "Conducted As-Is/To-Be mapping for an IoT 5G project, reducing operational rework by 35%. Ensured adherence to best practices including CI/CD and Agile/Scrum methodologies."
+      ],
+      "name": "NTT DATA Europe & Latam"
+    },
+    {
+      "highlights": [
+        "Reimplemented D365 for 500+ schools, eliminating critical errors in Plugins/Flows and restoring system stability within 30 days, demonstrating forensic attention to detail and extreme ownership.",
+        "Developed a student enrollment sales system integrated with D365 via REST APIs, increasing Up Selling conversion by 25% for 80K+ students. Supported data migration and cleansing for 1M+ records in Dataverse."
+      ],
+      "endDate": "2023-09",
+      "position": "Dynamics 365 & Azure Solutions Architect",
+      "location": "Brazil",
+      "startDate": "2022-06",
+      "name": "Sistema Educacional Brasileiro S.A."
+    },
+    {
+      "name": "Adentis Portugal",
+      "highlights": [
+        "Led full-cycle D365 CE implementations (Sales, Customer Service, Field Service) across Europe.",
+        "Developed ISV solutions and advanced customizations (C# Plugins, Power Apps, Power Automate) for 5+ clients, reducing client onboarding time by 40%.",
+        "Created a D365-integrated app for automated invoice reading via Computer Vision, reducing manual processing by 70% with over 95% accuracy."
+      ],
+      "endDate": "2022-05",
+      "position": "Microsoft Dynamics 365 Specialist & System Architect",
+      "location": "Portugal",
+      "startDate": "2020-01"
+    },
+    {
+      "location": "Brazil",
+      "startDate": "2015-08",
+      "endDate": "2020-01",
+      "position": "Dynamics 365 Specialist | ERP & CRM Consultant",
+      "highlights": [
+        "Conducted D365 CE implementations and customizations (Sales, Customer Service) for telecom clients, covering ERP-adjacent processes.",
+        "Applied Microsoft Sure Step methodology, reducing scope deviations by 20% and ensuring on-time delivery for 10+ clients. Managed the transition from Dynamics CRM to D365 Cloud.",
+        "Developed RPA tools and integrations via REST APIs/OData, modernizing backoffice operations and reducing rework by 30%."
+      ],
+      "name": "Algar Tech"
+    },
+    {
+      "name": "AlfaPeople / CAST Inform\u00e1tica / L3 Inform\u00e1tica",
+      "highlights": [
+        "Developed C#/.NET customizations and plugins for 10+ Dynamics CRM 2011\u20132015 clients, including integrations with legacy ERP systems.",
+        "Participated in implementations using Microsoft Sure Step, building a strong technical foundation in .NET architecture, SQL Server, and Dynamics CRM."
+      ],
+      "location": "Brazil",
+      "startDate": "2009-10",
+      "endDate": "2015-08",
+      "position": ".NET Architect & Microsoft Dynamics Consultant"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Dynamics 365",
+        "Power Platform",
+        "Power Apps (Model-Driven, Canvas, Component Libraries)",
+        "Power Automate",
+        "Dataverse",
+        "Power BI",
+        "Power Platform Connectors",
+        "D365 Customization (Plugins, Workflows, Business Rules)",
+        "Security Roles (Power Platform/Dataverse)",
+        "Solution Layering"
+      ],
+      "name": "Microsoft Dynamics 365 & Power Platform"
+    },
+    {
+      "keywords": [
+        "C#",
+        "JavaScript",
+        ".NET",
+        "REST/SOAP APIs",
+        "System Integration"
+      ],
+      "name": "Languages & Integration"
+    },
+    {
+      "keywords": [
+        "Azure Functions",
+        "Azure Logic Apps",
+        "Azure DevOps",
+        "CI/CD",
+        "Agile/Scrum"
+      ],
+      "name": "Cloud & Methodologies"
+    },
+    {
+      "keywords": [
+        "Dataverse",
+        "SQL Server",
+        "Data Modeling",
+        "Data Migration",
+        "ETL"
+      ],
+      "name": "Data & Databases"
+    },
+    {
+      "keywords": [
+        "Attention to Detail",
+        "Problem Solving",
+        "Extreme Ownership",
+        "Stakeholder Management",
+        "Collaboration",
+        "Critical Thinking"
+      ],
+      "name": "Soft Skills"
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native",
+      "language": "Portuguese"
+    },
+    {
+      "fluency": "Advanced (Fluent in spoken and written communication for business and technical contexts)",
+      "language": "English"
+    }
+  ],
+  "education": [
+    {
+      "area": "Computer Science (Assumed)",
+      "studyType": "Bachelor's Degree",
+      "endDate": "2009-12",
+      "startDate": "2005-01",
+      "institution": "Federal University of Uberl\u00e2ndia (Assumed)"
+    },
+    {
+      "area": "Project Management Engineering",
+      "studyType": "Postgraduate Degree",
+      "startDate": "2000-01",
+      "endDate": "2015",
+      "institution": "UFABC"
+    },
+    {
+      "startDate": "2000-01",
+      "endDate": "2027-02",
+      "area": "Data Science",
+      "studyType": "Bachelor's Degree (In Progress)",
+      "institution": "Est\u00e1cio"
+    }
+  ],
+  "interests": [],
+  "projects": [],
+  "basics": {
+    "location": {
+      "city": "Uberl\u00e2ndia",
+      "region": "MG",
+      "countryCode": "BR"
+    },
+    "summary": "Highly accomplished Dynamics 365 Power Apps Developer and Power Platform Solutions Architect with 8+ years of experience. Expert in Power Apps (model-driven, canvas, component libraries), Dataverse, and Power Automate; proven expertise in D365 customization (C#, JavaScript) and robust system integrations (REST/SOAP APIs). Demonstrated ability in designing scalable solutions, optimizing performance, and troubleshooting complex issues, consistently delivering high-quality enterprise applications. Strong commitment to 'Extreme Ownership' and forensic attention to detail, driving successful outcomes for clients. Proficient in Agile/Scrum and CI/CD practices.",
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "profiles": [
+      {
+        "username": "costaricardomartins",
+        "url": "https://www.linkedin.com/in/costaricardomartins/",
+        "network": "LinkedIn"
+      }
+    ],
+    "label": "Dynamics 365 Power Apps Developer | Power Platform Solutions Architect",
+    "name": "Ricardo Martins",
+    "phone": "(34) 98433-1954",
+    "email": "ricardo.parallax@gmail.com"
+  }
+}

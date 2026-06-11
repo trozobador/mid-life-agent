@@ -1,0 +1,195 @@
+{
+  "basics": {
+    "name": "Ricardo Martins",
+    "label": "Arquiteto Corporativo S\u00eanior",
+    "email": "ricardo.parallax@gmail.com",
+    "phone": "(34) 98433-1954",
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "summary": "Arquiteto de Solu\u00e7\u00f5es com mais de 30 anos de experi\u00eancia em projetos de arquitetura de software em grande escala, especialmente no setor financeiro. Tenho s\u00f3lida experi\u00eancia em arquiteturas orientadas a microsservi\u00e7os e na utiliza\u00e7\u00e3o de frameworks como TOGAF. Capacidade comprovada de traduzir desafios complexos de neg\u00f3cios em solu\u00e7\u00f5es tecnol\u00f3gicas robustas e escal\u00e1veis, com foco em integra\u00e7\u00e3o de tecnologias e metodologias \u00e1geis.",
+    "location": {
+      "city": "Uberl\u00e2ndia",
+      "countryCode": "BR",
+      "region": "MG"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "costaricardomartins",
+        "url": "https://www.linkedin.com/in/costaricardomartins/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BlueCX",
+      "position": "Desenvolvedor Microsoft Dynamics",
+      "location": "",
+      "startDate": "2025-04",
+      "endDate": "2026-04",
+      "highlights": [
+        "Liderei a implanta\u00e7\u00e3o do Marketing de Evento no Dynamics 365, reduzindo 95% dos bugs reportados.",
+        "Automatizei a integra\u00e7\u00e3o do Dynamics com sistemas legados via API REST, garantindo seguran\u00e7a e escalabilidade.",
+        "Treinei e mentorei desenvolvedores em boas pr\u00e1ticas de arquitetura e desenvolvimento.",
+        "Implementei solu\u00e7\u00f5es de IA no Azure, integrando servi\u00e7os como Azure AI Studio e Azure OpenAI Services.",
+        "Participei de projeto estrat\u00e9gico de Customer Insights para uma grande cooperativa de cr\u00e9dito.",
+        "Desenvolvi modelos preditivos para otimiza\u00e7\u00e3o de campanhas de marketing, aumentando a efic\u00e1cia em 20%.",
+        "Realizei workshops para dissemina\u00e7\u00e3o de pr\u00e1ticas \u00e1geis e de integra\u00e7\u00e3o cont\u00ednua entre as equipes.",
+        "Conduzi a migra\u00e7\u00e3o de sistemas legados para uma arquitetura de microsservi\u00e7os, melhorando a escalabilidade e a manuten\u00e7\u00e3o."
+      ]
+    },
+    {
+      "name": "NTT DATA Europe & Latam",
+      "position": "Arquiteto Microsoft Dynamics",
+      "location": "Remoto \u2013 Brasil",
+      "startDate": "2024-05",
+      "endDate": "2025-01",
+      "highlights": [
+        "Lideran\u00e7a em projetos de implementa\u00e7\u00e3o do Microsoft Dynamics 365 em grandes clientes.",
+        "Conduzi a integra\u00e7\u00e3o com Azure e Power Platform, priorizando performance e escalabilidade.",
+        "Desenvolvi softwares em JavaScript para customiza\u00e7\u00e3o do Dynamics e integra\u00e7\u00e3o com sistemas legados.",
+        "Participei ativamente dos ritos do Scrum, apoiando a equipe na solu\u00e7\u00e3o de problemas.",
+        "Gerenciei a comunica\u00e7\u00e3o entre equipes t\u00e9cnicas e n\u00e3o t\u00e9cnicas.",
+        "Implementei melhorias de processos que resultaram em uma redu\u00e7\u00e3o de 15% no tempo de entrega dos projetos.",
+        "Colaborei na defini\u00e7\u00e3o de estrat\u00e9gias de ado\u00e7\u00e3o de novas tecnologias para otimiza\u00e7\u00e3o de recursos.",
+        "Desenvolvi uma arquitetura de refer\u00eancia para integra\u00e7\u00f5es entre Dynamics 365 e servi\u00e7os em nuvem, garantindo flexibilidade e seguran\u00e7a."
+      ]
+    },
+    {
+      "name": "Sistema Educacional Brasileiro S.A. (SEB)",
+      "position": "Arquiteto de Solu\u00e7\u00f5es Dynamics e Azure",
+      "location": "",
+      "startDate": "2022-06",
+      "endDate": "2023-09",
+      "highlights": [
+        "Reimplantei o Microsoft Dynamics, reduzindo erros em Plugins e Flow.",
+        "Negociei budget diretamente com stakeholders para garantir o andamento do projeto.",
+        "Criei solu\u00e7\u00f5es baseadas em dados para otimiza\u00e7\u00e3o de processos de vendas e atendimento.",
+        "Desenvolvi um sistema de relat\u00f3rios automatizados que reduziu o tempo de an\u00e1lise em 30%.",
+        "Implementei integra\u00e7\u00f5es com plataformas de e-learning, melhorando a experi\u00eancia do usu\u00e1rio.",
+        "Liderei a implementa\u00e7\u00e3o de uma plataforma de dados centralizada, facilitando o acesso a informa\u00e7\u00f5es cr\u00edticas para a tomada de decis\u00e3o."
+      ]
+    },
+    {
+      "name": "Algar Tech",
+      "position": "Especialista Dynamics",
+      "location": "Uberl\u00e2ndia \u2013 MG",
+      "startDate": "2015-08",
+      "endDate": "2020-01",
+      "highlights": [
+        "Revitalizei o BackOffice com Dynamics 365, aumentando a produtividade das equipes.",
+        "Desenvolvi uma ferramenta interna de RPA com .NET Core e Selenium.",
+        "Estabilizei o ambiente existente, reduzindo erros e aumentando a confiabilidade.",
+        "Liderei a transi\u00e7\u00e3o para uma arquitetura baseada em microsservi\u00e7os, melhorando a escalabilidade.",
+        "Implementei pr\u00e1ticas de DevOps que reduziram o tempo de implanta\u00e7\u00e3o em 25%.",
+        "Desenvolvi um sistema de monitoramento de performance em tempo real, permitindo ajustes proativos e redu\u00e7\u00e3o de downtime."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anhanguera",
+      "area": "Ci\u00eancias de Dados",
+      "studyType": "Bacharelado",
+      "location": "",
+      "endDate": "2027-02"
+    },
+    {
+      "institution": "UFABC",
+      "area": "Engenharia em Gest\u00e3o de Projetos",
+      "studyType": "P\u00f3s-gradua\u00e7\u00e3o",
+      "location": "",
+      "endDate": "2015-12"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Arquitetura de Software",
+      "keywords": [
+        "TOGAF",
+        "Design Patterns",
+        "Microsservi\u00e7os",
+        "Domain-Driven Design (DDD)"
+      ]
+    },
+    {
+      "name": "CRM & Microsoft Ecosystem",
+      "keywords": [
+        "Microsoft Dynamics 365",
+        "Power Platform",
+        "Azure"
+      ]
+    },
+    {
+      "name": "Metodologias \u00c1geis",
+      "keywords": [
+        "Scrum",
+        "Kanban"
+      ]
+    },
+    {
+      "name": "Linguagens de Programa\u00e7\u00e3o",
+      "keywords": [
+        "C#",
+        "JavaScript",
+        "Python"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "keywords": [
+        "Azure Functions",
+        "AWS",
+        "Docker"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Power Platform Developer Associate",
+      "issuer": "Microsoft",
+      "date": "2025-12"
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+      "issuer": "Microsoft",
+      "date": "2025-12"
+    },
+    {
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)",
+      "issuer": "Microsoft",
+      "date": "2023-12"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ferramenta de RPA Interna",
+      "description": "Desenvolvimento de uma ferramenta de RPA interna para a Algar Tech, utilizando C#, .NET Core e Selenium, para automatizar processos de backoffice e reduzir custos com licenciamento de ferramentas de RPA.",
+      "keywords": [
+        "RPA",
+        "C#",
+        ".NET Core",
+        "Selenium"
+      ]
+    },
+    {
+      "name": "Revitaliza\u00e7\u00e3o do BackOffice",
+      "description": "Reestrutura\u00e7\u00e3o completa do BackOffice da Algar Tech utilizando Dynamics 365, substituindo entidades personalizadas por entidades nativas da ferramenta para elevar a confiabilidade do produto.",
+      "keywords": [
+        "Dynamics 365",
+        "BackOffice",
+        "Otimiza\u00e7\u00e3o de Processos"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portugu\u00eas",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Ingl\u00eas",
+      "fluency": "Avan\u00e7ado (B2 - Leitura e escrita)"
+    }
+  ],
+  "interests": []
+}

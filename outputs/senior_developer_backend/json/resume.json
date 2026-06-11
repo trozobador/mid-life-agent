@@ -1,0 +1,335 @@
+{
+  "projects": [
+    {
+      "description": "Desenvolvimento de uma ferramenta interna de RPA com C# e .NET Core para automatizar processos, eliminando a depend\u00eancia de licen\u00e7as externas e otimizando opera\u00e7\u00f5es.",
+      "highlights": [
+        "Desenvolvi uma solu\u00e7\u00e3o de automa\u00e7\u00e3o de processos (RPA) utilizando C# e .NET Core, substituindo ferramentas de terceiros e processando milh\u00f5es de intera\u00e7\u00f5es mensalmente.",
+        "Implementei padr\u00f5es de c\u00f3digo e arquitetura robustos para garantir a escalabilidade e a manuten\u00e7\u00e3o da ferramenta."
+      ],
+      "name": "Ferramenta de RPA Interna",
+      "keywords": [
+        "RPA",
+        "Automa\u00e7\u00e3o",
+        ".NET Core",
+        "C#",
+        "Desenvolvimento Backend"
+      ],
+      "url": ""
+    },
+    {
+      "url": "",
+      "name": "Projetos em IA e Dados",
+      "keywords": [
+        "Machine Learning",
+        "IA Generativa",
+        "Python",
+        "Pipelines de Dados",
+        "LLMs",
+        "Azure AI",
+        "IA aplicada ao desenvolvimento"
+      ],
+      "highlights": [
+        "Desenvolvi solu\u00e7\u00f5es com Machine Learning em Python para suporte \u00e0 decis\u00e3o, aplicando algoritmos de predi\u00e7\u00e3o e classifica\u00e7\u00e3o.",
+        "Criei automa\u00e7\u00f5es com IA generativa para otimiza\u00e7\u00e3o de processos e produ\u00e7\u00e3o de conte\u00fado, utilizando LLMs e agentes inteligentes.",
+        "Desenvolvi pipelines inteligentes para coleta, processamento e uso de dados, integrando diversas fontes e servi\u00e7os Azure."
+      ],
+      "description": "Desenvolvimento de solu\u00e7\u00f5es com Machine Learning em Python para suporte \u00e0 decis\u00e3o, automa\u00e7\u00f5es com IA generativa para produ\u00e7\u00e3o de conte\u00fado e otimiza\u00e7\u00e3o de processos, e pipelines inteligentes para coleta, processamento e uso de dados."
+    }
+  ],
+  "work": [
+    {
+      "position": "Desenvolvedor Backend S\u00eanior",
+      "name": "BlueCX",
+      "location": "Brasil",
+      "highlights": [
+        "Desenvolvi e otimizei APIs RESTful e autentica\u00e7\u00e3o OAuth para integra\u00e7\u00e3o de sistemas backend, utilizando servi\u00e7os AWS para garantir seguran\u00e7a, escalabilidade e um aumento de [X%] no desempenho das aplica\u00e7\u00f5es.",
+        "Implementei modelos de predi\u00e7\u00e3o com Python e Machine Learning para otimiza\u00e7\u00e3o de processos de neg\u00f3cio, resultando em uma melhoria de [Y%] na efici\u00eancia operacional e gerando insights estrat\u00e9gicos.",
+        "Constru\u00ed pipelines de dados robustos e solu\u00e7\u00f5es de IA aplicada ao neg\u00f3cio utilizando Azure AI Service, Azure Cognitive Services e Azure DataFactory, otimizando o processamento de dados em [Z%].",
+        "Mentorei desenvolvedores backend, promovendo boas pr\u00e1ticas de arquitetura de microsservi\u00e7os e padr\u00f5es de c\u00f3digo em projetos C#/.NET, elevando a qualidade do c\u00f3digo em [W%]."
+      ],
+      "startDate": "2023-04",
+      "endDate": "2024-04"
+    },
+    {
+      "startDate": "2022-06",
+      "endDate": "2023-09",
+      "position": "Arquiteto de Solu\u00e7\u00f5es Azure e Backend",
+      "name": "Sistema Educacional Brasileiro S.A.",
+      "location": "Brasil",
+      "highlights": [
+        "Realizei Code Review e an\u00e1lise de performance para solu\u00e7\u00f5es backend em Azure, garantindo a aplica\u00e7\u00e3o de padr\u00f5es de c\u00f3digo e arquitetura de microsservi\u00e7os, resultando em uma melhoria de [X%] na performance e escalabilidade."
+      ]
+    },
+    {
+      "position": "Arquiteto de Solu\u00e7\u00f5es Backend",
+      "name": "NTT DATA Europe & Latam",
+      "location": "Brasil",
+      "highlights": [
+        "Desenhei e implementei arquiteturas de integra\u00e7\u00e3o complexas para sistemas backend, aplicando TDD, BDD e pipelines de CI/CD, o que reduziu o tempo de deploy em [X%] e aumentou a qualidade do software.",
+        "Conduzi iniciativas de integra\u00e7\u00e3o com Azure e automa\u00e7\u00f5es via IA para padroniza\u00e7\u00e3o de processos, resultando em uma redu\u00e7\u00e3o de [Y%] no retrabalho operacional.",
+        "Desenvolvi ferramentas com IA para otimizar abordagens de contato com leads, melhorando a taxa de convers\u00e3o em [Z%] e demonstrando expertise em IA aplicada ao desenvolvimento."
+      ],
+      "startDate": "2022-05",
+      "endDate": "2023-01"
+    },
+    {
+      "endDate": "2022-05",
+      "startDate": "2020-01",
+      "highlights": [
+        "Criei uma aplica\u00e7\u00e3o com Computer Vision (Azure) para leitura automatizada de notas fiscais, integrada a um sistema de an\u00e1lise de risco de cr\u00e9dito, reduzindo o processamento manual em 70% e aumentando a acur\u00e1cia em 95%.",
+        "Atuei no desenvolvimento e suporte de projetos backend, aplicando padr\u00f5es de arquitetura e c\u00f3digo em um ambiente distribu\u00eddo de microsservi\u00e7os .NET."
+      ],
+      "location": "Portugal (Portugal, Alemanha e Dinamarca)",
+      "position": "Especialista em Sistemas e Arquiteto de Solu\u00e7\u00f5es",
+      "name": "Adentis Portugal"
+    },
+    {
+      "startDate": "2015-08",
+      "endDate": "2020-01",
+      "position": "Especialista em Desenvolvimento Backend",
+      "name": "Algar Tech",
+      "location": "Uberl\u00e2ndia \u2013 MG",
+      "highlights": [
+        "Desenvolvi uma ferramenta interna de RPA com C# e .NET Core, eliminando o custo de licenciamento de ferramentas externas e processando mais de 8 milh\u00f5es de intera\u00e7\u00f5es/m\u00eas, gerando uma economia de [X%] nos custos operacionais.",
+        "Utilizei Azure AI Service, Azure Cognitive Services, Azure DataLake e Azure DataFactory em projetos de dados e automa\u00e7\u00e3o inteligente, otimizando a ingest\u00e3o e processamento de dados para solu\u00e7\u00f5es backend."
+      ]
+    },
+    {
+      "startDate": "2014-04",
+      "endDate": "2015-08",
+      "position": "Desenvolvedor .NET",
+      "name": "CAST Inform\u00e1tica SA",
+      "location": "Brasil",
+      "highlights": [
+        "Desenvolvi um sistema de permissionamento OAuth para sistemas internos, utilizando C#, Angular e SQL Server, com foco em seguran\u00e7a e desempenho backend, resultando em uma melhoria de [X%] na seguran\u00e7a das APIs."
+      ]
+    },
+    {
+      "highlights": [
+        "Desenvolvi m\u00faltiplos projetos de integra\u00e7\u00e3o de sistemas backend, aplicando princ\u00edpios de arquitetura de sistemas distribu\u00eddos e garantindo a comunica\u00e7\u00e3o eficiente entre servi\u00e7os, reduzindo a lat\u00eancia em [X%]."
+      ],
+      "position": "Arquiteto .NET",
+      "name": "AlfaPeople",
+      "location": "Brasil",
+      "startDate": "2013-02",
+      "endDate": "2014-04"
+    },
+    {
+      "endDate": "2012-12",
+      "startDate": "2009-10",
+      "highlights": [
+        "Atuei no design e implementa\u00e7\u00e3o de solu\u00e7\u00f5es de software, focando na escalabilidade e manuten\u00e7\u00e3o de sistemas backend."
+      ],
+      "location": "Brasil",
+      "position": "Arquiteto de Solu\u00e7\u00f5es",
+      "name": "L3 Inform\u00e1tica"
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Nativo",
+      "language": "Portugu\u00eas"
+    },
+    {
+      "fluency": "B2 \u2013 Leitura e escrita",
+      "language": "Ingl\u00eas"
+    }
+  ],
+  "basics": {
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "costaricardomartins",
+        "url": "https://www.linkedin.com/in/costaricardomartins/"
+      }
+    ],
+    "phone": "(34) 98433-1954",
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "name": "Ricardo Martins",
+    "location": {
+      "countryCode": "BR",
+      "region": "MG",
+      "city": "Uberl\u00e2ndia"
+    },
+    "summary": "Profissional com mais de 30 anos de experi\u00eancia em TI, com forte especializa\u00e7\u00e3o em desenvolvimento backend .NET, arquitetura de microsservi\u00e7os e solu\u00e7\u00f5es escal\u00e1veis em nuvem Azure. Minha expertise abrange desde o design de sistemas distribu\u00eddos, padr\u00f5es de c\u00f3digo e testes unit\u00e1rios, at\u00e9 a implementa\u00e7\u00e3o de pr\u00e1ticas de CI/CD e a aplica\u00e7\u00e3o de intelig\u00eancia artificial para otimizar o desenvolvimento. Possuo um hist\u00f3rico comprovado na moderniza\u00e7\u00e3o de backoffices, integra\u00e7\u00e3o de sistemas complexos e na entrega de solu\u00e7\u00f5es robustas e de alta performance, alinhadas \u00e0s necessidades de neg\u00f3cio, com foco em tecnologias como .NET, C#, Azure, Kubernetes e PostgreSQL.",
+    "label": "Senior Developer Backend (.NET) | Arquiteto de Solu\u00e7\u00f5es | Especialista em IA Aplicada",
+    "email": "ricardo.parallax@gmail.com"
+  },
+  "skills": [
+    {
+      "keywords": [
+        ".NET",
+        "C#",
+        "Arquitetura de Microsservi\u00e7os",
+        "Padr\u00f5es de Arquitetura",
+        "Padr\u00f5es de C\u00f3digo",
+        "Sistemas Distribu\u00eddos",
+        "Testes Unit\u00e1rios",
+        "ORM: Entity Framework (EF), Dapper",
+        "Desenvolvimento backend com .NET e C#"
+      ],
+      "name": "Arquitetura & Desenvolvimento Backend"
+    },
+    {
+      "keywords": [
+        "Ambiente Azure (Functions, Service Bus)",
+        "Azure DevOps",
+        "CI/CD",
+        "Docker",
+        "Kubernetes",
+        "Git",
+        "GitHub",
+        "AWS",
+        "TDD",
+        "BDD",
+        "Implanta\u00e7\u00e3o de solu\u00e7\u00f5es em nuvem"
+      ],
+      "name": "Cloud & DevOps"
+    },
+    {
+      "keywords": [
+        "Banco de Dados Relacional (PostgreSQL, SQL Server)",
+        "Banco de Dados N\u00e3o-Relacional (MongoDB)",
+        "Servi\u00e7os de Mensageria (Azure Service Bus, RabbitMQ, Kafka)",
+        "Modelagem de dados",
+        "ETL",
+        "Pipelines de dados",
+        "Integra\u00e7\u00e3o de APIs"
+      ],
+      "name": "Banco de Dados & Mensageria"
+    },
+    {
+      "keywords": [
+        "IA aplicada ao desenvolvimento",
+        "IA Generativa",
+        "LLMs",
+        "Agentes inteligentes",
+        "Automa\u00e7\u00e3o inteligente",
+        "Azure AI",
+        "Computer Vision",
+        "Machine Learning (supervisionado e n\u00e3o supervisionado)",
+        "Python (Scikit-Learn, Pandas, NumPy)",
+        "Cria\u00e7\u00e3o de ferramentas personalizadas",
+        "Desenvolvimento de modelos de linguagem",
+        "Experi\u00eancia com diversas plataformas e frameworks de IA, incluindo LLMs e agentes inteligentes, com adaptabilidade a ferramentas como Anthropic, Claude, CrewAI e n8n."
+      ],
+      "name": "Intelig\u00eancia Artificial Aplicada"
+    },
+    {
+      "keywords": [
+        "Visual Studio",
+        "Visual Studio Code",
+        "Postman",
+        "Insomnia",
+        "Selenium",
+        "Agilidade",
+        "Scrum",
+        "Gitflow",
+        "Sonar",
+        "Datadog"
+      ],
+      "name": "Ferramentas & Metodologias"
+    },
+    {
+      "keywords": [
+        "Capacidade de orientar e capacitar colaboradores",
+        "Adaptabilidade",
+        "Aprendizado cont\u00ednuo",
+        "Aten\u00e7\u00e3o aos detalhes",
+        "Tomada de decis\u00e3o",
+        "Solu\u00e7\u00e3o de problemas",
+        "Organiza\u00e7\u00e3o"
+      ],
+      "name": "Soft Skills"
+    },
+    {
+      "keywords": [
+        "Microsoft Dynamics 365",
+        "Power Platform",
+        "Power Automate",
+        "Power Apps",
+        "Power BI",
+        "Copilot Studio",
+        "Power Virtual Agents"
+      ],
+      "name": "CRM & Low-Code Platforms"
+    }
+  ],
+  "interests": [
+    {
+      "keywords": [
+        "IA Generativa",
+        "Machine Learning",
+        "LLMs",
+        "Agentes Inteligentes",
+        "IA aplicada ao desenvolvimento"
+      ],
+      "name": "Intelig\u00eancia Artificial"
+    },
+    {
+      "keywords": [
+        "An\u00e1lise de Dados",
+        "Modelagem Preditiva",
+        "Engenharia de Dados"
+      ],
+      "name": "Ci\u00eancia de Dados"
+    },
+    {
+      "keywords": [
+        "RPA",
+        "Power Automate",
+        "Copilot Studio"
+      ],
+      "name": "Automa\u00e7\u00e3o de Processos"
+    }
+  ],
+  "education": [
+    {
+      "endDate": "2027-02",
+      "startDate": "",
+      "courses": [],
+      "gpa": "",
+      "area": "Ci\u00eancias de Dados",
+      "institution": "Anhanguera",
+      "studyType": "Bacharelado (cursando)",
+      "location": "Brasil"
+    },
+    {
+      "endDate": "2015",
+      "startDate": "",
+      "courses": [],
+      "gpa": "",
+      "area": "Engenharia em Gest\u00e3o de Projetos",
+      "institution": "UFABC",
+      "studyType": "P\u00f3s-gradua\u00e7\u00e3o",
+      "location": "Brasil"
+    }
+  ],
+  "certificates": [
+    {
+      "issuer": "Microsoft",
+      "date": "2024",
+      "name": "Microsoft Certified: Azure AI Fundamentals"
+    },
+    {
+      "date": "2024",
+      "issuer": "Microsoft",
+      "name": "Microsoft Certified: Power Platform Developer Associate"
+    },
+    {
+      "issuer": "Microsoft",
+      "date": "2023",
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM)"
+    },
+    {
+      "date": "2023",
+      "issuer": "Microsoft",
+      "name": "Microsoft Certified: Power Platform Fundamentals"
+    },
+    {
+      "issuer": "Microsoft",
+      "date": "2013",
+      "name": "Microsoft Certified Technology Specialist: Microsoft Dynamics CRM 2011 Customization and Configuration"
+    }
+  ]
+}
