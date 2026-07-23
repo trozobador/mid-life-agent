@@ -1,0 +1,252 @@
+{
+  "basics": {
+    "name": "Ricardo Martins",
+    "label": "Tech Lead | Arquiteto de Solu\u00e7\u00f5es | Engenheiro de Automa\u00e7\u00e3o",
+    "email": "ricardo.parallax@gmail.com",
+    "phone": "(34) 98433-1954",
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "summary": "Profissional de TI com mais de 30 anos de experi\u00eancia, sendo 15 anos em lideran\u00e7a t\u00e9cnica de projetos de automa\u00e7\u00e3o e moderniza\u00e7\u00e3o de backoffices. S\u00f3lida viv\u00eancia em desenvolvimento de RPAs, integra\u00e7\u00f5es via APIs REST e arquiteturas em nuvem com AWS e Azure, com forte dom\u00ednio de Python e JavaScript. Expertise em definir padr\u00f5es de engenharia, realizar revis\u00f5es de c\u00f3digo e garantir qualidade e manutenibilidade das entregas, traduzindo requisitos de neg\u00f3cio em solu\u00e7\u00f5es t\u00e9cnicas escal\u00e1veis para clientes de grande porte.",
+    "location": {
+      "city": "Uberl\u00e2ndia",
+      "countryCode": "BR",
+      "region": "MG"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "costaricardomartins",
+        "url": "https://www.linkedin.com/in/costaricardomartins/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BlueCX",
+      "position": "Desenvolvedor Microsoft Dynamics",
+      "location": "",
+      "startDate": "2025-04",
+      "endDate": "2026-04",
+      "highlights": [
+        "Liderei a implanta\u00e7\u00e3o do m\u00f3dulo de Marketing de Eventos no Dynamics 365, reduzindo em 95% os bugs reportados e elevando a qualidade das entregas.",
+        "Automatizei integra\u00e7\u00f5es do Dynamics com sistemas legados via APIs REST utilizando OAuth e servi\u00e7os AWS, assegurando seguran\u00e7a, escalabilidade e desempenho.",
+        "Desenvolvi modelos de predi\u00e7\u00e3o em Python integrados ao Copilot e Azure AI para otimizar processos de marketing e tomada de decis\u00e3o.",
+        "Mentoriei tr\u00eas desenvolvedores backend em solu\u00e7\u00f5es Microsoft Dynamics, disseminando padr\u00f5es de arquitetura, boas pr\u00e1ticas e qualidade de c\u00f3digo.",
+        "Atuei como arquiteto de solu\u00e7\u00f5es em AWS e Azure, definindo integra\u00e7\u00f5es entre Copilot Studio, Power Automate e servi\u00e7os de DataLake com foco em escalabilidade.",
+        "Traduzi requisitos de neg\u00f3cio em crit\u00e9rios t\u00e9cnicos verific\u00e1veis durante projeto de Customer Insights para grande cooperativa de cr\u00e9dito."
+      ]
+    },
+    {
+      "name": "NTT DATA Europe & Latam",
+      "position": "Arquiteto Microsoft Dynamics",
+      "location": "Remoto \u2013 Brasil",
+      "startDate": "2024-05",
+      "endDate": "2025-01",
+      "highlights": [
+        "Liderei tecnicamente projetos de implementa\u00e7\u00e3o do Dynamics 365, definindo padr\u00f5es de desenvolvimento e garantindo qualidade das entregas.",
+        "Conduzi revis\u00f5es de c\u00f3digo e apliquei boas pr\u00e1ticas de TDD, BDD e CI/CD, elevando a testabilidade e manutenibilidade das solu\u00e7\u00f5es.",
+        "Desenvolvi customiza\u00e7\u00f5es em JavaScript e arquiteturas de integra\u00e7\u00e3o entre Dynamics e sistemas legados com foco em performance e seguran\u00e7a.",
+        "Realizei an\u00e1lise de requisitos t\u00e9cnicos e funcionais, traduzindo necessidades de neg\u00f3cio em solu\u00e7\u00f5es t\u00e9cnicas para \u00e1reas de CRM e IoT.",
+        "Atuei nos ritos do Scrum e conduzi 1:1 com o time, disseminando boas pr\u00e1ticas de engenharia e apoiando a resolu\u00e7\u00e3o de problemas t\u00e9cnicos.",
+        "Padronizei processos de CRM por meio de automa\u00e7\u00f5es com IA, reduzindo retrabalho operacional em vendas de sistemas IoT 5G."
+      ]
+    },
+    {
+      "name": "Sistema Educacional Brasileiro S.A. (SEB)",
+      "position": "Arquiteto de Solu\u00e7\u00f5es Dynamics e Azure",
+      "location": "",
+      "startDate": "2022-06",
+      "endDate": "2023-09",
+      "highlights": [
+        "Reimplantei o Microsoft Dynamics reduzindo erros em Plugins e Flows e elevando a estabilidade da plataforma.",
+        "Realizei code review, ritos do Scrum e an\u00e1lise de performance da equipe, garantindo qualidade e ader\u00eancia a padr\u00f5es de engenharia.",
+        "Criei sistema de vendas de matr\u00edculas que atendeu 18 unidades e 8 mil alunos, eliminando burocracia e otimizando processos de upselling.",
+        "Negociei budget diretamente com stakeholders e entreguei provas de conceito de integra\u00e7\u00f5es com relat\u00f3rios de OKRs.",
+        "Implementei solu\u00e7\u00f5es orientadas a dados para otimiza\u00e7\u00e3o de processos de vendas e atendimento ao cliente."
+      ]
+    },
+    {
+      "name": "Algar Tech",
+      "position": "Especialista Dynamics",
+      "location": "Uberl\u00e2ndia \u2013 MG",
+      "startDate": "2015-08",
+      "endDate": "2020-01",
+      "highlights": [
+        "Revitalizei o BackOffice com Dynamics 365, substituindo entidades personalizadas por nativas e elevando confiabilidade e reduzindo custos de manuten\u00e7\u00e3o.",
+        "Desenvolvi ferramenta interna de RPA com .NET Core e Selenium que processou 8 milh\u00f5es de intera\u00e7\u00f5es mensais, eliminando custos de licenciamento.",
+        "Estabilizei ambiente legados para reduzir erros e aumentar produtividade das equipes de BackOffice no Call Center do Bradesco.",
+        "Criei customiza\u00e7\u00e3o padr\u00e3o do Dynamics para todas as opera\u00e7\u00f5es internas, reduzindo tempo e custo de implanta\u00e7\u00e3o.",
+        "Atuei em moderniza\u00e7\u00e3o de backoffice com foco em automa\u00e7\u00e3o de processos e integra\u00e7\u00e3o de sistemas."
+      ]
+    },
+    {
+      "name": "AlfaPeople",
+      "position": "Arquiteto .NET",
+      "location": "Presencial",
+      "startDate": "2013-02",
+      "endDate": "2014-04",
+      "highlights": [
+        "Desenvolvi m\u00faltiplos projetos de integra\u00e7\u00e3o entre Microsoft Dynamics e sistemas externos via APIs.",
+        "Criei portal de atendimento ao cliente acoplado ao Dynamics para abertura e acompanhamento de tickets.",
+        "Implementei ferramenta de importa\u00e7\u00e3o de dados n\u00e3o estruturados para o Microsoft Dynamics utilizando C# e JavaScript."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anhanguera",
+      "area": "Ci\u00eancias de Dados",
+      "studyType": "Bacharelado",
+      "location": "",
+      "startDate": null,
+      "endDate": "2027-02",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "UFABC",
+      "area": "Engenharia em Gest\u00e3o de Projetos",
+      "studyType": "P\u00f3s-gradua\u00e7\u00e3o",
+      "location": "",
+      "startDate": null,
+      "endDate": "2015-12",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Linguagens de Programa\u00e7\u00e3o e Automa\u00e7\u00e3o",
+      "keywords": [
+        "Python",
+        "JavaScript",
+        "C# / .NET",
+        "TypeScript",
+        "RPA",
+        "Selenium"
+      ]
+    },
+    {
+      "name": "Cloud e Infraestrutura",
+      "keywords": [
+        "AWS (EC2, Lambda, RDS, VPC)",
+        "Azure Functions",
+        "Azure Logic Apps",
+        "Azure DevOps",
+        "Docker",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "Arquitetura e Qualidade",
+      "keywords": [
+        "Arquitetura de Software",
+        "Defini\u00e7\u00e3o de Padr\u00f5es de Engenharia",
+        "Code Review",
+        "Pull Requests",
+        "TDD / BDD",
+        "Testabilidade e Manutenibilidade"
+      ]
+    },
+    {
+      "name": "Integra\u00e7\u00f5es e APIs",
+      "keywords": [
+        "APIs REST",
+        "Integra\u00e7\u00e3o de Sistemas",
+        "OAuth",
+        "Power Automate"
+      ]
+    },
+    {
+      "name": "Microsoft Ecosystem e CRM",
+      "keywords": [
+        "Microsoft Dynamics 365",
+        "Power Platform",
+        "Copilot Studio",
+        "Dynamics 365 Customer Insights"
+      ]
+    },
+    {
+      "name": "Banco de Dados e Dados",
+      "keywords": [
+        "SQL Server",
+        "Azure DataFactory",
+        "Azure Databricks",
+        "Azure DataLake"
+      ]
+    },
+    {
+      "name": "Ferramentas e Pr\u00e1ticas",
+      "keywords": [
+        "Git / GitHub",
+        "Visual Studio Code",
+        "Scrum",
+        "An\u00e1lise de Requisitos"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Power Platform Developer Associate",
+      "issuer": "Microsoft",
+      "date": "2025-12"
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+      "issuer": "Microsoft",
+      "date": "2025-12"
+    },
+    {
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)",
+      "issuer": "Microsoft",
+      "date": "2023-12"
+    },
+    {
+      "name": "Microsoft Certified: Power Platform Fundamentals (PL-900)",
+      "issuer": "Microsoft",
+      "date": "2023-12"
+    },
+    {
+      "name": "Microsoft Certified Technology Specialist: Dynamics CRM 2011 Customization and Configuration",
+      "issuer": "Microsoft",
+      "date": "2013-12"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ferramenta de RPA Interna",
+      "description": "Desenvolvi ferramenta de RPA interna utilizando C#, .NET Core e Selenium para automatizar processos de backoffice, eliminando custos de licenciamento e atendendo 8 milh\u00f5es de intera\u00e7\u00f5es mensais.",
+      "highlights": [],
+      "keywords": [
+        "RPA",
+        "C#",
+        ".NET Core",
+        "Selenium",
+        "Automa\u00e7\u00e3o de Processos"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Revitaliza\u00e7\u00e3o do BackOffice",
+      "description": "Reestruturei o BackOffice utilizando Dynamics 365, substituindo entidades personalizadas por nativas para elevar confiabilidade e reduzir custos de manuten\u00e7\u00e3o futura.",
+      "highlights": [],
+      "keywords": [
+        "Dynamics 365",
+        "BackOffice",
+        "Otimiza\u00e7\u00e3o de Processos",
+        "CRM"
+      ],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portugu\u00eas",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Ingl\u00eas",
+      "fluency": "Avan\u00e7ado (B2 - Leitura e escrita)"
+    }
+  ],
+  "interests": []
+}

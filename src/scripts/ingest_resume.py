@@ -10,6 +10,7 @@ Uso:
 import argparse
 import json
 import os
+import subprocess
 import sys
 from pathlib import Path
 
@@ -18,6 +19,11 @@ from docx import Document
 from dotenv import load_dotenv
 
 load_dotenv()
+
+# Windows consoles default to cp1252, which can't encode ✓/✗ etc. below.
+if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
@@ -36,10 +42,37 @@ def extract_docx(path: Path) -> str:
     return "\n".join(p.text for p in doc.paragraphs if p.text.strip())
 
 
+def is_legacy_doc(path: Path) -> bool:
+    """Word 97-2003 binary format (OLE2 Compound File) vs. zip-based .docx."""
+    with open(path, "rb") as f:
+        return f.read(8) == b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1"
+
+
+def extract_legacy_doc(path: Path) -> str:
+    """Extract text from a binary .doc via antiword (python-docx can't read these)."""
+    try:
+        result = subprocess.run(
+            ["antiword", str(path)],
+            capture_output=True,
+            check=True,
+        )
+    except FileNotFoundError:
+        print(f"  [ERRO] '{path.name}' é um .doc binário (Word 97-2003) e o "
+              f"conversor 'antiword' não foi encontrado no PATH. Instale-o ou "
+              f"salve o arquivo como .docx e tente novamente.")
+        return ""
+    except subprocess.CalledProcessError as e:
+        print(f"  [ERRO] antiword falhou em '{path.name}': {e.stderr.decode(errors='replace')}")
+        return ""
+    return result.stdout.decode("cp1252", errors="replace")
+
+
 def extract_file(path: Path) -> str:
     suffix = path.suffix.lower()
     if suffix == ".pdf":
         return extract_pdf(path)
+    elif suffix == ".doc" and is_legacy_doc(path):
+        return extract_legacy_doc(path)
     elif suffix in (".docx", ".doc"):
         return extract_docx(path)
     return ""
@@ -149,16 +182,24 @@ def main():
         help="Provedor LLM (padrão: LLM_PROVIDER do .env)",
     )
     parser.add_argument(
+        "--person",
+        default=os.getenv("PERSON", "ricardo"),
+        help="Para quem gerar o resume.json (ex: ricardo, carol). Padrão: PERSON no .env, ou 'ricardo'",
+    )
+    parser.add_argument(
         "--input-dir",
-        default="input",
-        help="Diretório com os arquivos de currículo (padrão: input/)",
+        default=None,
+        help="Diretório com os arquivos de currículo (padrão: input/<person>/)",
     )
     parser.add_argument(
         "--output",
-        default="data/resume.json",
-        help="Caminho do JSON de saída (padrão: data/resume.json)",
+        default=None,
+        help="Caminho do JSON de saída (padrão: data/<person>/resume.json)",
     )
     args = parser.parse_args()
+
+    args.input_dir = args.input_dir or f"input/{args.person}"
+    args.output = args.output or f"data/{args.person}/resume.json"
 
     input_dir = Path(args.input_dir)
     if not input_dir.exists():

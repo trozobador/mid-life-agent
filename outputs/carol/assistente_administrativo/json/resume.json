@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "Carolina Moura Barbosa Martins",
+    "label": "",
+    "email": "carol.moura.barbosa@gmail.com",
+    "phone": "(34) 98421-8314",
+    "url": "",
+    "summary": "Profissional com mais de 15 anos de experiência em rotinas administrativas e financeiras, com habilidades comprovadas em gestão de contas a pagar, conciliação financeira e controle orçamentário. Experiência sólida em atendimento ao cliente e suporte a diretores, garantindo comunicação clara e eficiente. Capaz de gerenciar múltiplas demandas com organização e atenção a detalhes, buscando sempre a otimização dos processos administrativos.",
+    "location": {
+      "city": "Uberlândia",
+      "countryCode": "BR",
+      "region": "MG"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Martins Agropecuária S/A",
+      "position": "Analista de Custos Sr.",
+      "location": "Uberlândia – MG",
+      "startDate": "2007-05",
+      "endDate": "2020-12",
+      "highlights": [
+        "Desenvolvi e executei o planejamento e controle orçamentário, assegurando precisão nos relatórios financeiros.",
+        "Gerenciei contas a pagar, conferi notas fiscais e realizei conciliações financeiras, otimizando o fluxo de caixa.",
+        "Elaborei relatórios gerenciais e acompanhei pagamentos e reembolsos, garantindo a eficiência das operações.",
+        "Administrei a folha de pagamento e documentações de funcionários, contribuindo para a organização interna.",
+        "Implementei processos e procedimentos administrativos, melhorando a eficiência operacional.",
+        "Desenvolvimento e execução do planejamento e controle orçamentário.",
+        "Gestão de contas a pagar, conferência de Notas Fiscais, acompanhamento de contas bancárias, gerenciamento de caixa e controle de operações financeiras e fluxo de caixa.",
+        "Acompanhamento, confecção e análise de relatórios gerenciais da exploração madeireira, acompanhamento de pagamentos e reembolsos de despesas."
+      ]
+    },
+    {
+      "name": "Martins Comércio e Serviços Distribuição Ltda.",
+      "position": "Assistente Administrativo",
+      "location": "Uberlândia – MG",
+      "startDate": "2006-07",
+      "endDate": "2007-03",
+      "highlights": [
+        "Apoiei diretamente o diretor na gestão de acordos comerciais, organizando reuniões e viagens.",
+        "Gerenciei o orçamento matricial de despesas e coordenei o controle de ponto, assegurando conformidade.",
+        "Organizei e administrei acordos comerciais e documentação de fornecedores, mantendo registros precisos.",
+        "Relacionamento direto com o corpo diretivo de fornecedores para negociação de Acordos Comerciais, renegociação de percentuais e acompanhamento de aditamentos e documentos.",
+        "Apoio direto ao diretor da área de Gestão de Acordos Comerciais: agendamento de reuniões e viagens e organização da estrutura de eventos."
+      ]
+    },
+    {
+      "name": "American Express do Brasil Tempo e Ltda.",
+      "position": "Analista de Comunicação Jr.",
+      "location": "Uberlândia – MG",
+      "startDate": "2002-06",
+      "endDate": "2005-05",
+      "highlights": [
+        "Desenvolvi a comunicação interna, promovendo a motivação e integração dos funcionários.",
+        "Planejei e organizei eventos corporativos, garantindo a participação de diversos níveis da organização.",
+        "Atendimento a clientes com foco em garantir satisfação e fidelização.",
+        "Análise creditícia para avaliar clientes potenciais e perfis de alto gasto."
+      ]
+    },
+    {
+      "name": "American Express do Brasil Tempo e Ltda.",
+      "position": "Analista de Atendimento aos Clientes",
+      "location": "Uberlândia – MG",
+      "startDate": "2000-02",
+      "endDate": "2002-05",
+      "highlights": [
+        "Atendi clientes com foco em satisfação e fidelização, mantendo altos padrões de serviço.",
+        "Realizei análises de crédito e preveni fraudes, contribuindo para a segurança financeira da empresa.",
+        "Atendimento a clientes com foco em garantir satisfação e fidelização.",
+        "Análise creditícia para avaliar clientes potenciais e perfis de alto gasto."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidade Federal de Uberlândia",
+      "area": "Gestão Empresarial",
+      "studyType": "Pós-graduação (MBA)",
+      "location": "Uberlândia/ MG",
+      "startDate": "2005-01",
+      "endDate": "2005-12",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Unitri – Centro Universitário do Triângulo",
+      "area": "Comunicação Social — Habilitação em Jornalismo",
+      "studyType": "Bacharelado",
+      "location": "Uberlândia /MG",
+      "startDate": "1997-01",
+      "endDate": "2000-12",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Administrativo & Financeiro",
+      "keywords": [
+        "Gestão de contas a pagar",
+        "Conciliação financeira e contábil",
+        "Planejamento e controle orçamentário",
+        "Análise financeira"
+      ]
+    },
+    {
+      "name": "Atendimento & Relacionamento com Cliente",
+      "keywords": [
+        "Atendimento ao cliente",
+        "Fidelização de clientes"
+      ]
+    },
+    {
+      "name": "Gestão de Pessoas & Eventos",
+      "keywords": [
+        "Organização de eventos",
+        "Comunicação interna"
+      ]
+    },
+    {
+      "name": "Ferramentas",
+      "keywords": [
+        "Microsoft Excel",
+        "Microsoft PowerPoint"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Atendimento Premium",
+      "issuer": "American Express",
+      "date": "2004"
+    },
+    {
+      "name": "Orçamento Empresarial — elaboração, revisão e acompanhamento",
+      "issuer": "Cavalcante Consultores",
+      "date": "2009"
+    },
+    {
+      "name": "7 Hábitos das Pessoas Altamente Eficazes",
+      "issuer": "Martins",
+      "date": "2009"
+    }
+  ],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Português",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglês",
+      "fluency": "Intermediário"
+    }
+  ],
+  "interests": []
+}

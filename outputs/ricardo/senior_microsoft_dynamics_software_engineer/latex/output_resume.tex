@@ -1,0 +1,173 @@
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{fontawesome}
+\usepackage{xcolor}
+\usepackage{amsmath}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+    \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeCertification}[2]{%
+  \item
+  \begin{tabular*}{0.97\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+    #1 & \text{#2} \\
+  \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1: #2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0em, itemindent=0em, label={}, itemsep=0ex]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+\textbf{\href{}{\Large Ricardo Martins}} & Email: \href{mailto:ricardo.parallax@gmail.com}{\faEnvelope} ricardo.parallax@gmail.com \\
+\href{https://www.linkedin.com/in/costaricardomartins/}{LinkedIn: costaricardomartins} \\\hspace{10pt} & Phone: (34) 98433-1954\\\end{tabular*}
+
+%-----------SKILLS-----------------
+\section{Skills}
+\resumeSubHeadingListStart
+\resumeSubItem{\textbf{CRM \& Microsoft Ecosystem}}{Microsoft Dynamics 365 (CRM/CE), Dynamics 365 Customer Insights, Dynamics 365 Customer Insights – Journeys, Power Platform, Power Automate, Power Apps, Copilot Studio}
+\resumeSubItem{\textbf{Linguagens de Programação}}{C\# / .NET, JavaScript, jQuery, TypeScript}
+\resumeSubItem{\textbf{Cloud \& DevOps}}{Azure Functions, Azure Logic Apps, Azure DevOps, CI/CD, TDD / BDD, Git / GitHub, GitHub Copilot}
+\resumeSubItem{\textbf{Data \& Databases}}{SQL Server, Data Migration, ETL, exposure to Oracle/Sybase via legacy ERP integrations}
+\resumeSubItem{\textbf{AI-Assisted Development \& Productivity Tools}}{Azure AI Studio, Azure OpenAI Services, Azure Cognitive Services, Azure DataFactory, Azure Databricks, Azure DataLake, Machine Learning, Agentes inteligentes, Claude Code / Cursor equivalents, responsible AI usage}
+\resumeSubItem{\textbf{Ferramentas}}{Visual Studio, Visual Studio Code, Selenium / Playwright, Postman / Insomnia}
+\resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------------
+\section{Work Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{BlueCX}{2025-04 – 2026-04}
+{Desenvolvedor Microsoft Dynamics}{}
+\resumeItemListStart
+\resumeItem{Maintained and evolved the Marketing Events module in Dynamics 365, ensuring stability, scalability, and strong alignment with business stakeholders on roadmaps.}
+\resumeItem{Led implementation of Event Marketing in Dynamics 365 using proofs of concept and templates, reducing reported bugs by approximately 95\%.}
+\resumeItem{Automated integrations between Dynamics 365 and legacy systems via REST APIs with OAuth authentication on AWS, delivering secure, scalable, and high-performance solutions.}
+\resumeItem{Trained and mentored three backend developers on Microsoft Dynamics best practices, architecture patterns, and AI-assisted development workflows including GitHub Copilot.}
+\resumeItem{Delivered solutions using C\#, JavaScript, jQuery, Azure AI Services, Power Platform, Azure Data Factory, and Azure Databricks while participating in Agile/Scrum ceremonies to remove technical impediments.}
+\resumeItem{Migrated the Marketing module to Dynamics 365 Customer Insights – Journeys, ensuring operational continuity, adherence to Microsoft standards, and minimal oversight on complex tasks.}
+\resumeItem{Applied responsible AI practices ensuring secure handling of confidential client data when using Azure OpenAI and Copilot tools for development productivity.}
+\resumeItemListEnd
+
+\resumeSubheading
+{NTT DATA Europe \& Latam}{2024-05 – 2025-01}
+{Arquiteto Microsoft Dynamics}{Remoto – Brasil}
+\resumeItemListStart
+\resumeItem{Led Dynamics 365 implementation projects for large enterprise clients, establishing strong alignment with product owners on roadmaps and estimates.}
+\resumeItem{Developed JavaScript, jQuery customizations for Dynamics 365 and designed integration architecture between Dynamics and legacy systems, prioritizing security, scalability, and reusability.}
+\resumeItem{Implemented AI-assisted tools to recommend lead contact strategies, improving sales processes for IoT 5G systems and reducing operational rework by 35\%.}
+\resumeItem{Applied TDD, BDD, and CI/CD practices while actively participating in Scrum rituals and supporting the team in resolving technical impediments.}
+\resumeItem{Conducted technical and functional requirements analysis, data modeling, and documentation validation in collaboration with application architects.}
+\resumeItem{Provided technical leadership during production issues and performed 1:1 mentoring to drive continuous improvement and results-focused delivery.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Sistema Educacional Brasileiro S.A. (SEB)}{2022-06 – 2023-09}
+{Arquiteto de Soluções Dynamics e Azure}{}
+\resumeItemListStart
+\resumeItem{Reimplemented Microsoft Dynamics, reducing plugin and flow errors while applying standards, proofs of concept, and templates for high-quality software delivery.}
+\resumeItem{Led code reviews, Scrum ceremonies, and performance analysis, supporting project pipeline delivery with minimal oversight.}
+\resumeItem{Built intuitive enrollment sales system integrated with Dynamics via REST APIs, enabling upselling across 18 units and serving 8,000 students without on-site visits.}
+\resumeItem{Negotiated budgets directly with stakeholders and delivered data-driven solutions to optimize sales and service processes.}
+\resumeItem{Created proofs of concept for integrations and presented reports to stakeholders aligned with OKRs.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Adentis Portugal}{2020-01 – 2022-05}
+{Microsoft Dynamics 365 Specialist and System Architect}{Portugal}
+\resumeItemListStart
+\resumeItem{Developed new Dynamics 365 functionalities and supported projects across Portugal, Germany, and Denmark using C\#, JavaScript, and jQuery.}
+\resumeItem{Created Computer Vision application for reading physical invoices, integrated with credit risk analysis systems in Dynamics 365, reducing manual processing by 70\%.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Algar Tech}{2015-08 – 2020-01}
+{Especialista Dynamics}{Uberlândia – MG}
+\resumeItemListStart
+\resumeItem{Revitalized the entire BackOffice using Dynamics 365 by replacing custom entities with native ones, increasing reliability and reducing future improvement costs.}
+\resumeItem{Developed internal RPA tool with C\#, .NET Core, and Selenium-based automated testing that handled over 8 million monthly interactions, reducing licensing costs while stabilizing the Bradesco Call Center environment.}
+\resumeItem{Created standard Dynamics customizations for all internal operations, reducing installation time and cost across the organization.}
+\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{Education}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Anhanguera}{2027-02}
+{Bacharelado in Ciências de Dados}{}
+
+\resumeSubheading
+{UFABC}{2015-12}
+{Pós-graduação in Engenharia em Gestão de Projetos}{}
+\resumeSubHeadingListEnd
+
+\section{Projects}
+\resumeSubHeadingListStart
+\resumeSubItem{\textbf{Ferramenta de RPA Interna}}{Developed internal RPA tool using C\#, .NET Core, Selenium, and Playwright-style automated testing to automate backoffice processes, handling approximately 8 million monthly interactions while reducing RPA licensing costs.}
+\resumeSubItem{\textbf{Revitalização do BackOffice}}{Led complete BackOffice revitalization using Dynamics 365, replacing custom entities with native ones to increase product reliability and reduce future improvement costs.}
+\resumeSubHeadingListEnd
+
+%-----------CERTIFICATIONS-----------------
+\section{Certifications}
+\resumeSubHeadingListStart
+\resumeCertification{Microsoft Certified: Power Platform Developer Associate}{2025-12}{}{}
+\resumeCertification{Microsoft Certified: Azure AI Fundamentals (AI-900)}{2025-12}{}{}
+\resumeCertification{Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)}{2023-12}{}{}
+\resumeCertification{Microsoft Certified: Power Platform Fundamentals (PL-900)}{2023-12}{}{}
+\resumeCertification{Microsoft Certified Technology Specialist: Dynamics CRM 2011 Customization and Configuration}{2013-12}{}{}
+\resumeSubHeadingListEnd
+\end{document}

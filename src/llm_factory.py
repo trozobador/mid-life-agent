@@ -33,4 +33,10 @@ def get_llm(provider: str = None, temperature: float = 0.4):
     kwargs = {"temperature": temperature}
     if api_key:
         kwargs["api_key"] = api_key
+    if provider == "grok":
+        # xAI's API rejects the "stop" param CrewAI sends by default
+        # ("does not support parameter stop"), and CrewAI's automatic
+        # retry-without-stop only matches OpenAI-style error phrasing, so
+        # drop it up front.
+        kwargs["additional_params"] = {"additional_drop_params": ["stop"]}
     return LLM(model=model, **kwargs)

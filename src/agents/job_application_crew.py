@@ -37,23 +37,24 @@ class JobApplicationCrew:
     def __init__(
         self,
         role: str = None,
-        job_profile_path: str = "data/job_desc.txt",
+        job_profile_path: str = "data/ricardo/job_desc.txt",
         output_dir: str = "outputs",
         provider: str = None,
         language: str = "pt-BR",
+        original_resume_path: str = "data/ricardo/resume.json",
     ):
         self.role = role
         self.job_profile_path = job_profile_path
         self.output_dir = output_dir
         self.provider = provider
         self.language = language
+        self.original_resume_path = original_resume_path
 
         os.environ["RESUME_OUTPUT_DIR"] = output_dir
 
         with open(job_profile_path, "r") as f:
             self.job_description = f.read()
 
-        original_resume_path = "data/resume.json"
         with open(original_resume_path, "r") as f:
             self.original_resume = json.load(f)
 
@@ -205,7 +206,7 @@ class JobApplicationCrew:
 
         prepare_interview = Task(
             description=dedent(
-                get_interview_coach_prompt(self.job_description, self.resume_generated)
+                get_interview_coach_prompt(self.job_description, self.resume_generated, self.language)
             ),
             agent=interview_coach,
             expected_output=(
@@ -251,7 +252,7 @@ class JobApplicationCrew:
         # Deterministic padding: ensure PDF reaches 2 pages
         try:
             from resume.pad_pages import pad_to_two_pages
-            final_pages = pad_to_two_pages(self.output_dir)
+            final_pages = pad_to_two_pages(self.output_dir, original_path=self.original_resume_path)
             logger.info(f"Final PDF page count after padding: {final_pages}")
         except Exception as e:
             logger.warning(f"pad_to_two_pages skipped: {e}")

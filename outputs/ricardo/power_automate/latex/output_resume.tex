@@ -1,0 +1,172 @@
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{fontawesome}
+\usepackage{xcolor}
+\usepackage{amsmath}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+    \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeCertification}[2]{%
+  \item
+  \begin{tabular*}{0.97\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+    #1 & \text{#2} \\
+  \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1: #2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0em, itemindent=0em, label={}, itemsep=0ex]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+\textbf{\href{}{\Large Ricardo Martins}} & Email: \href{mailto:ricardo.parallax@gmail.com}{\faEnvelope} ricardo.parallax@gmail.com \\
+\href{https://www.linkedin.com/in/costaricardomartins/}{LinkedIn: costaricardomartins} \\\hspace{10pt} & Phone: (34) 98433-1954\\\end{tabular*}
+
+%-----------SKILLS-----------------
+\section{Skills}
+\resumeSubHeadingListStart
+\resumeSubItem{\textbf{RPA e Automação de Processos}}{Power Automate, RPA, Automação de Processos, UiPath, Selenium, VBA, Excel Automation, SharePoint}
+\resumeSubItem{\textbf{Microsoft Power Platform}}{Power Platform, Power Apps, Power BI, Copilot Studio, Dynamics 365 Customer Insights, Dynamics 365}
+\resumeSubItem{\textbf{Integrações e APIs}}{API REST, OAuth, Integrações, Azure Functions, Azure Logic Apps, Azure DataFactory}
+\resumeSubItem{\textbf{Cloud e DevOps}}{Azure, AWS, Azure DevOps, CI/CD, Docker, Git}
+\resumeSubItem{\textbf{Linguagens e Banco de Dados}}{C\# / .NET, Python, JavaScript, SQL Server}
+\resumeSubItem{\textbf{IA e Dados}}{Azure AI Studio, Azure OpenAI Services, Azure Cognitive Services, Machine Learning, Computer Vision}
+\resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------------
+\section{Work Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{BlueCX}{2025-04 – 2026-04}
+{Desenvolvedor Microsoft Dynamics e RPA}{}
+\resumeItemListStart
+\resumeItem{Desenvolvi e mantive automações no módulo de Marketing do Dynamics 365 com Power Automate, reduzindo em 95\% os bugs reportados e garantindo estabilidade para as áreas de negócio.}
+\resumeItem{Implementei integrações entre Dynamics 365 e sistemas legados via API REST com autenticação OAuth e serviços AWS, assegurando segurança, escalabilidade e desempenho.}
+\resumeItem{Criei automações com Power Automate e Azure Logic Apps para otimizar processos de Customer Insights, incluindo fluxos de dados e notificações.}
+\resumeItem{Desenvolvi modelos de predição integrados ao Copilot Studio e Azure AI para apoiar processos de marketing e eventos, otimizando investimentos.}
+\resumeItem{Realizei testes, UAT e deploys de soluções de automação, preparando documentação técnica e materiais de suporte para transição para times de sustentação.}
+\resumeItem{Atuei em parceria com stakeholders para traduzir requisitos em soluções técnicas de automação, seguindo padrões de change management e governança.}
+\resumeItemListEnd
+
+\resumeSubheading
+{NTT DATA Europe \& Latam}{2024-05 – 2025-01}
+{Arquiteto Microsoft Dynamics e Automação}{Remoto – Brasil}
+\resumeItemListStart
+\resumeItem{Liderei projetos de automação com Power Platform e integrações Azure para clientes de grande porte, padronizando processos e reduzindo retrabalho operacional.}
+\resumeItem{Desenvolvi customizações em JavaScript e automações no Dynamics 365 com foco em performance, segurança e escalabilidade.}
+\resumeItem{Conduzi análise de requisitos, modelagem de dados e validação de documentação técnica para soluções de automação.}
+\resumeItem{Apliquei boas práticas de desenvolvimento como TDD, BDD e CI/CD em projetos de RPA e integrações.}
+\resumeItem{Gerenciei comunicação entre equipes técnicas e de negócio para garantir entregas alinhadas aos objetivos corporativos.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Sistema Educacional Brasileiro S.A. (SEB)}{2022-06 – 2023-09}
+{Arquiteto de Soluções Dynamics e Azure}{}
+\resumeItemListStart
+\resumeItem{Reimplantei o Microsoft Dynamics 365 reduzindo erros em plugins e flows de automação.}
+\resumeItem{Criei sistema de vendas de matrículas com automações que eliminou burocracia para 18 unidades e 8 mil alunos.}
+\resumeItem{Desenvolvi provas de conceito de integrações e relatórios para stakeholders e OKRs.}
+\resumeItem{Implementei soluções baseadas em dados para otimização de processos de vendas e atendimento.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Adentis Portugal}{2020-01 – 2022-05}
+{Especialista Microsoft Dynamics 365 e Automação}{Portugal}
+\resumeItemListStart
+\resumeItem{Desenvolvi novas funcionalidades e automações em projetos na Europa, incluindo Portugal, Alemanha e Dinamarca.}
+\resumeItem{Criei aplicação de leitura de notas fiscais com Computer Vision integrada a sistema de análise de crédito.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Algar Tech}{2015-08 – 2020-01}
+{Especialista Dynamics e RPA}{Uberlândia – MG}
+\resumeItemListStart
+\resumeItem{Desenvolvi ferramenta interna de RPA com .NET Core e Selenium que atendeu mais de 8 milhões de interações mensais, reduzindo custos com licenciamento.}
+\resumeItem{Revitalizei o BackOffice com Dynamics 365 substituindo entidades personalizadas por nativas, elevando confiabilidade e reduzindo custos de manutenção.}
+\resumeItem{Estabilizei ambiente para reduzir erros e aumentar produtividade das equipes de BackOffice no Call Center do Bradesco.}
+\resumeItem{Implementei customizações padrão do Dynamics para todas as operações internas, diminuindo tempo e custo de instalação.}
+\resumeItem{Atuei em automações com Azure AI Services e Power Platform para otimizar processos corporativos.}
+\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{Education}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Anhanguera}{2027-02}
+{Bacharelado in Ciências de Dados}{}
+
+\resumeSubheading
+{UFABC}{2015-12}
+{Pós-graduação in Engenharia em Gestão de Projetos}{}
+\resumeSubHeadingListEnd
+
+\section{Projects}
+\resumeSubHeadingListStart
+\resumeSubItem{\textbf{Ferramenta de RPA Interna}}{Desenvolvi ferramenta de RPA interna para Algar Tech utilizando C\#, .NET Core e Selenium para automatizar processos de backoffice, reduzindo custos com licenciamento e atendendo 8 milhões de interações mensais.}
+\resumeSubItem{\textbf{Revitalização do BackOffice}}{Reestruturei o BackOffice da Algar Tech com Dynamics 365, substituindo entidades personalizadas por nativas para aumentar confiabilidade e reduzir custos de manutenção.}
+\resumeSubHeadingListEnd
+
+%-----------CERTIFICATIONS-----------------
+\section{Certifications}
+\resumeSubHeadingListStart
+\resumeCertification{Microsoft Certified: Power Platform Developer Associate}{2025-12}{}{}
+\resumeCertification{Microsoft Certified: Azure AI Fundamentals (AI-900)}{2025-12}{}{}
+\resumeCertification{Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)}{2023-12}{}{}
+\resumeCertification{Microsoft Certified: Power Platform Fundamentals (PL-900)}{2023-12}{}{}
+\resumeCertification{Microsoft Certified Technology Specialist: Dynamics CRM 2011 Customization and Configuration}{2013-12}{}{}
+\resumeSubHeadingListEnd
+\end{document}

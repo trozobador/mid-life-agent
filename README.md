@@ -45,29 +45,44 @@ Deixe a IA revolucionar a sua busca por emprego e abrir as portas para a carreir
      XAI_API_KEY="sua_chave_da_xai"
      ```
 
-2. **Perfis de Vaga (Job Profiles)**: 
-   - Crie arquivos `.txt` com as descrições/perfis das vagas no diretório `data/job_profiles/` (ex: `data_scientist.txt`, `ai_engineer.txt`, `dynamics_specialist.txt`).
+2. **Múltiplas Pessoas (Multi-perfil)**:
+   - O projeto suporta gerar currículos para mais de uma pessoa (ex: `ricardo`, `carol`), cada uma com seus próprios dados isolados:
+     - `input/<pessoa>/` — currículos originais (PDF/DOCX) e `profile_truth.md`
+     - `data/<pessoa>/resume.json` — currículo consolidado (fonte única de verdade)
+     - `data/<pessoa>/job_profiles/` — perfis de vaga-alvo
+     - `outputs/<pessoa>/<role>/` — currículos gerados
+   - A pessoa ativa por padrão vem de `PERSON` no `.env` (ex: `PERSON=ricardo`). Use `--person <nome>` em qualquer comando para trocar (ex: `--person carol`).
+   - Para adicionar uma nova pessoa, crie as pastas `input/<pessoa>/` e `data/<pessoa>/job_profiles/` e rode `python src/scripts/ingest_resume.py --person <pessoa>`.
+   - Liste as pessoas configuradas com `python main.py --list-people`.
 
-3. **Currículo JSON Original**:
-   - Edite o seu currículo base no arquivo `data/resume.json`. Ele será a fonte única de dados para todas as variações geradas.
-   - Utilize a estrutura JSON padrão (já fornecida no repositório) para cadastrar seus dados básicos, experiências, educação, habilidades, certificações, projetos e idiomas.
+3. **Perfis de Vaga (Job Profiles)**:
+   - Crie arquivos `.txt` com as descrições/perfis das vagas no diretório `data/<pessoa>/job_profiles/` (ex: `data_scientist.txt`, `ai_engineer.txt`, `dynamics_specialist.txt`).
 
-4. **Instalação das Dependências**:
+4. **Currículo JSON Original**:
+   - Edite o currículo base no arquivo `data/<pessoa>/resume.json`. Ele será a fonte única de dados para todas as variações geradas dessa pessoa.
+   - Utilize a estrutura JSON padrão (já fornecida no repositório) para cadastrar dados básicos, experiências, educação, habilidades, certificações, projetos e idiomas.
+
+5. **Instalação das Dependências**:
    - Instale as bibliotecas necessárias executando:
      ```bash
      pip install -r requirements.txt
      ```
    - *Atenção: Os pacotes `langchain` específicos (ex: `langchain-openai`, `langchain-anthropic`) devem estar instalados de acordo com o provedor em uso.*
 
-5. **Executar os Agentes (CLI)**:
+6. **Executar os Agentes (CLI)**:
    - A ferramenta de linha de comando permite gerar currículos facilmente:
-   - **Para gerar para um perfil específico:**
+   - **Para gerar para um perfil específico (pessoa padrão do `.env`):**
      ```bash
      python main.py --role data_scientist
+     ```
+   - **Para gerar para outra pessoa:**
+     ```bash
+     python main.py --person carol --role data_scientist
      ```
    - **Para gerar currículos para TODOS os perfis listados em lote:**
      ```bash
      python main.py --all
+     python main.py --all --person carol
      ```
    - **Para testar outro provedor de LLM em tempo de execução:**
      ```bash
@@ -75,14 +90,18 @@ Deixe a IA revolucionar a sua busca por emprego e abrir as portas para a carreir
      ```
    - **Para listar os perfis configurados disponíveis:**
      ```bash
-     python main.py --list-roles
+     python main.py --list-roles --person carol
+     ```
+   - **Para listar as pessoas configuradas:**
+     ```bash
+     python main.py --list-people
      ```
 
-6. **Verificar os Resultados**:
-   - Os currículos gerados (JSON, LaTeX e PDF) estarão organizados separadamente por perfil alvo na pasta `outputs/`.
-   - Exemplo: `outputs/data_scientist/output_resume.pdf`.
+7. **Verificar os Resultados**:
+   - Os currículos gerados (JSON, LaTeX e PDF) estarão organizados separadamente por pessoa e perfil alvo na pasta `outputs/`.
+   - Exemplo: `outputs/ricardo/data_scientist/output_resume.pdf`.
 
-7. **Comparar Currículos**:
+8. **Comparar Currículos**:
    - Para visualizar exatamente o que a IA otimizou no seu CV original, rode o script de comparação:
      ```bash
      python src/scripts/run_compare_pdf.py
