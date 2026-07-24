@@ -1,0 +1,244 @@
+{
+  "basics": {
+    "name": "Ricardo Martins",
+    "label": "Desenvolvedor RPA | Arquiteto de Solu\u00e7\u00f5es Microsoft | Especialista em Automa\u00e7\u00e3o",
+    "email": "ricardo.parallax@gmail.com",
+    "phone": "(34) 98433-1954",
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "summary": "Profissional de TI com mais de 30 anos de experi\u00eancia, incluindo 15 anos em lideran\u00e7a t\u00e9cnica de projetos de automa\u00e7\u00e3o e moderniza\u00e7\u00e3o de processos corporativos. Atuei no desenvolvimento, teste, implanta\u00e7\u00e3o e suporte de solu\u00e7\u00f5es RPA e automa\u00e7\u00f5es com Power Automate, Power Platform e Microsoft Dynamics 365 em setores como financeiro, minera\u00e7\u00e3o e servi\u00e7os. Possuo s\u00f3lida experi\u00eancia em integra\u00e7\u00f5es via APIs, Azure e AWS, com foco em an\u00e1lise de requisitos, desenho de solu\u00e7\u00f5es, UAT, deploys e melhoria cont\u00ednua alinhada a governan\u00e7a e seguran\u00e7a. Forte capacidade de colaborar com \u00e1reas de neg\u00f3cio e product owners para transformar necessidades em automa\u00e7\u00f5es escal\u00e1veis e sustent\u00e1veis. Dispon\u00edvel para atua\u00e7\u00e3o remota ou presencial em Po\u00e7os de Caldas/MG.",
+    "location": {
+      "city": "Uberl\u00e2ndia",
+      "countryCode": "BR",
+      "region": "MG"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "costaricardomartins",
+        "url": "https://www.linkedin.com/in/costaricardomartins/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "BlueCX",
+      "position": "Desenvolvedor Microsoft Dynamics e RPA",
+      "location": "",
+      "startDate": "2025-04",
+      "endDate": "2026-04",
+      "highlights": [
+        "Desenvolvi e mantive automa\u00e7\u00f5es no m\u00f3dulo de Marketing do Dynamics 365 com Power Automate, reduzindo em 95% os bugs reportados e garantindo estabilidade para as \u00e1reas de neg\u00f3cio.",
+        "Implementei integra\u00e7\u00f5es entre Dynamics 365 e sistemas legados via API REST com autentica\u00e7\u00e3o OAuth e servi\u00e7os AWS, assegurando seguran\u00e7a, escalabilidade e desempenho.",
+        "Criei automa\u00e7\u00f5es com Power Automate e Azure Logic Apps para otimizar processos de Customer Insights, incluindo fluxos de dados e notifica\u00e7\u00f5es.",
+        "Desenvolvi modelos de predi\u00e7\u00e3o integrados ao Copilot Studio e Azure AI para apoiar processos de marketing e eventos, otimizando investimentos.",
+        "Realizei testes, UAT e deploys de solu\u00e7\u00f5es de automa\u00e7\u00e3o, preparando documenta\u00e7\u00e3o t\u00e9cnica e materiais de suporte para transi\u00e7\u00e3o para times de sustenta\u00e7\u00e3o.",
+        "Atuei em parceria com stakeholders para traduzir requisitos em solu\u00e7\u00f5es t\u00e9cnicas de automa\u00e7\u00e3o, seguindo padr\u00f5es de change management e governan\u00e7a."
+      ]
+    },
+    {
+      "name": "NTT DATA Europe & Latam",
+      "position": "Arquiteto Microsoft Dynamics e Automa\u00e7\u00e3o",
+      "location": "Remoto \u2013 Brasil",
+      "startDate": "2024-05",
+      "endDate": "2025-01",
+      "highlights": [
+        "Liderei projetos de automa\u00e7\u00e3o com Power Platform e integra\u00e7\u00f5es Azure para clientes de grande porte, padronizando processos e reduzindo retrabalho operacional.",
+        "Desenvolvi customiza\u00e7\u00f5es em JavaScript e automa\u00e7\u00f5es no Dynamics 365 com foco em performance, seguran\u00e7a e escalabilidade.",
+        "Conduzi an\u00e1lise de requisitos, modelagem de dados e valida\u00e7\u00e3o de documenta\u00e7\u00e3o t\u00e9cnica para solu\u00e7\u00f5es de automa\u00e7\u00e3o.",
+        "Apliquei boas pr\u00e1ticas de desenvolvimento como TDD, BDD e CI/CD em projetos de RPA e integra\u00e7\u00f5es.",
+        "Gerenciei comunica\u00e7\u00e3o entre equipes t\u00e9cnicas e de neg\u00f3cio para garantir entregas alinhadas aos objetivos corporativos."
+      ]
+    },
+    {
+      "name": "Sistema Educacional Brasileiro S.A. (SEB)",
+      "position": "Arquiteto de Solu\u00e7\u00f5es Dynamics e Azure",
+      "location": "",
+      "startDate": "2022-06",
+      "endDate": "2023-09",
+      "highlights": [
+        "Reimplantei o Microsoft Dynamics 365 reduzindo erros em plugins e flows de automa\u00e7\u00e3o.",
+        "Criei sistema de vendas de matr\u00edculas com automa\u00e7\u00f5es que eliminou burocracia para 18 unidades e 8 mil alunos.",
+        "Desenvolvi provas de conceito de integra\u00e7\u00f5es e relat\u00f3rios para stakeholders e OKRs.",
+        "Implementei solu\u00e7\u00f5es baseadas em dados para otimiza\u00e7\u00e3o de processos de vendas e atendimento."
+      ]
+    },
+    {
+      "name": "Adentis Portugal",
+      "position": "Especialista Microsoft Dynamics 365 e Automa\u00e7\u00e3o",
+      "location": "Portugal",
+      "startDate": "2020-01",
+      "endDate": "2022-05",
+      "highlights": [
+        "Desenvolvi novas funcionalidades e automa\u00e7\u00f5es em projetos na Europa, incluindo Portugal, Alemanha e Dinamarca.",
+        "Criei aplica\u00e7\u00e3o de leitura de notas fiscais com Computer Vision integrada a sistema de an\u00e1lise de cr\u00e9dito."
+      ]
+    },
+    {
+      "name": "Algar Tech",
+      "position": "Especialista Dynamics e RPA",
+      "location": "Uberl\u00e2ndia \u2013 MG",
+      "startDate": "2015-08",
+      "endDate": "2020-01",
+      "highlights": [
+        "Desenvolvi ferramenta interna de RPA com .NET Core e Selenium que atendeu mais de 8 milh\u00f5es de intera\u00e7\u00f5es mensais, reduzindo custos com licenciamento.",
+        "Revitalizei o BackOffice com Dynamics 365 substituindo entidades personalizadas por nativas, elevando confiabilidade e reduzindo custos de manuten\u00e7\u00e3o.",
+        "Estabilizei ambiente para reduzir erros e aumentar produtividade das equipes de BackOffice no Call Center do Bradesco.",
+        "Implementei customiza\u00e7\u00f5es padr\u00e3o do Dynamics para todas as opera\u00e7\u00f5es internas, diminuindo tempo e custo de instala\u00e7\u00e3o.",
+        "Atuei em automa\u00e7\u00f5es com Azure AI Services e Power Platform para otimizar processos corporativos."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anhanguera",
+      "area": "Ci\u00eancias de Dados",
+      "studyType": "Bacharelado",
+      "location": "",
+      "startDate": null,
+      "endDate": "2027-02",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "UFABC",
+      "area": "Engenharia em Gest\u00e3o de Projetos",
+      "studyType": "P\u00f3s-gradua\u00e7\u00e3o",
+      "location": "",
+      "startDate": null,
+      "endDate": "2015-12",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "RPA e Automa\u00e7\u00e3o de Processos",
+      "keywords": [
+        "Power Automate",
+        "RPA",
+        "Automa\u00e7\u00e3o de Processos",
+        "UiPath",
+        "Selenium",
+        "VBA",
+        "Excel Automation",
+        "SharePoint"
+      ]
+    },
+    {
+      "name": "Microsoft Power Platform",
+      "keywords": [
+        "Power Platform",
+        "Power Apps",
+        "Power BI",
+        "Copilot Studio",
+        "Dynamics 365 Customer Insights",
+        "Dynamics 365"
+      ]
+    },
+    {
+      "name": "Integra\u00e7\u00f5es e APIs",
+      "keywords": [
+        "API REST",
+        "OAuth",
+        "Integra\u00e7\u00f5es",
+        "Azure Functions",
+        "Azure Logic Apps",
+        "Azure DataFactory"
+      ]
+    },
+    {
+      "name": "Cloud e DevOps",
+      "keywords": [
+        "Azure",
+        "AWS",
+        "Azure DevOps",
+        "CI/CD",
+        "Docker",
+        "Git"
+      ]
+    },
+    {
+      "name": "Linguagens e Banco de Dados",
+      "keywords": [
+        "C# / .NET",
+        "Python",
+        "JavaScript",
+        "SQL Server"
+      ]
+    },
+    {
+      "name": "IA e Dados",
+      "keywords": [
+        "Azure AI Studio",
+        "Azure OpenAI Services",
+        "Azure Cognitive Services",
+        "Machine Learning",
+        "Computer Vision"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Power Platform Developer Associate",
+      "issuer": "Microsoft",
+      "date": "2025-12"
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+      "issuer": "Microsoft",
+      "date": "2025-12"
+    },
+    {
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)",
+      "issuer": "Microsoft",
+      "date": "2023-12"
+    },
+    {
+      "name": "Microsoft Certified: Power Platform Fundamentals (PL-900)",
+      "issuer": "Microsoft",
+      "date": "2023-12"
+    },
+    {
+      "name": "Microsoft Certified Technology Specialist: Dynamics CRM 2011 Customization and Configuration",
+      "issuer": "Microsoft",
+      "date": "2013-12"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ferramenta de RPA Interna",
+      "description": "Desenvolvi ferramenta de RPA interna para Algar Tech utilizando C#, .NET Core e Selenium para automatizar processos de backoffice, reduzindo custos com licenciamento e atendendo 8 milh\u00f5es de intera\u00e7\u00f5es mensais.",
+      "highlights": [],
+      "keywords": [
+        "RPA",
+        "C#",
+        ".NET Core",
+        "Selenium",
+        "Automa\u00e7\u00e3o de Processos"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Revitaliza\u00e7\u00e3o do BackOffice",
+      "description": "Reestruturei o BackOffice da Algar Tech com Dynamics 365, substituindo entidades personalizadas por nativas para aumentar confiabilidade e reduzir custos de manuten\u00e7\u00e3o.",
+      "highlights": [],
+      "keywords": [
+        "Dynamics 365",
+        "BackOffice",
+        "Otimiza\u00e7\u00e3o de Processos"
+      ],
+      "url": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portugu\u00eas",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Ingl\u00eas",
+      "fluency": "Avan\u00e7ado (B2 - Leitura e escrita)"
+    }
+  ],
+  "interests": []
+}

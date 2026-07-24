@@ -280,10 +280,18 @@ Output:
 """
 
 
-def get_interview_coach_prompt(job_description: str, final_resume: dict) -> str:
+def get_interview_coach_prompt(job_description: str, final_resume: dict, language: str = "pt-BR") -> str:
+    lang_instruction = (
+        "IDIOMA OBRIGATÓRIO: Escreva TODO o guia (perguntas, respostas sugeridas, "
+        "talking points, tudo) em Português Brasileiro. Não escreva nada em inglês."
+        if language.lower().startswith("pt")
+        else "LANGUAGE: Write the entire guide in English."
+    )
     return f"""You are a world-class Interview Coach with expertise in tech and business roles.
 Your task is to prepare a candidate for a job interview based on their optimized resume and the
 target job description.
+
+{lang_instruction}
 
 ### Target Job Description
 {job_description}
@@ -306,7 +314,10 @@ For each question, provide:
 - **Why they ask**: What they're really trying to evaluate.
 - **Suggested Answer**: A structured answer (using STAR method when applicable) based on the
   candidate's REAL experience from their resume. Reference specific companies, projects, and
-  metrics from the resume. Do NOT fabricate experiences.
+  metrics ONLY if they already appear in the resume above. If the resume has no number/metric
+  for that story, write the answer without inventing one — describe the real action and
+  qualitative outcome instead, or note "[substitua por um exemplo real seu]" for the candidate
+  to fill in personally. Do NOT invent systems, tools, percentages, or outcomes not in the resume.
 - **Talking Points**: 2–3 key points to reinforce in the answer.
 
 Include a mix of:
@@ -338,5 +349,9 @@ Include a mix of:
 ---
 
 IMPORTANT: All suggested answers must be grounded in the candidate's REAL experience as shown
-in their resume. Do not invent projects, metrics, or experiences that are not in the resume.
+in their resume. Do not invent projects, metrics, tools, systems, or experiences that are not
+in the resume above — this includes specific percentages, named systems/software you have no
+evidence they used, and outcomes not stated in the resume. When in doubt, write the answer at a
+qualitative level or flag it for the candidate to fill in with a real example, rather than
+inventing a plausible-sounding detail.
 """

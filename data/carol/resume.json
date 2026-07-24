@@ -1,0 +1,165 @@
+{
+  "basics": {
+    "name": "Carolina Moura Barbosa Martins",
+    "label": "",
+    "email": "carol.moura.barbosa@gmail.com",
+    "phone": "(34) 98421-8314",
+    "url": "",
+    "summary": "",
+    "location": {
+      "city": "Uberlândia",
+      "countryCode": "BR",
+      "region": "MG"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Martins Agropecuária S/A",
+      "position": "Analista de Custos Sr.",
+      "location": "Uberlândia – MG",
+      "startDate": "2007-05",
+      "endDate": "2020-12",
+      "highlights": [
+        "Desenvolvimento e execução do planejamento e controle orçamentário.",
+        "Gestão de contas a pagar, conferência de Notas Fiscais, acompanhamento de contas bancárias, gerenciamento de caixa e controle de operações financeiras e fluxo de caixa.",
+        "Acompanhamento, confecção e análise de relatórios gerenciais da exploração madeireira, acompanhamento de pagamentos e reembolsos de despesas.",
+        "Gestão da folha de pagamento, administração de funcionários, planejamento de viagens. Suporte a informações jurídicas, contábeis e de DP. Controles diversos (documentação de veículos, combustíveis, impressora, procurações, contratos). Emissão, acompanhamento e aprovação de requisições diversas. Assistência à diretoria.",
+        "Gestão, elaboração, confecção e implementação de processos e procedimentos da Martins Agropecuária.",
+        "Conciliações contábeis e financeiras."
+      ]
+    },
+    {
+      "name": "Martins Comércio e Serviços Distribuição Ltda.",
+      "position": "Assistente Administrativo",
+      "location": "Uberlândia – MG",
+      "startDate": "2006-07",
+      "endDate": "2007-03",
+      "highlights": [
+        "Relacionamento direto com o corpo diretivo de fornecedores para negociação de Acordos Comerciais, renegociação de percentuais e acompanhamento de aditamentos e documentos.",
+        "Apoio direto ao diretor da área de Gestão de Acordos Comerciais: agendamento de reuniões e viagens e organização da estrutura de eventos.",
+        "Gestão e contabilização do Orçamento Matricial de Despesa (OMD) do departamento e coordenação de cartão de ponto.",
+        "Organização e administração de Acordos Comerciais, conservação de pastas de fornecedores, emissão de acordos e aditamentos.",
+        "Gestão de banco de dados informacionais e geração de relatórios de acompanhamento de performance para diretorias."
+      ]
+    },
+    {
+      "name": "American Express do Brasil Tempo e Ltda.",
+      "position": "Analista de Comunicação Jr.",
+      "location": "Uberlândia – MG",
+      "startDate": "2002-06",
+      "endDate": "2005-05",
+      "highlights": [
+        "Desenvolvimento da comunicação interna do Centro de Operações em Uberlândia, com atividades voltadas à motivação e integração de funcionários.",
+        "Planejamento, preparação, organização e realização de eventos envolvendo diversos níveis da organização.",
+        "Liderança de equipes motivacionais focadas em comunicação e motivação de funcionários.",
+        "Processos administrativos: compras, controle de cartões de ponto, orçamentos, organização de entrada e saída de materiais."
+      ]
+    },
+    {
+      "name": "American Express do Brasil Tempo e Ltda.",
+      "position": "Analista de Atendimento aos Clientes",
+      "location": "Uberlândia – MG",
+      "startDate": "2000-02",
+      "endDate": "2002-05",
+      "highlights": [
+        "Atendimento a clientes com foco em garantir satisfação e fidelização.",
+        "Análise creditícia para avaliar clientes potenciais e perfis de alto gasto.",
+        "Avaliação de riscos de crédito e prevenção de fraude, mantendo a fidelidade dos clientes."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidade Federal de Uberlândia",
+      "area": "Gestão Empresarial",
+      "studyType": "Pós-graduação (MBA)",
+      "location": "Uberlândia/ MG",
+      "startDate": "2005-01",
+      "endDate": "2005-12",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Unitri – Centro Universitário do Triângulo",
+      "area": "Comunicação Social — Habilitação em Jornalismo",
+      "studyType": "Bacharelado",
+      "location": "Uberlândia /MG",
+      "startDate": "1997-01",
+      "endDate": "2000-12",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Administrativo & Financeiro",
+      "keywords": [
+        "Planejamento e controle orçamentário",
+        "Conciliação financeira e contábil",
+        "Gestão de contas a pagar",
+        "Análise financeira",
+        "Análise creditícia / gestão de risco de crédito",
+        "Negociação de acordos comerciais com fornecedores"
+      ]
+    },
+    {
+      "name": "Atendimento & Relacionamento com Cliente",
+      "keywords": [
+        "Atendimento ao cliente",
+        "Fidelização de clientes"
+      ]
+    },
+    {
+      "name": "Gestão de Pessoas & Eventos",
+      "keywords": [
+        "Gestão de equipes motivacionais",
+        "Organização de eventos e campanhas motivacionais",
+        "Comunicação interna / materiais de treinamento"
+      ]
+    },
+    {
+      "name": "Ferramentas",
+      "keywords": [
+        "Microsoft Excel",
+        "Microsoft Access",
+        "Microsoft PowerPoint"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Atendimento Premium",
+      "issuer": "American Express",
+      "date": "2004"
+    },
+    {
+      "name": "Orçamento Empresarial — elaboração, revisão e acompanhamento",
+      "issuer": "Cavalcante Consultores",
+      "date": "2009"
+    },
+    {
+      "name": "7 Hábitos das Pessoas Altamente Eficazes",
+      "issuer": "Martins",
+      "date": "2009"
+    }
+  ],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Português",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglês",
+      "fluency": "Intermediário"
+    }
+  ],
+  "interests": []
+}
