@@ -1,0 +1,182 @@
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{fontawesome}
+\usepackage{xcolor}
+\usepackage{amsmath}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+    \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeCertification}[2]{%
+  \item
+  \begin{tabular*}{0.97\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+    #1 & \text{#2} \\
+  \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1: #2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0em, itemindent=0em, label={}, itemsep=0ex]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+\textbf{\href{}{\Large Ricardo Martins}} & Email: \href{mailto:ricardo.parallax@gmail.com}{\faEnvelope} ricardo.parallax@gmail.com \\
+\href{https://www.linkedin.com/in/costaricardomartins/}{LinkedIn: costaricardomartins} \\\hspace{10pt} & Phone: (34) 98433-1954\\\end{tabular*}
+
+%-----------SKILLS-----------------
+\section{Skills}
+\resumeSubHeadingListStart
+\resumeSubItem{\textbf{IA \& Dados}}{Machine Learning, IA Generativa, Agentes Inteligentes, Azure AI Studio, Azure OpenAI Services, Azure Cognitive Services}
+\resumeSubItem{\textbf{CRM \& Microsoft Ecosystem}}{Microsoft Dynamics 365, Power Platform, Power Automate, Power Apps, Power BI}
+\resumeSubItem{\textbf{Cloud \& DevOps}}{Azure Functions, Azure Logic Apps, Azure DevOps, AWS, Docker}
+\resumeSubItem{\textbf{Linguagens de Programação}}{C\# / .NET, JavaScript, Python}
+\resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------------
+\section{Work Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{BlueCX}{2025-04 – 2026-04}
+{Desenvolvedor Microsoft Dynamics}{}
+\resumeItemListStart
+\resumeItem{Liderei a implantação do Marketing de Evento no Dynamics 365, reduzindo em 95\% os bugs reportados.}
+\resumeItem{Automatizei a integração do Dynamics com sistemas legados via API REST, assegurando segurança e escalabilidade.}
+\resumeItem{Treinei e mentorei desenvolvedores para soluções em Microsoft Dynamics, disseminando boas práticas.}
+\resumeItem{Desenvolvi modelo de predição para otimizar compra de materiais e investimentos em marketing.}
+\resumeItem{Atuei como arquiteto de IA, integrando componentes de IA com segurança e desempenho.}
+\resumeItem{Colaborei com equipes multifuncionais para garantir a entrega de soluções alinhadas com as necessidades do negócio.}
+\resumeItem{Desenvolvi e implementei estratégias para melhorar a eficiência operacional através de soluções inovadoras.}
+\resumeItemListEnd
+
+\resumeSubheading
+{NTT DATA Europe \& Latam}{2024-05 – 2025-01}
+{Arquiteto Microsoft Dynamics}{Remoto – Brasil}
+\resumeItemListStart
+\resumeItem{Conduzi iniciativas de integração com Azure e Power Platform, melhorando performance e escalabilidade.}
+\resumeItem{Desenvolvi ferramenta com IA para otimizar contato com leads, aumentando eficiência de vendas.}
+\resumeItem{Gerenciei a comunicação entre equipes técnicas e não técnicas, promovendo colaboração eficaz.}
+\resumeItem{Implementei práticas ágeis para agilizar o desenvolvimento e entrega de projetos.}
+\resumeItem{Facilitei sessões de brainstorming para inovação e melhoria contínua dos processos.}
+\resumeItem{Desenvolvi soluções customizadas para atender às necessidades específicas dos clientes.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Sistema Educacional Brasileiro S.A. (SEB)}{2022-06 – 2023-09}
+{Arquiteto de Soluções Dynamics e Azure}{}
+\resumeItemListStart
+\resumeItem{Reimplantei o Microsoft Dynamics, reduzindo erros e melhorando a eficiência.}
+\resumeItem{Criei sistema de vendas intuitivo, reduzindo burocracia e aumentando matrículas em 8 mil alunos.}
+\resumeItem{Implementei soluções orientadas a dados para otimização de processos de vendas.}
+\resumeItem{Liderei workshops de Design Thinking para inovação de processos.}
+\resumeItem{Desenvolvi dashboards em Power BI para visualização de dados e suporte à tomada de decisão.}
+\resumeItem{Gerenciei a integração de sistemas para assegurar a continuidade dos negócios e a eficiência operacional.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Algar Tech}{2015-08 – 2020-01}
+{Especialista Dynamics}{Uberlândia – MG}
+\resumeItemListStart
+\resumeItem{Revitalizei o BackOffice com Dynamics 365, aumentando a confiabilidade e reduzindo custos.}
+\resumeItem{Desenvolvi ferramenta de RPA interna, automatizando processos e reduzindo custos de licenciamento.}
+\resumeItem{Foquei em serviços de AI e plataformas Azure para otimização de processos.}
+\resumeItem{Gerenciei a implementação de metodologias ágeis para melhorar a eficiência do projeto.}
+\resumeItem{Realizei treinamentos para equipes internas sobre o uso de novas tecnologias e ferramentas.}
+\resumeItem{Desenvolvi e implementei melhorias contínuas para aumentar a produtividade e a eficiência.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Adentis Portugal}{2020-01 – 2022-05}
+{Microsoft Dynamics 365 Specialist and System Architect}{Portugal}
+\resumeItemListStart
+\resumeItem{Desenvolvi novas funcionalidades e suporte em projetos em toda a Europa (Portugal, Alemanha e Dinamarca).}
+\resumeItem{Criei app para leitura de notas fiscais físicas usando Computer Vision, integrado a sistema de análise de risco de crédito.}
+\resumeItem{Colaborei com equipes internacionais para implementar soluções de integração de sistemas.}
+\resumeItemListEnd
+
+\resumeSubheading
+{CAST Informática SA}{2014-04 – 2015-08}
+{Desenvolvedor .NET}{Presencial}
+\resumeItemListStart
+\resumeItem{Atuei no Ministério das Relações Exteriores como terceiro, desenvolvendo um projeto de permissionamento usando OAuth para os sistemas internos do órgão, com C\# e Angular, utilizando SQL Server como banco de dados.}
+\resumeItem{Desenvolvi soluções para melhorar a segurança e a eficiência dos sistemas internos.}
+\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{Education}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Anhanguera}{2027-02}
+{Bacharelado in Ciências de Dados}{}
+
+\resumeSubheading
+{UFABC}{2015-12}
+{Pós-graduação in Engenharia em Gestão de Projetos}{}
+\resumeSubHeadingListEnd
+
+\section{Projects}
+\resumeSubHeadingListStart
+\resumeSubItem{\textbf{Ferramenta de RPA Interna}}{Desenvolvi uma ferramenta de RPA interna para a Algar Tech, utilizando C\#, .NET Core e Selenium, automatizando processos de backoffice e reduzindo custos de licenciamento, atendendo 8 milhões de interações mensais.}
+\resumeSubItem{\textbf{Revitalização do BackOffice}}{Reestruturei o BackOffice da Algar Tech utilizando Dynamics 365, substituindo entidades personalizadas por nativas, elevando a confiabilidade e reduzindo custos de melhorias futuras.}
+\resumeSubHeadingListEnd
+
+%-----------CERTIFICATIONS-----------------
+\section{Certifications}
+\resumeSubHeadingListStart
+\resumeCertification{Microsoft Certified: Power Platform Developer Associate}{2025-12}{}{}
+\resumeCertification{Microsoft Certified: Azure AI Fundamentals (AI-900)}{2025-12}{}{}
+\resumeCertification{Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)}{2023-12}{}{}
+\resumeSubHeadingListEnd
+\end{document}

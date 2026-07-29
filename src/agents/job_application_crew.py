@@ -52,15 +52,15 @@ class JobApplicationCrew:
 
         os.environ["RESUME_OUTPUT_DIR"] = output_dir
 
-        with open(job_profile_path, "r") as f:
+        with open(job_profile_path, "r", encoding="utf-8") as f:
             self.job_description = f.read()
 
-        with open(original_resume_path, "r") as f:
+        with open(original_resume_path, "r", encoding="utf-8") as f:
             self.original_resume = json.load(f)
 
         generated_resume_path = os.path.join(output_dir, "json", "resume.json")
         if os.path.exists(generated_resume_path):
-            with open(generated_resume_path, "r") as f:
+            with open(generated_resume_path, "r", encoding="utf-8") as f:
                 self.resume_generated = json.load(f)
         else:
             self.resume_generated = self.original_resume
