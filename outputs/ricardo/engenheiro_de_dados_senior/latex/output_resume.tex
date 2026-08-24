@@ -1,0 +1,198 @@
+
+\documentclass[a4paper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{fontawesome}
+\usepackage{xcolor}
+\usepackage{amsmath}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+\titleformat{\section}{
+    \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+  \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+    \textbf{#1} & #2 \\
+    \textit{\small#3} & \textit{\small #4} \\
+  \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeCertification}[2]{%
+  \item
+  \begin{tabular*}{0.97\textwidth}{@{}l@{\extracolsep{\fill}}r@{}}
+    #1 & \text{#2} \\
+  \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeSubItem}[2]{\resumeItem{#1: #2}\vspace{-4pt}}
+
+\renewcommand{\labelitemii}{$\circ$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0em, itemindent=0em, label={}, itemsep=0ex]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+
+%----------HEADING-----------------
+\begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+\textbf{\href{}{\Large Ricardo Martins}} & Email: \href{mailto:ricardo.parallax@gmail.com}{\faEnvelope} ricardo.parallax@gmail.com \\
+\href{https://www.linkedin.com/in/costaricardomartins/}{LinkedIn: costaricardomartins} \\\hspace{10pt} & Phone: (34) 98433-1954\\\end{tabular*}
+
+%-----------SKILLS-----------------
+\section{Skills}
+\resumeSubHeadingListStart
+\resumeSubItem{\textbf{Modelagem de Dados \& Pipelines}}{Modelagem de dados (fato/dimensão), Construção de pipelines de dados (ETL/ELT), Estruturação de Data Lakes (GCP)}
+\resumeSubItem{\textbf{Linguagens de Programação}}{Python, SQL, C\# / .NET, JavaScript}
+\resumeSubItem{\textbf{Cloud \& DevOps}}{AWS, Azure Functions, Azure Logic Apps, Azure DevOps, Docker, Git / GitHub, CI/CD, TDD / BDD}
+\resumeSubItem{\textbf{Banco de Dados}}{PostgreSQL, DynamoDB, SQL Server}
+\resumeSubItem{\textbf{IA \& Dados}}{Machine Learning, IA Generativa, Agentes inteligentes, Azure AI Studio, Azure OpenAI Services, Azure Cognitive Services, Computer Vision, Azure DataLake, Azure DataFactory, Azure Databricks, Scikit-Learn, Pandas / NumPy}
+\resumeSubItem{\textbf{Ferramentas}}{Visual Studio, Visual Studio Code, Selenium, Figma, Postman / Insomnia}
+\resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------------
+\section{Work Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{R238}{2022-04 – 2026-04}
+{Founder - Desenvolvedor especialista em IA}{Remoto}
+\resumeItemListStart
+\resumeItem{Desenhei e operei arquitetura serverless multi-Lambda em produção.}
+\resumeItem{Modelei e mantive schema em PostgreSQL para pipeline de ETL.}
+\resumeItem{Operei S3 como data lake particionado por data.}
+\resumeItem{Implementei Infraestrutura como Código com Terraform.}
+\resumeItem{Construí pipelines de conteúdo com curadoria humana no loop.}
+\resumeItemListEnd
+
+\resumeSubheading
+{BlueCX}{2025-04 – 2026-04}
+{Desenvolvedor Microsoft Dynamics}{}
+\resumeItemListStart
+\resumeItem{Automatizei a integração do Dynamics com sistemas legados via API REST.}
+\resumeItem{Liderei a implantação do Marketing de Evento no Dynamics 365.}
+\resumeItem{Treinei e mentorei 3 desenvolvedores backend.}
+\resumeItem{Foco principal em Azure AI Service, Azure Cognitive Services, Power Platform, Azure DataFactory e Azure Databricks.}
+\resumeItem{Atuei fortemente com C\# e Python em análises e extração de dados.}
+\resumeItemListEnd
+
+\resumeSubheading
+{NTT DATA Europe \& Latam}{2024-05 – 2025-01}
+{Arquiteto Microsoft Dynamics}{Remoto – Brasil}
+\resumeItemListStart
+\resumeItem{Liderança de projetos de implementação do Microsoft Dynamics 365.}
+\resumeItem{Conduzi iniciativas de integração com Azure, Power Platform e automações via IA.}
+\resumeItem{Realizei análise de requisitos técnicos e funcionais.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Sistema Educacional Brasileiro S.A. (SEB)}{2022-06 – 2023-09}
+{Arquiteto de Soluções Dynamics e Azure}{}
+\resumeItemListStart
+\resumeItem{Reimplantei o Microsoft Dynamics, reduzindo erros em Plugins e Flow.}
+\resumeItem{Criei sistema de vendas de matrículas intuitivo.}
+\resumeItem{Negociei budget diretamente com stakeholders.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Adentis Portugal}{2020-01 – 2022-05}
+{Microsoft Dynamics 365 Specialist and System Architect}{Portugal}
+\resumeItemListStart
+\resumeItem{Desenvolvi novas funcionalidades e suporte em projetos em toda a Europa.}
+\resumeItem{Criei app para leitura de notas fiscais físicas usando Computer Vision.}
+\resumeItemListEnd
+
+\resumeSubheading
+{Algar Tech}{2015-08 – 2020-01}
+{Especialista Dynamics}{Uberlândia – MG}
+\resumeItemListStart
+\resumeItem{Revitalizei completamente o BackOffice com Dynamics 365.}
+\resumeItem{Desenvolvi ferramenta interna de RPA com .NET Core e Selenium.}
+\resumeItemListEnd
+
+\resumeSubheading
+{CAST Informática SA}{2014-04 – 2015-08}
+{Desenvolvedor .NET}{Presencial}
+\resumeItemListStart
+\resumeItem{Atuei como terceirizado em projeto de longa duração no Ministério das Relações Exteriores.}
+\resumeItem{Migrei uma aplicação legada em VB.NET/Microsoft Access para C\#, com migração do banco de dados para Oracle.}
+\resumeItem{Desenvolvi projeto de permissionamento (autenticação/autorização) usando OAuth.}
+\resumeItemListEnd
+
+\resumeSubheading
+{AlfaPeople}{2013-02 – 2014-04}
+{Arquiteto .NET}{Presencial}
+\resumeItemListStart
+\resumeItem{Desenvolvi projetos de integração entre o Microsoft Dynamics 2011 e sistemas externos.}
+\resumeItem{Desenvolvi um portal de atendimento ao Cliente acoplado ao Dynamics.}
+\resumeItemListEnd
+
+\resumeSubheading
+{L3 Informática}{2009-10 – 2012-12}
+{Arquiteto de Soluções}{Presencial}
+\resumeItemListStart
+\resumeItem{Desenvolvi projetos de integração entre o Microsoft Dynamics 2011 e sistemas externos.}
+\resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------EDUCATION-----------------
+\section{Education}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Anhanguera}{}
+{Bacharelado in Ciências de Dados}{}
+
+\resumeSubheading
+{UFABC}{2015}
+{Pós-graduação in Engenharia em Gestão de Projetos}{}
+\resumeSubHeadingListEnd
+
+\section{Projects}
+\resumeSubHeadingListStart
+\resumeSubHeadingListEnd
+
+%-----------CERTIFICATIONS-----------------
+\section{Certifications}
+\resumeSubHeadingListStart
+\resumeCertification{Microsoft Certified: Power Platform Developer Associate}{2025}{}{}
+\resumeCertification{Microsoft Certified: Azure AI Fundamentals (AI-900)}{2025}{}{}
+\resumeCertification{Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)}{2023}{}{}
+\resumeCertification{Microsoft Certified: Power Platform Fundamentals (PL-900)}{2023}{}{}
+\resumeCertification{Microsoft Certified Technology Specialist: Dynamics CRM 2011 Customization and Configuration}{2013}{}{}
+\resumeSubHeadingListEnd
+\end{document}

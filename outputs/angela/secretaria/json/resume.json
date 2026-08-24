@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Angela Beatriz Souza",
+    "label": "Secretária / Recepcionista",
+    "email": "angelabeatrizssouza@gmail.com",
+    "phone": "(34) 9 9171-8469 ou (34) 9 8804-6980",
+    "url": "",
+    "summary": "Profissional com experiência em atendimento ao público e rotinas administrativas, adquirida como estagiária na Previdência Social e como auxiliar administrativa na Jobs and Visas USA. Boa comunicação, agilidade e paciência no atendimento, com facilidade para organização de documentos, cadastro de informações e uso de redes sociais no ambiente de trabalho. Busca oportunidade como secretária ou em atendimento.",
+    "location": {
+      "city": "Uberlândia",
+      "countryCode": "BR",
+      "region": "MG"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Previdência Social (INSS)",
+      "position": "Estagiária",
+      "location": "Uberlândia – MG",
+      "startDate": "2016-01",
+      "endDate": "2017-05",
+      "highlights": [
+        "Atendimento ao público",
+        "Cópia de processos",
+        "Envio de documentos",
+        "Entrega de senhas"
+      ]
+    },
+    {
+      "name": "Jobs and Visas USA",
+      "position": "Auxiliar Administrativo",
+      "location": "",
+      "startDate": "2017-06",
+      "endDate": "2017-09",
+      "highlights": [
+        "Atendimento via redes sociais",
+        "Divulgação dos produtos da empresa",
+        "Cadastro e fechamento de contratos com clientes",
+        "Responsável pelos posts das redes sociais"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "",
+      "area": "Ensino Médio",
+      "studyType": "Ensino Médio",
+      "location": "",
+      "startDate": "",
+      "endDate": "2019",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Atendimento & Rotinas Administrativas",
+      "keywords": [
+        "Atendimento ao público",
+        "Atendimento telefônico e via redes sociais",
+        "Organização e cópia de documentos",
+        "Cadastro e fechamento de contratos com clientes",
+        "Rotinas de secretaria/apoio administrativo"
+      ]
+    },
+    {
+      "name": "Ferramentas",
+      "keywords": [
+        "Informática básica/intermediária",
+        "Redes sociais (uso comercial)"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Informática (nível intermediário)",
+      "issuer": "PrimeCursos Brasil",
+      "date": ""
+    }
+  ],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Português",
+      "fluency": "Nativo"
+    }
+  ],
+  "interests": []
+}

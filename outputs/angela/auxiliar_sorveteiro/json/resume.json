@@ -1,0 +1,90 @@
+{
+  "basics": {
+    "name": "Angela Beatriz Souza",
+    "label": "Atendimento ao Cliente",
+    "email": "angelabeatrizssouza@gmail.com",
+    "phone": "(34) 9 9171-8469 ou (34) 9 8804-6980",
+    "url": "",
+    "summary": "Profissional ágil, comunicativa e paciente, com experiência em atendimento ao público adquirida como estagiária na Previdência Social e como auxiliar administrativa na Jobs and Visas USA. Disponibilidade de horário e facilidade para lidar diretamente com o público em ambientes de alto movimento. Busca oportunidade de atendimento ao cliente/balcão.",
+    "location": {
+      "city": "Uberlândia",
+      "countryCode": "BR",
+      "region": "MG"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "Previdência Social (INSS)",
+      "position": "Estagiária",
+      "location": "Uberlândia – MG",
+      "startDate": "2016-01",
+      "endDate": "2017-05",
+      "highlights": [
+        "Atendimento direto ao público, com agilidade e cordialidade",
+        "Cópia de processos",
+        "Envio de documentos",
+        "Entrega de senhas"
+      ]
+    },
+    {
+      "name": "Jobs and Visas USA",
+      "position": "Auxiliar Administrativo",
+      "location": "",
+      "startDate": "2017-06",
+      "endDate": "2017-09",
+      "highlights": [
+        "Atendimento ao cliente via redes sociais",
+        "Divulgação dos produtos da empresa",
+        "Cadastro e fechamento de contratos com clientes",
+        "Responsável pelos posts das redes sociais"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "",
+      "area": "Ensino Médio",
+      "studyType": "Ensino Médio",
+      "location": "",
+      "startDate": "",
+      "endDate": "2019",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Atendimento ao Público",
+      "keywords": [
+        "Agilidade",
+        "Paciência",
+        "Boa comunicação com o público",
+        "Atendimento presencial e digital",
+        "Disponibilidade de horário"
+      ]
+    },
+    {
+      "name": "Ferramentas",
+      "keywords": [
+        "Informática básica/intermediária",
+        "Redes sociais (uso comercial)"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Informática (nível intermediário)",
+      "issuer": "PrimeCursos Brasil",
+      "date": ""
+    }
+  ],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Português",
+      "fluency": "Nativo"
+    }
+  ],
+  "interests": []
+}

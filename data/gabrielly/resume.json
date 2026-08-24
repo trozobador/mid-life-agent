@@ -1,0 +1,105 @@
+{
+  "basics": {
+    "name": "Gabrielly da Silva Costa",
+    "label": "Administrative Professional",
+    "email": "bibielly1109@gmail.com",
+    "phone": "(11) 98814-4865",
+    "url": "",
+    "summary": "Administrative professional with experience in customer service, operational support, and administrative routines. Skilled in process organization, information control, and supporting technical and administrative teams. Known for strong communication skills, responsibility, and adaptability to new systems and procedures.",
+    "location": {
+      "city": "Santo André",
+      "countryCode": "BR",
+      "region": "SP"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "World Net Brasil",
+      "position": "Auxiliar Administrativo",
+      "location": "São Bernardo do Campo",
+      "startDate": "2024-03",
+      "endDate": "Present",
+      "highlights": [
+        "Atuação no suporte administrativo e operacional da empresa, com contato direto com clientes, equipe técnica e áreas internas.",
+        "Atendimento ao cliente por telefone e canais digitais, esclarecendo dúvidas e direcionando solicitações.",
+        "Abertura, registro e acompanhamento de chamados de suporte técnico.",
+        "Organização e controle de equipamentos e kits técnicos utilizados pelas equipes externas.",
+        "Apoio no controle da qualidade dos serviços prestados e conferência de informações.",
+        "Suporte às rotinas administrativas e financeiras, auxiliando na conferência de dados e identificação de inconsistências.",
+        "Interface entre áreas internas para garantir o bom fluxo das operações.",
+        "Uso diário do ERP IXC Provedor para cadastro e consulta de clientes, contratos e chamados, e da plataforma de atendimento Opa! Suite para atendimento omnichannel (WhatsApp e demais canais)."
+      ]
+    },
+    {
+      "name": "Credicar Veículos",
+      "position": "Vendedora",
+      "location": "Santo André",
+      "startDate": "2022-08",
+      "endDate": "2023-12",
+      "highlights": [
+        "Atendimento ao cliente presencial e online (WhatsApp, telefone e redes sociais).",
+        "Condução de vendas consultivas, entendendo necessidades e oferecendo soluções personalizadas.",
+        "Apresentação de veículos, esclarecimento de dúvidas técnicas e comerciais.",
+        "Colaboração com a equipe para cumprimento de metas individuais e coletivas.",
+        "Acompanhamento do cliente ao longo do processo até a finalização da compra."
+      ]
+    },
+    {
+      "name": "Edificar Veículos",
+      "position": "Vendedora",
+      "location": "Santo André",
+      "startDate": "2021-12",
+      "endDate": "2022-08",
+      "highlights": [
+        "Atendimento ao cliente no showroom, com foco em entendimento do perfil, orçamento e objetivo de compra.",
+        "Levantamento de necessidades e apresentação de veículos compatíveis, destacando diferenciais e condições comerciais.",
+        "Organização e conferência de documentos para processos de venda e financiamento.",
+        "Acompanhamento do cliente ao longo do processo até a finalização da compra."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Faculdade Estácio",
+      "area": "Administração de Empresas",
+      "studyType": "Bacharelado (cursando)",
+      "location": "",
+      "startDate": "",
+      "endDate": "2026",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Administrative & Customer Service",
+      "keywords": [
+        "Atendimento ao cliente (presencial e digital)",
+        "Suporte administrativo e operacional",
+        "Abertura e acompanhamento de chamados de suporte técnico",
+        "Organização e conferência de documentos",
+        "Rotinas administrativas e financeiras (conferência de dados)",
+        "Vendas consultivas"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Microsoft Excel",
+        "Sistemas de controle",
+        "IXC Provedor",
+        "Opa! Suite"
+      ]
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Português",
+      "fluency": "Nativo"
+    }
+  ],
+  "interests": []
+}

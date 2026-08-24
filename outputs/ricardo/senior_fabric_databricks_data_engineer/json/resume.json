@@ -1,0 +1,248 @@
+{
+  "basics": {
+    "name": "Ricardo Martins",
+    "label": "Engenheiro de Dados S\u00eanior",
+    "email": "ricardo.parallax@gmail.com",
+    "phone": "(34) 98433-1954",
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "summary": "Engenheiro de Dados com mais de 30 anos de experi\u00eancia, especializado em solu\u00e7\u00f5es de engenharia de dados end-to-end com Microsoft Fabric e Azure Databricks. Expertise em arquiteturas modernas de dados, integra\u00e7\u00e3o de dados e desenvolvimento de pipelines escal\u00e1veis. Experi\u00eancia comprovada em habilitar an\u00e1lises atrav\u00e9s de modelos sem\u00e2nticos e relat\u00f3rios Power BI, com forte foco em governan\u00e7a de dados e seguran\u00e7a.",
+    "location": {
+      "city": "Uberl\u00e2ndia",
+      "countryCode": "BR",
+      "region": "MG"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "costaricardomartins",
+        "url": "https://www.linkedin.com/in/costaricardomartins/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "R238",
+      "position": "Founder - Desenvolvedor especialista em IA",
+      "location": "Remoto",
+      "startDate": "2022-04",
+      "endDate": "2026-04",
+      "highlights": [
+        "Desenhei e operei arquitetura serverless multi-Lambda em produ\u00e7\u00e3o.",
+        "Implementei infraestrutura como c\u00f3digo com Terraform para otimiza\u00e7\u00e3o de recursos.",
+        "Modelei e mantive schema em PostgreSQL para pipeline de ETL.",
+        "Operei S3 como data lake particionado por data.",
+        "Desenvolvi pipelines de conte\u00fado com curadoria humana no loop."
+      ]
+    },
+    {
+      "name": "BlueCX",
+      "position": "Desenvolvedor Microsoft Dynamics",
+      "location": "",
+      "startDate": "2025-04",
+      "endDate": "2026-04",
+      "highlights": [
+        "Automatizei a integra\u00e7\u00e3o do Dynamics com sistemas legados via API REST.",
+        "Foco em Azure DataFactory e Azure Databricks para extra\u00e7\u00e3o e an\u00e1lise de dados.",
+        "Liderei a implanta\u00e7\u00e3o do Marketing de Evento no Dynamics 365.",
+        "Treinei e mentorei desenvolvedores backend em pr\u00e1ticas de integra\u00e7\u00e3o.",
+        "Utilizei C# e Python para an\u00e1lises e extra\u00e7\u00e3o de dados."
+      ]
+    },
+    {
+      "name": "NTT DATA Europe & Latam",
+      "position": "Arquiteto Microsoft Dynamics",
+      "location": "Remoto \u2013 Brasil",
+      "startDate": "2024-05",
+      "endDate": "2025-01",
+      "highlights": [
+        "Conduzi iniciativas de integra\u00e7\u00e3o com Azure e Power Platform.",
+        "Desenvolvi softwares em JavaScript para customiza\u00e7\u00e3o do Microsoft Dynamics.",
+        "Realizei an\u00e1lise de requisitos t\u00e9cnicos e funcionais."
+      ]
+    },
+    {
+      "name": "Sistema Educacional Brasileiro S.A. (SEB)",
+      "position": "Arquiteto de Solu\u00e7\u00f5es Dynamics e Azure",
+      "location": "",
+      "startDate": "2022-06",
+      "endDate": "2023-09",
+      "highlights": [
+        "Reimplantei o Microsoft Dynamics, reduzindo erros em Plugins e Flow.",
+        "Criei sistema de vendas de matr\u00edculas intuitivo.",
+        "Negociei budget diretamente com stakeholders."
+      ]
+    },
+    {
+      "name": "Adentis Portugal",
+      "position": "Microsoft Dynamics 365 Specialist and System Architect",
+      "location": "Portugal",
+      "startDate": "2020-01",
+      "endDate": "2022-05",
+      "highlights": [
+        "Desenvolvi novas funcionalidades e suporte em projetos em toda a Europa.",
+        "Criei app para leitura de notas fiscais f\u00edsicas usando Computer Vision."
+      ]
+    },
+    {
+      "name": "Algar Tech",
+      "position": "Especialista Dynamics",
+      "location": "Uberl\u00e2ndia \u2013 MG",
+      "startDate": "2015-08",
+      "endDate": "2020-01",
+      "highlights": [
+        "Revitalizei o BackOffice com Dynamics 365.",
+        "Desenvolvi ferramenta interna de RPA com .NET Core e Selenium."
+      ]
+    },
+    {
+      "name": "CAST Inform\u00e1tica SA",
+      "position": "Desenvolvedor .NET",
+      "location": "Presencial",
+      "startDate": "2014-04",
+      "endDate": "2015-08",
+      "highlights": [
+        "Migrei aplica\u00e7\u00e3o legada em VB.NET/Microsoft Access para C#, com banco de dados Oracle.",
+        "Desenvolvi projeto de permissionamento usando OAuth com C# e Angular."
+      ]
+    },
+    {
+      "name": "AlfaPeople",
+      "position": "Arquiteto .NET",
+      "location": "Presencial",
+      "startDate": "2013-02",
+      "endDate": "2014-04",
+      "highlights": [
+        "Desenvolvi projetos de integra\u00e7\u00e3o entre o Microsoft Dynamics 2011 e sistemas externos.",
+        "Desenvolvi portal de atendimento ao Cliente acoplado ao Dynamics."
+      ]
+    },
+    {
+      "name": "L3 Inform\u00e1tica",
+      "position": "Arquiteto de Solu\u00e7\u00f5es",
+      "location": "Presencial",
+      "startDate": "2009-10",
+      "endDate": "2012-12",
+      "highlights": [
+        "Desenvolvi projetos de integra\u00e7\u00e3o entre o Microsoft Dynamics 2011 e sistemas externos."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anhanguera",
+      "area": "Ci\u00eancias de Dados",
+      "studyType": "Bacharelado",
+      "location": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "UFABC",
+      "area": "Engenharia em Gest\u00e3o de Projetos",
+      "studyType": "P\u00f3s-gradua\u00e7\u00e3o",
+      "location": "",
+      "startDate": "",
+      "endDate": "2015",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Engenharia de Dados",
+      "keywords": [
+        "Microsoft Fabric",
+        "Azure Databricks",
+        "Data Ingestion",
+        "Data Pipelines",
+        "Power BI"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "keywords": [
+        "Azure DataFactory",
+        "Azure Functions",
+        "AWS",
+        "Docker",
+        "Git / GitHub",
+        "CI/CD",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Banco de Dados",
+      "keywords": [
+        "SQL Server",
+        "PostgreSQL",
+        "DynamoDB"
+      ]
+    },
+    {
+      "name": "Linguagens de Programa\u00e7\u00e3o",
+      "keywords": [
+        "C# / .NET",
+        "Python",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "IA & Dados",
+      "keywords": [
+        "Machine Learning",
+        "IA Generativa",
+        "Azure AI Studio",
+        "Azure Cognitive Services"
+      ]
+    },
+    {
+      "name": "CRM & Microsoft Ecosystem",
+      "keywords": [
+        "Microsoft Dynamics 365",
+        "Power Platform",
+        "Power Automate"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Power Platform Developer Associate",
+      "issuer": "Microsoft",
+      "date": "2025"
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+      "issuer": "Microsoft",
+      "date": "2025"
+    },
+    {
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)",
+      "issuer": "Microsoft",
+      "date": "2023"
+    },
+    {
+      "name": "Microsoft Certified: Power Platform Fundamentals (PL-900)",
+      "issuer": "Microsoft",
+      "date": "2023"
+    },
+    {
+      "name": "Microsoft Certified Technology Specialist: Dynamics CRM 2011 Customization and Configuration",
+      "issuer": "Microsoft",
+      "date": "2013"
+    }
+  ],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Portugu\u00eas",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Ingl\u00eas",
+      "fluency": "B2"
+    }
+  ],
+  "interests": []
+}

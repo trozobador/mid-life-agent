@@ -121,10 +121,16 @@ Your tasks:
    - The narrative must be 3–4 sentences: who the person is, what they bring, why they are the right fit.
 
 2. **Experience Selection & Prioritization**
-   - Keep all positions that have ANY relevance to the target role (aim for 4–5 positions).
+   - KEEP EVERY POSITION from the original resume. Never drop a company or role, no matter how
+     unrelated its tech stack looks to the target job — omitting a position creates a fake gap
+     in the candidate's employment history, which is worse than including a less-relevant job.
+     This applies especially to the most recent/current position(s).
    - For the 2–3 most relevant positions: keep 5–6 highlights each, rewriting for impact and ATS keywords.
-   - For less relevant positions: keep 2–3 highlights focused on transferable skills.
-   - Rewrite bullet points to emphasize impact and quantified results using the STAR method when possible.
+   - For less relevant positions: condense to 2–3 highlights focused on transferable skills —
+     condense, do not remove the position itself.
+   - Rewrite bullet points to emphasize impact using the STAR method when possible.
+   - Only include a quantified metric (%, counts, etc.) if that exact number already appears in
+     the original resume — never invent or estimate one, even a "plausible" one.
    - Mirror the job description's terminology in the bullet points where truthful.
    - The goal is enough content to fill a 2-page resume — do NOT trim too aggressively.
 
@@ -202,8 +208,15 @@ that incorporates the hiring manager's feedback while staying true to the candid
 
 CRITICAL RULE: You MUST work exclusively from the "Original Resume" above.
 - NEVER invent companies, job titles, dates, metrics, or technologies not present in the original.
+- A metric (%, counts, dollar figures, etc.) may ONLY appear in a bullet if that exact number is
+  already present in the original resume for that position. If a bullet has no real metric, keep
+  it qualitative — do not add a "plausible-sounding" number.
 - If you need to fill a field, pull it from the original resume. If it's not there, leave it empty.
 - Any fabricated content will cause this task to FAIL.
+- The `work` array in the output MUST contain every single company/position present in the
+  "Original Resume" above — same count, same companies. You may shorten highlights for
+  less-relevant positions, but never delete a position outright, and never drop the most
+  recent/current one(s). If the resume runs long, cut bullets, not entire jobs.
 
 Steps:
 
@@ -213,7 +226,8 @@ Steps:
 
 2. **Edit and Refine**
    - Restructure to the following JSON schema: {JSON_STRUCTURE}
-   - Condense content: focus on achievements, quantified results, and relevant skills.
+   - Condense content: focus on achievements and relevant skills — do not add metrics that
+     aren't already in the original resume.
    - Aim for strong action verbs at the start of each bullet point.
    - Use 'save_resume_json' tool with the updated JSON string.
 
@@ -223,7 +237,8 @@ Steps:
 
 4. **Iterate if Necessary**
    - TARGET: exactly 2 pages. One page is NOT acceptable — always expand to fill 2 pages.
-   - If over two pages: remove less relevant experiences or shorten bullets.
+   - If over two pages: shorten bullets on less-relevant positions. Do NOT remove a position
+     entirely just to save space.
    - If under two pages: add more bullet points per job (aim for 4–6 per position), include all projects, expand descriptions.
    - Repeat steps 2–3 until the resume fills exactly 2 pages.
 

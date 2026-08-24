@@ -99,7 +99,7 @@ vez de deixar o LLM inferir de um currículo de 2013.]
 
 ### Martins Agropecuária S/A
 - **Cargo:** Analista de Custos Sr.
-- **Período:** 05/2007 – 12/2020
+- **Período:** 05/2007 – 05/2021
 - **Local:** Uberlândia – MG
 - **Setor do cliente:** Empresa do Grupo Martins, atuando com extração sustentável de madeira certificada e pecuária
 - **Atividades e resultados:**

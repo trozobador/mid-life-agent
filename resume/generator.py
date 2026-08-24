@@ -153,7 +153,7 @@ def generate_latex_resume(json_data):
 \resumeSubHeadingListStart
 """
 
-    for project in json_data['projects']:
+    for project in json_data.get('projects', []):
         latex_content += r"\resumeSubItem{\textbf{" + escape_latex(project['name']) + r"}}{" + escape_latex(project['description']) + r"}" + "\n"
 
     latex_content += r"""\resumeSubHeadingListEnd

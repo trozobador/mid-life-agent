@@ -1,0 +1,61 @@
+Título do Cargo: Atendente de Suporte / Atendimento ao Cliente — Provedor de Internet (ISP)
+Nível: Júnior / Pleno
+
+Sobre a Empresa:
+Provedor regional de internet via fibra óptica (ISP de pequeno/médio porte), com
+atendimento presencial, telefônico e digital (WhatsApp, redes sociais) a clientes
+residenciais e empresariais. Gestão da base de clientes, contratos, cobrança e
+suporte técnico centralizada no ERP IXC Provedor (IXC Soft), com atendimento
+omnichannel unificado na plataforma Opa! Suite (WhatsApp, Instagram, chat e
+integração com o IXC).
+
+Responsabilidades Principais:
+- Atendimento ao cliente por telefone, WhatsApp, chat e redes sociais, esclarecendo
+  dúvidas sobre planos, faturas, contratos e instalação
+- Abertura, triagem, registro e acompanhamento de chamados de suporte técnico
+  (ordens de serviço) no sistema de gestão do provedor
+- Consulta e atualização de cadastro de clientes, contratos, boletos e status
+  financeiro diretamente no ERP (IXC Provedor)
+- Uso de plataforma omnichannel (Opa! Suite ou similar) para centralizar e
+  organizar o atendimento via WhatsApp/Instagram, incluindo filas, tags e
+  transferência entre atendentes
+- Direcionamento de chamados técnicos complexos para a equipe de campo/NOC,
+  com acompanhamento até a resolução
+- Apoio em rotinas de cobrança: segunda via de boleto, negociação simples de
+  débitos, esclarecimento sobre suspensão/religação
+- Registro e conferência de informações para garantir a qualidade e a
+  rastreabilidade do atendimento (histórico, protocolos)
+- Colaboração com equipes técnicas e administrativas para melhorar o fluxo
+  de atendimento e a satisfação do cliente
+- Cumprimento de metas de atendimento (tempo de resposta, SLA, satisfação/CSAT)
+
+Ferramentas Esperadas:
+- ERP para provedores de internet: IXC Provedor (IXC Soft) — cadastro de
+  clientes, contratos, faturamento, ordens de serviço/chamados
+- Plataforma de atendimento omnichannel: Opa! Suite (ou similar) — WhatsApp
+  Business, Instagram, chat, automação e distribuição de filas
+- Pacote Office / Google Workspace, especialmente Excel/Planilhas (controle
+  de dados, conferência de informações)
+- Telefonia e canais digitais de atendimento (WhatsApp, redes sociais, e-mail)
+
+Palavras-chave ATS:
+atendimento ao cliente, suporte técnico, provedor de internet, ISP, fibra óptica,
+IXC, IXC Provedor, IXC Soft, Opa Suite, atendimento omnichannel, WhatsApp
+Business, abertura de chamados, ordem de serviço, SAC, help desk, call center,
+cobrança, retenção de clientes, CRM, atendimento consultivo, SLA, CSAT
+
+Soft Skills Valorizadas:
+- Boa comunicação verbal e escrita, com escuta ativa
+- Organização e atenção a detalhes no registro de informações
+- Empatia e paciência no atendimento a clientes com problemas técnicos
+- Facilidade para aprender novos sistemas (ERP, plataformas de atendimento)
+- Proatividade na resolução de problemas e senso de responsabilidade
+- Trabalho em equipe e boa interface entre áreas (comercial, técnico, financeiro)
+
+Diferenciais Competitivos:
+- Experiência prévia com sistemas de gestão/CRM ou plataformas de atendimento
+  omnichannel (mesmo que não sejam exatamente IXC/Opa Suite)
+- Vivência em abertura e acompanhamento de chamados/tickets de suporte
+- Experiência em atendimento via WhatsApp/redes sociais em ambiente comercial
+- Vivência em rotinas de cobrança ou conferência financeira básica
+- Cursando ou formado em Administração ou áreas correlatas

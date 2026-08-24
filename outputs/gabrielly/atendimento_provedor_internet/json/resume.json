@@ -1,0 +1,112 @@
+{
+  "basics": {
+    "name": "Gabrielly da Silva Costa",
+    "label": "Profissional de Atendimento ao Cliente",
+    "email": "bibielly1109@gmail.com",
+    "phone": "(11) 98814-4865",
+    "url": "",
+    "summary": "Profissional com sólida experiência em atendimento ao cliente e suporte técnico em ambiente de provedor de internet. Habilidade comprovada no uso do ERP IXC Provedor e da plataforma Opa! Suite para abertura e acompanhamento de chamados e atendimento omnichannel. Conhecida por comunicação eficaz, organização e capacidade de adaptação a novos sistemas, com foco em qualidade de atendimento.",
+    "profiles": []
+  },
+  "location": {
+    "city": "Santo André",
+    "countryCode": "BR",
+    "region": "SP"
+  },
+  "profiles": [],
+  "work": [
+    {
+      "name": "World Net Brasil",
+      "position": "Auxiliar Administrativo",
+      "location": "São Bernardo do Campo",
+      "startDate": "2024-03",
+      "endDate": "Present",
+      "highlights": [
+        "Suporte administrativo e operacional, com contato direto com clientes, equipe técnica e áreas internas.",
+        "Atendimento ao cliente por telefone e canais digitais, esclarecendo dúvidas e direcionando solicitações.",
+        "Abertura, registro e acompanhamento de chamados de suporte técnico no ERP IXC Provedor.",
+        "Uso diário do ERP IXC Provedor para cadastro e consulta de clientes, contratos e chamados, e da plataforma Opa! Suite para atendimento omnichannel (WhatsApp e demais canais).",
+        "Organização e controle de equipamentos e kits técnicos utilizados pelas equipes externas.",
+        "Apoio no controle da qualidade dos serviços prestados e conferência de informações.",
+        "Suporte às rotinas administrativas e financeiras, auxiliando na conferência de dados e identificação de inconsistências.",
+        "Interface entre áreas internas para garantir o bom fluxo das operações."
+      ]
+    },
+    {
+      "name": "Credicar Veículos",
+      "position": "Vendedora",
+      "location": "Santo André",
+      "startDate": "2022-08",
+      "endDate": "2023-12",
+      "highlights": [
+        "Atendimento ao cliente presencial e online (WhatsApp, telefone e redes sociais).",
+        "Condução de vendas consultivas, entendendo necessidades e oferecendo soluções personalizadas.",
+        "Apresentação de veículos, esclarecimento de dúvidas técnicas e comerciais.",
+        "Colaboração com a equipe para cumprimento de metas individuais e coletivas.",
+        "Acompanhamento do cliente ao longo do processo até a finalização da compra."
+      ]
+    },
+    {
+      "name": "Edificar Veículos",
+      "position": "Vendedora",
+      "location": "Santo André",
+      "startDate": "2021-12",
+      "endDate": "2022-08",
+      "highlights": [
+        "Atendimento ao cliente no showroom, com foco em entendimento do perfil, orçamento e objetivo de compra.",
+        "Levantamento de necessidades e apresentação de veículos compatíveis, destacando diferenciais e condições comerciais.",
+        "Organização e conferência de documentos para processos de venda e financiamento.",
+        "Acompanhamento do cliente ao longo do processo até a finalização da compra."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Faculdade Estácio",
+      "area": "Administração de Empresas",
+      "studyType": "Bacharelado (cursando)",
+      "location": "",
+      "startDate": "",
+      "endDate": "2026",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Atendimento ao Cliente & Suporte Técnico",
+      "keywords": [
+        "Atendimento ao cliente (presencial e digital)",
+        "Suporte administrativo e operacional",
+        "Abertura e acompanhamento de chamados de suporte técnico",
+        "ERP IXC Provedor",
+        "Opa! Suite",
+        "Atendimento omnichannel"
+      ]
+    },
+    {
+      "name": "Ferramentas",
+      "keywords": [
+        "Microsoft Excel",
+        "Sistemas de controle"
+      ]
+    },
+    {
+      "name": "Vendas Consultivas",
+      "keywords": [
+        "Condução de vendas",
+        "Negociação",
+        "Apresentação de produtos"
+      ]
+    }
+  ],
+  "certificates": [],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Português",
+      "fluency": "Nativo"
+    }
+  ],
+  "interests": []
+}

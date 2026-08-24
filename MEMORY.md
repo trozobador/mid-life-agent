@@ -14,7 +14,8 @@
 - **Arquivos de currículo real**: pasta `input/ricardo/`
 
 ## Multi-pessoa
-- Desde 2026-07-23 o projeto suporta gerar currículos para mais de uma pessoa (ex: `ricardo`, `carol`), cada uma com dados isolados em `input/<pessoa>/`, `data/<pessoa>/`, `outputs/<pessoa>/`.
+- Desde 2026-07-23 o projeto suporta gerar currículos para mais de uma pessoa (ex: `ricardo`, `carol`, `gabrielly`), cada uma com dados isolados em `input/<pessoa>/`, `data/<pessoa>/`, `outputs/<pessoa>/`.
+- 2026-07-24: estrutura preparada para a Gabrielly (`input/gabrielly/README.md` + `profile_truth.md` em branco, `data/gabrielly/job_profiles/README.md`) — aguardando que ela envie os arquivos reais do currículo (PDF/DOCX) para rodar `ingest_resume.py --person gabrielly`.
 - Pessoa ativa por padrão: `PERSON` no `.env` (atualmente `ricardo`). Trocar via `--person <nome>` na CLI.
 - **Why**: o Ricardo pediu uma forma de gerar/chavear o currículo da Carol sem misturar dados dela com os dele.
 - **How to apply**: qualquer novo script ou caminho hardcoded para currículo/vaga/output deve receber `person` como parâmetro em vez de assumir um único usuário.

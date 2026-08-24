@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Ricardo Martins",
-    "label": "Tech Lead | Arquiteto de Soluções | AI Engineer | Cientista de Dados",
+    "label": "Tech Lead, Arquiteto de Soluções",
     "email": "ricardo.parallax@gmail.com",
     "phone": "(34) 98433-1954",
     "url": "https://www.linkedin.com/in/costaricardomartins/",
-    "summary": "Profissional de TI com mais de 30 anos de experiência, sendo 15 anos em liderança técnica de projetos complexos. Atuação em empresas de médio e grande porte nos setores financeiro, mineração, call center, consultoria (software house) e metalurgia. Experiência em modernização de backoffices, desenvolvimento de RPAs e aplicações em nuvem (Azure, AWS, Copilot Studio). Grande facilidade em traduzir necessidades de negócio em soluções técnicas robustas e escaláveis, com forte conhecimento em integração de tecnologias. Perfil movido a desafios, resiliente, colaborativo, com foco em solução de problemas e atendimento ao cliente.",
+    "summary": "Profissional de TI com mais de 30 anos de experiência, especializado em liderança técnica de projetos complexos. Experiência em modernização de backoffices, desenvolvimento de RPAs e aplicações em nuvem, com forte conhecimento em integração de tecnologias. Perfil resiliente e colaborativo, focado em solução de problemas e atendimento ao cliente.",
     "location": {
       "city": "Uberlândia",
       "countryCode": "BR",
@@ -21,38 +21,44 @@
   },
   "work": [
     {
+      "name": "R238",
+      "position": "Founder - Desenvolvedor especialista em IA",
+      "location": "Remoto",
+      "startDate": "2022-04",
+      "endDate": "2026-04",
+      "highlights": [
+        "Desenhei e operei arquitetura serverless multi-Lambda em produção.",
+        "Padronizei IAM com role compartilhada e políticas de menor privilégio.",
+        "Centralizei segredos em um único AWS Secrets Manager.",
+        "Implementei Infraestrutura como Código com Terraform.",
+        "Utilizei API Gateway com autenticação por API key.",
+        "Implementei pipeline de CI no GitHub Actions.",
+        "Construí pipeline de deploy contínuo em dois estágios.",
+        "Adotei autenticação via OIDC entre GitHub Actions e AWS.",
+        "Automatizei deploy remoto via SSH.",
+        "Orquestrei múltiplos modelos de LLM em produção.",
+        "Construí pipelines de conteúdo com curadoria humana no loop.",
+        "Projetei um pipeline de sinalização de tendências.",
+        "Modelei e mantive schema em PostgreSQL para pipeline de ETL.",
+        "Introduzi DynamoDB como primeiro uso de banco NoSQL.",
+        "Operei S3 como data lake particionado por data.",
+        "Desenhei um hub de comunicação assíncrono baseado em SQS.",
+        "Desenvolvi múltiplos agentes autônomos de trading."
+      ]
+    },
+    {
       "name": "BlueCX",
       "position": "Desenvolvedor Microsoft Dynamics",
       "location": "",
       "startDate": "2025-04",
       "endDate": "2026-04",
       "highlights": [
-        "Sou responsável por manter e evoluir todo o módulo de eventos de Marketing do Dynamics 365, garantindo estabilidade e alinhamento com as áreas de negócio.",
-        "Liderei a implantação do Marketing de Evento no Dynamics 365, alcançando redução de aproximadamente 95% nos bugs reportados relacionados a esse módulo.",
-        "Automatizei a integração do Dynamics com sistemas legados via API REST, utilizando autenticação OAuth e serviços em AWS para assegurar segurança, escalabilidade e desempenho.",
-        "Treinei e mentorei 3 desenvolvedores backend para atuarem com soluções focadas em Microsoft Dynamics, disseminando boas práticas de arquitetura e desenvolvimento.",
+        "Responsável por manter e evoluir todo o módulo de eventos de Marketing do Dynamics 365.",
+        "Liderei a implantação do Marketing de Evento no Dynamics 365.",
+        "Automatizei a integração do Dynamics com sistemas legados via API REST.",
+        "Treinei e mentorei 3 desenvolvedores backend.",
         "Foco principal em Azure AI Service, Azure Cognitive Services, Power Platform, Azure DataFactory e Azure Databricks.",
-        "Atuo fortemente com C# e Python em análises e extração de dados, incluindo a criação de um modelo de predição de participação em eventos para otimizar a compra de materiais e investimentos em marketing.",
-        "Arquitetura de soluções no ecossistema Microsoft Azure e AWS: Copilot Studio, Power Automate, Azure AI Studio, Azure OpenAI Services e serviços de DataLake.",
-        "Atuação como arquiteto de IA utilizando o stack disponível no Azure, migrando para papel de integrador ou desenvolvedor conforme a necessidade do projeto.",
-        "Integração fluída entre componentes de IA: conectei o Copilot Studio a bancos de vetores (RAG) para tornar o assistente especialista no negócio do cliente.",
-        "Integração de Azure OpenAI Services com sistemas legados via API REST, garantindo segurança (OAuth), escalabilidade e desempenho.",
-        "Desenvolvimento de modelos de ML integrados ao Copilot e Azure AI para entrega de conhecimento especializado em processos de negócio e industriais — superando a limitação generalista das IAs generativas.",
-        "Criação de modelo de predição de participação em eventos para otimizar compra de materiais e investimentos de marketing.",
-        "Gestão pós-implantação: curadoria de conteúdo, métricas de uso, expansão de funcionalidades e governança de custos de componentes de IA.",
-        "Experiência em pivotar modelos para manter em produção a solução com melhor custo-benefício.",
-        "Escalabilidade de agentes: tanto agentes no Copilot Studio quanto agentes RAG operando com Azure OpenAI.",
-        "Atuação em projeto estratégico de Customer Insights para uma das maiores cooperativas de crédito do país.",
-        "Responsável por manter e evoluir o ecossistema Dynamics já implantado, colaborando diretamente com times multifuncionais na ideação e desenvolvimento de novas funcionalidades.",
-        "Foco em melhorias contínuas, correção de bugs, e apoio técnico aos squads.",
-        "Destaque para participação ativa na migração do módulo de Marketing para a nova versão Dynamics 365 Customer Insights – Journeys, garantindo continuidade operacional e aderência aos novos padrões da Microsoft.",
-        "Suporte técnico e desenvolvimento de novas features no módulo de Customer Insights.",
-        "Apoio na ideação e validação técnica de soluções propostas por squads internos.",
-        "Participação ativa na migração do módulo de Marketing para a nova versão Dynamics Journeys.",
-        "Contribuição para otimização de processos e melhoria da experiência do usuário final.",
-        "Aplicação de análise de dados e automações inteligentes em Customer Insights.",
-        "Participação em projetos orientados a dados para melhoria da experiência do cliente.",
-        "Integração de sistemas com foco em coleta e uso estratégico de dados."
+        "Atuo fortemente com C# e Python em análises e extração de dados."
       ]
     },
     {
@@ -62,16 +68,11 @@
       "startDate": "2024-05",
       "endDate": "2025-01",
       "highlights": [
-        "Liderança de projetos de implementação do Microsoft Dynamics 365 em grandes clientes.",
-        "Conduzi iniciativas de integração com Azure, Power Platform e automações via IA, priorizando performance, segurança e escalabilidade. Essas ações resultaram na padronização de processos de CRM e na redução do retrabalho operacional em vendas de sistemas IoT 5G.",
-        "Ferramenta com IA para recomendar horários e abordagens de contato com leads.",
-        "Responsável pelo desenvolvimento de softwares em JavaScript para customização do Microsoft Dynamics e pelo desenho da arquitetura de integrações entre o Dynamics e sistemas legados.",
-        "Atuação ativa nos ritos do Scrum, apoiando a equipe na solução de problemas.",
-        "Realização de análise de requisitos técnicos e funcionais, modelagem de dados e validação de documentação.",
-        "Assegurar a aplicação de boas práticas de desenvolvimento, como TDD, BDD e CI/CD.",
-        "Gerenciar a comunicação e colaboração entre equipes técnicas e não técnicas.",
-        "Realizar 1:1 com liderados, visando propor melhorias contínuas nos processos e entregas do time.",
-        "Customização do Microsoft Dynamics para atender a área de apoio ao financiamento de veículos."
+        "Liderança de projetos de implementação do Microsoft Dynamics 365.",
+        "Conduzi iniciativas de integração com Azure, Power Platform e automações via IA.",
+        "Responsável pelo desenvolvimento de softwares em JavaScript para customização do Microsoft Dynamics.",
+        "Atuação ativa nos ritos do Scrum.",
+        "Realização de análise de requisitos técnicos e funcionais."
       ]
     },
     {
@@ -82,12 +83,8 @@
       "endDate": "2023-09",
       "highlights": [
         "Reimplantação do Microsoft Dynamics, reduzindo erros em Plugins e Flow.",
-        "Code Review, ritos do Scrum, análise de performance da equipe.",
-        "Prova de conceito das integrações e entrega de relatórios para Stakeholders e OKRs.",
-        "Criação de sistema de vendas de matrículas intuitivo, reduzindo burocracia de contratação de Up Selling sem necessidade dos pais comparecerem à unidade escolar, para aproximadamente 18 unidades que matricularam 8 mil alunos.",
-        "Negociação de budget diretamente com stakeholders para garantir o andamento do projeto.",
-        "Criação de soluções baseadas em dados para otimização de processos de vendas e atendimento.",
-        "Implementação de soluções orientadas a dados para otimização de processos."
+        "Criação de sistema de vendas de matrículas intuitivo.",
+        "Negociação de budget diretamente com stakeholders."
       ]
     },
     {
@@ -97,8 +94,8 @@
       "startDate": "2020-01",
       "endDate": "2022-05",
       "highlights": [
-        "Desenvolvimento de novas funcionalidades e suporte em projetos em toda a Europa (Portugal, Alemanha e Dinamarca).",
-        "Criação de app para leitura de notas fiscais físicas usando Computer Vision, integrado a sistema de análise de risco de crédito."
+        "Desenvolvimento de novas funcionalidades e suporte em projetos em toda a Europa.",
+        "Criação de app para leitura de notas fiscais físicas usando Computer Vision."
       ]
     },
     {
@@ -109,12 +106,7 @@
       "endDate": "2020-01",
       "highlights": [
         "Revitalização completa do BackOffice com Dynamics 365.",
-        "Desenvolvimento de ferramenta interna de RPA com .NET Core e Selenium, atendendo mais de 8 milhões de interações/mês.",
-        "Responsável por estabilizar o ambiente existente para reduzir os erros e aumentar a produtividade das equipes de Backoffice existentes no Call Center do banco Bradesco.",
-        "Desenvolver uma customização padrão do Dynamics para uso em todas as operações internas da Algar visando reduzir o custo e o tempo de instalação.",
-        "Revitalização do BackOffice utilizando Dynamics da Algar Tech, substituindo entidades personalizadas por entidades nativas da ferramenta, elevando a confiabilidade do produto e reduzindo o custo das melhorias seguintes.",
-        "Desenvolvimento de ferramenta de RPA interna utilizando C#, .Net Core e Selenium para minimizar custos com licenciamento de ferramentas de RPA, atendendo um volume de aproximadamente 8 milhões de interações mensais.",
-        "Foco principal em Azure AI Service, Azure Cognitive services, Power platform, Azure DataFactory e Azure Databricks."
+        "Desenvolvimento de ferramenta interna de RPA com .NET Core e Selenium."
       ]
     },
     {
@@ -124,7 +116,10 @@
       "startDate": "2014-04",
       "endDate": "2015-08",
       "highlights": [
-        "Atuei no Ministério das Relações Exteriores como terceiro, desenvolvendo um projeto de permissionamento usando OAuth para os sistemas internos do órgão, com C# e Angular, utilizando SQL Server como banco de dados."
+        "Atuei como terceirizado em projeto de longa duração no Ministério das Relações Exteriores, cobrindo tanto manutenção/evolução de sistemas internos quanto modernização de aplicações legadas.",
+        "Migrei uma aplicação legada em VB.NET/Microsoft Access para C#, com migração do banco de dados para Oracle, incluindo o levantamento da lógica de negócio da aplicação original em VB/Access antes de reescrevê-la.",
+        "Desenvolvi projeto de permissionamento (autenticação/autorização) usando OAuth para os sistemas internos do órgão, com C# e Angular, banco de dados SQL Server.",
+        "Trabalhei com bancos Oracle e SQL Server no mesmo ambiente, incluindo consultas e modelagem de dados."
       ]
     },
     {
@@ -134,10 +129,8 @@
       "startDate": "2013-02",
       "endDate": "2014-04",
       "highlights": [
-        "Desenvolvi inúmeros projetos de integração entre o Microsoft Dynamics 2011 e sistemas externos.",
-        "Desenvolvi um portal de atendimento ao Cliente acoplado ao Dynamics que permitia a clientes externos e internos abrir e acompanhar tickets tratados no Dynamics.",
-        "Desenvolvi uma ferramenta de importação de dados não estruturados para o Microsoft Dynamics.",
-        "Ferramentas utilizadas: C# e Javascript."
+        "Desenvolvi projetos de integração entre o Microsoft Dynamics 2011 e sistemas externos.",
+        "Desenvolvi um portal de atendimento ao Cliente acoplado ao Dynamics."
       ]
     },
     {
@@ -147,7 +140,7 @@
       "startDate": "2009-10",
       "endDate": "2012-12",
       "highlights": [
-        "Desenvolvi inúmeros projetos de integração entre o Microsoft Dynamics 2011 e sistemas externos."
+        "Desenvolvi projetos de integração entre o Microsoft Dynamics 2011 e sistemas externos."
       ]
     }
   ],
@@ -157,8 +150,8 @@
       "area": "Ciências de Dados",
       "studyType": "Bacharelado",
       "location": "",
-      "startDate": null,
-      "endDate": "2027-02",
+      "startDate": "",
+      "endDate": "",
       "gpa": "",
       "courses": []
     },
@@ -167,8 +160,8 @@
       "area": "Engenharia em Gestão de Projetos",
       "studyType": "Pós-graduação",
       "location": "",
-      "startDate": null,
-      "endDate": "2015-12",
+      "startDate": "",
+      "endDate": "2015",
       "gpa": "",
       "courses": []
     }
@@ -178,11 +171,11 @@
       "name": "CRM & Microsoft Ecosystem",
       "keywords": [
         "Microsoft Dynamics 365 (CRM/CE)",
-        "Power Platform (geral)",
+        "Power Platform",
         "Power Automate",
         "Power Apps",
         "Power BI",
-        "Copilot Studio (ex-Power Virtual Agents)",
+        "Copilot Studio",
         "Dynamics 365 Customer Insights",
         "Dynamics 365 Customer Insights – Journeys"
       ]
@@ -192,7 +185,6 @@
       "keywords": [
         "C# / .NET",
         "JavaScript",
-        "TypeScript",
         "Python"
       ]
     },
@@ -212,20 +204,21 @@
     {
       "name": "Banco de Dados",
       "keywords": [
-        "SQL Server"
+        "SQL Server",
+        "PostgreSQL",
+        "DynamoDB"
       ]
     },
     {
       "name": "IA & Dados",
       "keywords": [
-        "Machine Learning (supervisionado/não supervisionado)",
-        "IA Generativa / LLMs",
+        "Machine Learning",
+        "IA Generativa",
         "Agentes inteligentes",
         "Azure AI Studio",
         "Azure OpenAI Services",
         "Azure Cognitive Services",
         "Computer Vision",
-        "Copilot Studio (Incluindo integração com bancos de vetores para especialização de domínio)",
         "Azure DataLake",
         "Azure DataFactory",
         "Azure Databricks",
@@ -238,10 +231,9 @@
       "keywords": [
         "Visual Studio",
         "Visual Studio Code",
-        "Selenium (Testes e RPA)",
+        "Selenium",
         "Figma",
-        "Postman / Insomnia",
-        "React"
+        "Postman / Insomnia"
       ]
     }
   ],
@@ -249,64 +241,38 @@
     {
       "name": "Microsoft Certified: Power Platform Developer Associate",
       "issuer": "Microsoft",
-      "date": "2025-12"
+      "date": "2025"
     },
     {
       "name": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
       "issuer": "Microsoft",
-      "date": "2025-12"
+      "date": "2025"
     },
     {
       "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)",
       "issuer": "Microsoft",
-      "date": "2023-12"
+      "date": "2023"
     },
     {
       "name": "Microsoft Certified: Power Platform Fundamentals (PL-900)",
       "issuer": "Microsoft",
-      "date": "2023-12"
+      "date": "2023"
     },
     {
       "name": "Microsoft Certified Technology Specialist: Dynamics CRM 2011 Customization and Configuration",
       "issuer": "Microsoft",
-      "date": "2013-12"
+      "date": "2013"
     }
   ],
-  "projects": [
-    {
-      "name": "Ferramenta de RPA Interna",
-      "description": "Desenvolvimento de uma ferramenta de RPA interna para a Algar Tech, utilizando C#, .NET Core e Selenium, para automatizar processos de backoffice e reduzir custos com licenciamento de ferramentas de RPA, atendendo um volume de aproximadamente 8 milhões de interações mensais.",
-      "highlights": [],
-      "keywords": [
-        "RPA",
-        "C#",
-        ".NET Core",
-        "Selenium",
-        "Automação de Processos"
-      ],
-      "url": ""
-    },
-    {
-      "name": "Revitalização do BackOffice",
-      "description": "Reestruturação completa do BackOffice da Algar Tech utilizando Dynamics 365, substituindo entidades personalizadas por entidades nativas da ferramenta para elevar a confiabilidade do produto e reduzir custos de melhorias futuras.",
-      "highlights": [],
-      "keywords": [
-        "Dynamics 365",
-        "BackOffice",
-        "Otimização de Processos",
-        "CRM"
-      ],
-      "url": ""
-    }
-  ],
+  "projects": [],
   "languages": [
     {
       "language": "Português",
-      "fluency": "Native"
+      "fluency": "Nativo"
     },
     {
       "language": "Inglês",
-      "fluency": "Advanced (B2 - Leitura e escrita)"
+      "fluency": "B2"
     }
   ],
   "interests": []

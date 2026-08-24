@@ -1,0 +1,260 @@
+{
+  "basics": {
+    "name": "Ricardo Martins",
+    "label": "Desenvolvedor .NET e Especialista em Moderniza\u00e7\u00e3o de Sistemas",
+    "email": "ricardo.parallax@gmail.com",
+    "phone": "(34) 98433-1954",
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "summary": "Profissional de TI com mais de 30 anos de experi\u00eancia, especializado em moderniza\u00e7\u00e3o de aplica\u00e7\u00f5es legadas e migra\u00e7\u00e3o para ambientes em nuvem. Experi\u00eancia s\u00f3lida em .NET, VB/VB.NET e Microsoft Access, com hist\u00f3rico comprovado de an\u00e1lise e transi\u00e7\u00e3o de sistemas legados para arquiteturas modernas baseadas em nuvem. Habilidade em comunica\u00e7\u00e3o e colabora\u00e7\u00e3o com clientes internacionais, garantindo solu\u00e7\u00f5es t\u00e9cnicas que atendem \u00e0s necessidades de neg\u00f3cios.",
+    "location": {
+      "city": "Uberl\u00e2ndia",
+      "countryCode": "BR",
+      "region": "MG"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "costaricardomartins",
+        "url": "https://www.linkedin.com/in/costaricardomartins/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "R238",
+      "position": "Founder - Desenvolvedor especialista em IA",
+      "location": "Remoto",
+      "startDate": "2022-04",
+      "endDate": "2026-04",
+      "highlights": [
+        "Desenhei e operei arquitetura serverless multi-Lambda em produ\u00e7\u00e3o.",
+        "Padronizei IAM com role compartilhada e pol\u00edticas de menor privil\u00e9gio.",
+        "Centralizei segredos em um \u00fanico AWS Secrets Manager.",
+        "Implementei Infraestrutura como C\u00f3digo com Terraform.",
+        "Automatizei deploy remoto via SSH."
+      ]
+    },
+    {
+      "name": "CAST Inform\u00e1tica SA",
+      "position": "Desenvolvedor .NET",
+      "location": "Presencial",
+      "startDate": "2014-04",
+      "endDate": "2015-08",
+      "highlights": [
+        "Migrei uma aplica\u00e7\u00e3o legada em VB.NET/Microsoft Access para C#, com migra\u00e7\u00e3o do banco de dados para Oracle, incluindo o levantamento da l\u00f3gica de neg\u00f3cio da aplica\u00e7\u00e3o original em VB/Access antes de reescrev\u00ea-la.",
+        "Desenvolvi projeto de permissionamento (autentica\u00e7\u00e3o/autoriza\u00e7\u00e3o) usando OAuth para os sistemas internos do \u00f3rg\u00e3o, com C# e Angular, banco de dados SQL Server.",
+        "Trabalhei com bancos Oracle e SQL Server no mesmo ambiente, incluindo consultas e modelagem de dados."
+      ]
+    },
+    {
+      "name": "Algar Tech",
+      "position": "Especialista Dynamics",
+      "location": "Uberl\u00e2ndia \u2013 MG",
+      "startDate": "2015-08",
+      "endDate": "2020-01",
+      "highlights": [
+        "Revitaliza\u00e7\u00e3o completa do BackOffice com Dynamics 365.",
+        "Desenvolvimento de ferramenta interna de RPA com .NET Core e Selenium."
+      ]
+    },
+    {
+      "name": "BlueCX",
+      "position": "Desenvolvedor Microsoft Dynamics",
+      "location": "",
+      "startDate": "2025-04",
+      "endDate": "2026-04",
+      "highlights": [
+        "Respons\u00e1vel por manter e evoluir todo o m\u00f3dulo de eventos de Marketing do Dynamics 365.",
+        "Automatizei a integra\u00e7\u00e3o do Dynamics com sistemas legados via API REST."
+      ]
+    },
+    {
+      "name": "NTT DATA Europe & Latam",
+      "position": "Arquiteto Microsoft Dynamics",
+      "location": "Remoto \u2013 Brasil",
+      "startDate": "2024-05",
+      "endDate": "2025-01",
+      "highlights": [
+        "Lideran\u00e7a de projetos de implementa\u00e7\u00e3o do Microsoft Dynamics 365.",
+        "Conduzi iniciativas de integra\u00e7\u00e3o com Azure, Power Platform e automa\u00e7\u00f5es via IA."
+      ]
+    },
+    {
+      "name": "Sistema Educacional Brasileiro S.A. (SEB)",
+      "position": "Arquiteto de Solu\u00e7\u00f5es Dynamics e Azure",
+      "location": "",
+      "startDate": "2022-06",
+      "endDate": "2023-09",
+      "highlights": [
+        "Reimplanta\u00e7\u00e3o do Microsoft Dynamics, reduzindo erros em Plugins e Flow.",
+        "Cria\u00e7\u00e3o de sistema de vendas de matr\u00edculas intuitivo."
+      ]
+    },
+    {
+      "name": "Adentis Portugal",
+      "position": "Microsoft Dynamics 365 Specialist and System Architect",
+      "location": "Portugal",
+      "startDate": "2020-01",
+      "endDate": "2022-05",
+      "highlights": [
+        "Desenvolvimento de novas funcionalidades e suporte em projetos em toda a Europa.",
+        "Cria\u00e7\u00e3o de app para leitura de notas fiscais f\u00edsicas usando Computer Vision."
+      ]
+    },
+    {
+      "name": "AlfaPeople",
+      "position": "Arquiteto .NET",
+      "location": "Presencial",
+      "startDate": "2013-02",
+      "endDate": "2014-04",
+      "highlights": [
+        "Desenvolvi projetos de integra\u00e7\u00e3o entre o Microsoft Dynamics 2011 e sistemas externos.",
+        "Desenvolvi um portal de atendimento ao Cliente acoplado ao Dynamics."
+      ]
+    },
+    {
+      "name": "L3 Inform\u00e1tica",
+      "position": "Arquiteto de Solu\u00e7\u00f5es",
+      "location": "Presencial",
+      "startDate": "2009-10",
+      "endDate": "2012-12",
+      "highlights": [
+        "Desenvolvi projetos de integra\u00e7\u00e3o entre o Microsoft Dynamics 2011 e sistemas externos."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anhanguera",
+      "area": "Ci\u00eancias de Dados",
+      "studyType": "Bacharelado",
+      "location": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "UFABC",
+      "area": "Engenharia em Gest\u00e3o de Projetos",
+      "studyType": "P\u00f3s-gradua\u00e7\u00e3o",
+      "location": "",
+      "startDate": "",
+      "endDate": "2015",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Linguagens de Programa\u00e7\u00e3o",
+      "keywords": [
+        "C# / .NET",
+        "VB/VB.NET",
+        "JavaScript",
+        "Python"
+      ]
+    },
+    {
+      "name": "Banco de Dados",
+      "keywords": [
+        "SQL Server",
+        "Oracle",
+        "PostgreSQL",
+        "DynamoDB"
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "keywords": [
+        "Azure Functions",
+        "Azure Logic Apps",
+        "Azure DevOps",
+        "AWS",
+        "Docker",
+        "Git / GitHub",
+        "CI/CD",
+        "TDD / BDD"
+      ]
+    },
+    {
+      "name": "CRM & Microsoft Ecosystem",
+      "keywords": [
+        "Microsoft Dynamics 365 (CRM/CE)",
+        "Power Platform",
+        "Power Automate",
+        "Power Apps",
+        "Power BI",
+        "Copilot Studio",
+        "Dynamics 365 Customer Insights",
+        "Dynamics 365 Customer Insights \u2013 Journeys"
+      ]
+    },
+    {
+      "name": "IA & Dados",
+      "keywords": [
+        "Machine Learning",
+        "IA Generativa",
+        "Agentes inteligentes",
+        "Azure AI Studio",
+        "Azure OpenAI Services",
+        "Azure Cognitive Services",
+        "Computer Vision",
+        "Azure DataLake",
+        "Azure DataFactory",
+        "Azure Databricks",
+        "Scikit-Learn",
+        "Pandas / NumPy"
+      ]
+    },
+    {
+      "name": "Ferramentas",
+      "keywords": [
+        "Visual Studio",
+        "Visual Studio Code",
+        "Selenium",
+        "Figma",
+        "Postman / Insomnia"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Power Platform Developer Associate",
+      "issuer": "Microsoft",
+      "date": "2025"
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+      "issuer": "Microsoft",
+      "date": "2025"
+    },
+    {
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)",
+      "issuer": "Microsoft",
+      "date": "2023"
+    },
+    {
+      "name": "Microsoft Certified: Power Platform Fundamentals (PL-900)",
+      "issuer": "Microsoft",
+      "date": "2023"
+    },
+    {
+      "name": "Microsoft Certified Technology Specialist: Dynamics CRM 2011 Customization and Configuration",
+      "issuer": "Microsoft",
+      "date": "2013"
+    }
+  ],
+  "projects": [],
+  "languages": [
+    {
+      "language": "Portugu\u00eas",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Ingl\u00eas",
+      "fluency": "B2"
+    }
+  ],
+  "interests": []
+}

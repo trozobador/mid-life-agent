@@ -1,0 +1,195 @@
+{
+  "basics": {
+    "name": "Ricardo Martins",
+    "label": "Analista de Sistemas Sênior",
+    "email": "ricardo.parallax@gmail.com",
+    "phone": "(34) 98433-1954",
+    "url": "https://www.linkedin.com/in/costaricardomartins/",
+    "summary": "Profissional de TI com mais de 30 anos de experiência em suporte e sustentação de aplicações em ambientes On-Premises e Cloud. Especializado em integração de tecnologias, automação de processos e modernização de infraestruturas tecnológicas. Comprometido com a entrega de soluções robustas e escaláveis que atendem às necessidades de negócio, alinhado aos valores de integridade, transparência e empatia.",
+    "location": {
+      "city": "Uberlândia",
+      "countryCode": "BR",
+      "region": "MG"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "costaricardomartins",
+        "url": "https://www.linkedin.com/in/costaricardomartins/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "R238",
+      "position": "Founder - Desenvolvedor especialista em IA",
+      "location": "Remoto",
+      "startDate": "2022-04",
+      "endDate": "2026-04",
+      "highlights": [
+        "Desenhei e operei arquitetura serverless multi-Lambda em produção, garantindo alta disponibilidade e escalabilidade.",
+        "Implementei pipeline de CI no GitHub Actions, otimizando o fluxo de desenvolvimento e integração contínua.",
+        "Automatizei deploy remoto via SSH, reduzindo o tempo de implantação e minimizando erros manuais.",
+        "Modelei e mantive schema em PostgreSQL para pipeline de ETL, assegurando a integridade e eficiência dos dados.",
+        "Operei S3 como data lake particionado por data, facilitando o acesso e análise de grandes volumes de dados.",
+        "Padronizei IAM com role compartilhada e políticas de menor privilégio.",
+        "Centralizei segredos em um único AWS Secrets Manager."
+      ]
+    },
+    {
+      "name": "BlueCX",
+      "position": "Desenvolvedor Microsoft Dynamics",
+      "location": "",
+      "startDate": "2025-04",
+      "endDate": "2026-04",
+      "highlights": [
+        "Liderei a implantação do Marketing de Evento no Dynamics 365, melhorando a eficiência das campanhas.",
+        "Automatizei a integração do Dynamics com sistemas legados via API REST, aumentando a interoperabilidade.",
+        "Treinei e mentorei 3 desenvolvedores backend, promovendo o desenvolvimento de habilidades técnicas na equipe.",
+        "Foco principal em Azure AI Service, Azure Cognitive Services, Power Platform, Azure DataFactory e Azure Databricks.",
+        "Atuei fortemente com C# e Python em análises e extração de dados, otimizando processos internos.",
+        "Responsável por manter e evoluir todo o módulo de eventos de Marketing do Dynamics 365."
+      ]
+    },
+    {
+      "name": "NTT DATA Europe & Latam",
+      "position": "Arquiteto Microsoft Dynamics",
+      "location": "Remoto – Brasil",
+      "startDate": "2024-05",
+      "endDate": "2025-01",
+      "highlights": [
+        "Liderança de projetos de implementação do Microsoft Dynamics 365, assegurando a entrega dentro do prazo e orçamento.",
+        "Conduzi iniciativas de integração com Azure, Power Platform e automações via IA, elevando a eficiência operacional.",
+        "Atuação ativa nos ritos do Scrum, promovendo práticas ágeis e colaborativas.",
+        "Responsável pelo desenvolvimento de softwares em JavaScript."
+      ]
+    },
+    {
+      "name": "Sistema Educacional Brasileiro S.A. (SEB)",
+      "position": "Arquiteto de Soluções Dynamics e Azure",
+      "location": "",
+      "startDate": "2022-06",
+      "endDate": "2023-09",
+      "highlights": [
+        "Reimplantação do Microsoft Dynamics 365, reduzindo significativamente os erros em Plugins e Flow.",
+        "Conduzi Code Review e ritos do Scrum, incluindo análise de performance da equipe de desenvolvimento.",
+        "Realizei provas de conceito de integrações e entrega de relatórios de acompanhamento para Stakeholders e OKRs.",
+        "Criei sistema de vendas de matrículas intuitivo, reduzindo a burocracia de contratação de Up Selling e eliminando a necessidade de os pais comparecerem à unidade escolar.",
+        "Negociei budget diretamente com stakeholders para garantir o andamento do projeto.",
+        "Atendi aproximadamente 18 unidades escolares, totalizando cerca de 8 mil alunos matriculados."
+      ]
+    },
+    {
+      "name": "Algar Tech",
+      "position": "Especialista Dynamics",
+      "location": "Uberlândia – MG",
+      "startDate": "2015-08",
+      "endDate": "2020-01",
+      "highlights": [
+        "Estabilizei o ambiente de Dynamics existente no Call Center do banco Bradesco, reduzindo erros e aumentando a produtividade das equipes de Backoffice.",
+        "Revitalização completa do BackOffice com Dynamics 365, substituindo entidades personalizadas por entidades nativas da ferramenta, o que elevou a confiabilidade do produto e reduziu o custo das melhorias seguintes.",
+        "Desenvolvi ferramenta interna de RPA com .NET Core e Selenium, atendendo mais de 8 milhões de interações/mês e eliminando o alto custo de licenciamento de ferramentas de RPA de mercado.",
+        "Desenvolvi customização padrão do Dynamics para uso em todas as operações internas da Algar, reduzindo custo e tempo de instalação.",
+        "Foco principal em Azure AI Service, Azure Cognitive Services, Power Platform, Azure DataFactory e Azure Databricks."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Anhanguera",
+      "area": "Ciências de Dados",
+      "studyType": "Bacharelado",
+      "location": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "UFABC",
+      "area": "Engenharia em Gestão de Projetos",
+      "studyType": "Pós-graduação",
+      "location": "",
+      "startDate": "",
+      "endDate": "2015",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Suporte e Sustentação de Aplicações",
+      "keywords": [
+        "On-Premises",
+        "Cloud",
+        "Azure",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Integração de Tecnologias",
+      "keywords": [
+        "Microsoft Dynamics 365",
+        "Power Platform",
+        "Azure AI Service"
+      ]
+    },
+    {
+      "name": "Automação de Processos",
+      "keywords": [
+        "CI/CD",
+        "GitHub Actions",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Linguagens de Programação",
+      "keywords": [
+        "C#",
+        "Python",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Banco de Dados",
+      "keywords": [
+        "PostgreSQL",
+        "DynamoDB",
+        "SQL Server"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Certified: Power Platform Developer Associate",
+      "issuer": "Microsoft",
+      "date": "2025"
+    },
+    {
+      "name": "Microsoft Certified: Azure AI Fundamentals (AI-900)",
+      "issuer": "Microsoft",
+      "date": "2025"
+    },
+    {
+      "name": "Microsoft Certified: Dynamics 365 Fundamentals (CRM) (MB-910)",
+      "issuer": "Microsoft",
+      "date": "2023"
+    },
+    {
+      "name": "Microsoft Certified: Power Platform Fundamentals (PL-900)",
+      "issuer": "Microsoft",
+      "date": "2023"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Português",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Inglês",
+      "fluency": "B2"
+    }
+  ],
+  "interests": []
+}
